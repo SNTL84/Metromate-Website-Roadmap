@@ -21,7 +21,7 @@
 
 <div align="center">
 
-![SNTL84 × MetroMate — B2B & B2C Lead Generation Services](./assets/SNTL84-MetroMate-umbrella-brand.jpg)
+![SNTL84 × MetroMate — B2B & B2C Lead Generation Services](https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/SNTL84-MetroMate-umbrella.jpg)
 
 > **MetroMate B2B & B2C Services** is now a proud part of **SNTL 84 Digital Marketing Services** — powering trade directory listing, business discoverability, quality lead generation, targeted outreach & growth.
 
@@ -89,6 +89,7 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 
 | Date | Update | Details |
 |---|---|---|
+| **27 May 2026** | 🖼️ Brand Image Fixed | SNTL84 × MetroMate brand image now displays correctly with clean filename |
 | **27 May 2026** | ✨ MetroMate Folder Added | B2B & B2C Lead Generation Services — location-based services, config & outreach |
 | **09 May 2026** | 📖 Backend Study README Updated | Added latest assets list and progress notes to `backend-architecture-study/` |
 | **08 May 2026** | 🗺️ Roadmap v3 Published | Interactive roadmap with dark mode, download PNG, and smooth navigation |
@@ -341,6 +342,6 @@ This project is licensed under the [MIT License](./LICENSE) — free to use, for
 [![MetroMate](https://img.shields.io/badge/MetroMate-B2B%20%26%20B2C-orange?style=for-the-badge)](./MetroMate/)
 [![Website](https://img.shields.io/badge/Website-desidevioper.com-FF6B6B?style=for-the-badge)](https://desidevioper.com)
 
-*Last Updated: May 2026 · Version 3.0 · Now featuring MetroMate B2B & B2C Services*
+*Last Updated: May 2026 · Version 3.1 · Brand image display fixed*
 
 </div>
