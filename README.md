@@ -10,9 +10,33 @@
 [![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen?style=for-the-badge)](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap)
 [![Community](https://img.shields.io/badge/Community-Tragad%20Soni-gold?style=for-the-badge)](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap)
 [![Phase](https://img.shields.io/badge/Current%20Phase-1%20Planning-yellow?style=for-the-badge)](./sprint-sheets/Phase1_Planning_Sprint.md)
+[![MetroMate](https://img.shields.io/badge/Partner-MetroMate%20B2B%20%26%20B2C-orange?style=for-the-badge)](./MetroMate/)
 [![Author](https://img.shields.io/badge/Author-SNTL84-blue?style=for-the-badge)](https://github.com/SNTL84)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)](./LICENSE)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact%20Now-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/919727413309)
+
+---
+
+## 🖼️ SNTL84 × MetroMate — Brand Overview
+
+<div align="center">
+
+![SNTL84 × MetroMate — B2B & B2C Lead Generation Services](./assets/SNTL84-MetroMate-umbrella-brand.jpg)
+
+> **MetroMate B2B & B2C Services** is now a proud part of **SNTL 84 Digital Marketing Services** — powering trade directory listing, business discoverability, quality lead generation, targeted outreach & growth.
+
+</div>
+
+### 🏢 SNTL84 Growth Engine Services
+
+| Service | Description |
+|---|---|
+| **Lead Generation** | Lead sourcing · Outreach · Qualification · Appointments · Pipeline building |
+| **Fulfillment** | Onboarding · Delivery · Automation · Customer success · Scaling operations |
+| **Bench Resources** | Skilled talent · Virtual assistants · Sales experts · Tech specialists · On-demand support |
+| **Automation** | Workflows · Integrations · AI agents · Automate · Accelerate |
+| **Systems** | Build · Optimize · Scale · Integrate · Dominate |
+| **Growth** | More leads · More clients · More sales · More profit · More freedom |
 
 ---
 
@@ -50,12 +74,27 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 | File / Folder | Type | Description | Status |
 |---|---|---|---|
 | [`Family-Reg-V1-Final.html`](./Family-Reg-V1-Final.html) | 📝 HTML | Live Family Registration Form — Head, Spouse, Children, Address, WhatsApp Submit | ✅ Live |
-| [`Tragad-Soni-Roadmap-v3.html`](./Tragad-Soni-Roadmap-v3.html) | 🗺️ HTML | Interactive HTML Roadmap — visual milestone tracker v3 | ✅ Live |
-| [`Tragad-Soni-Roadmap-v2.html`](./Tragad-Soni-Roadmap-v2.html) | 🗺️ HTML | Roadmap v2 (reference version) | 📦 Archive |
+| [`Tragad-Soni-Roadmap-v3.html`](./Tragad-Soni-Roadmap-v3.html) | 🗺️ HTML | Interactive HTML Roadmap v3 — dark mode, nav & download PNG | ✅ Live |
+| [`Tragad-Soni-Roadmap-v2.html`](./Tragad-Soni-Roadmap-v2.html) | 🗺️ HTML | Roadmap v2 — tabbed UI, interactive mindmap (reference version) | 📦 Archive |
 | [`Tragad_Soni_Website_Roadmap_Milan_SNTL84.xlsx`](./Tragad_Soni_Website_Roadmap_Milan_SNTL84.xlsx) | 📊 Excel | Full roadmap, feature planning & milestone tracker (14 sprint sub-sheets) | ✅ Active |
+| [`MetroMate/`](./MetroMate/) | 📁 Dir | **✨ NEW** MetroMate B2B & B2C Lead Generation — services config & location-based outreach | ✅ Live |
 | [`sprint-sheets/`](./sprint-sheets) | 📁 Dir | 14 individual sprint & section Markdown sheets | 🔄 Active |
 | [`backend-architecture-study/`](./backend-architecture-study) | 📁 Dir | Backend architecture research & tech stack documentation | 🔄 Active |
+| [`assets/`](./assets) | 📁 Dir | Brand images and visual assets | ✅ Active |
 | [`LICENSE`](./LICENSE) | 📜 | MIT License | ✅ |
+
+---
+
+## 🆕 Latest Updates — May 2026
+
+| Date | Update | Details |
+|---|---|---|
+| **27 May 2026** | ✨ MetroMate Folder Added | B2B & B2C Lead Generation Services — location-based services, config & outreach |
+| **09 May 2026** | 📖 Backend Study README Updated | Added latest assets list and progress notes to `backend-architecture-study/` |
+| **08 May 2026** | 🗺️ Roadmap v3 Published | Interactive roadmap with dark mode, download PNG, and smooth navigation |
+| **08 May 2026** | 🚀 README v2.0 Launch | Flagship upgrade: enriched roadmap, trade directory standards, international sections |
+| **06–07 May 2026** | 📋 All 14 Sprint Sheets Created | Phase Detail Tracker, Trade Directory, Matrimony, Healthcare, School, Study Alignment, Member Portal |
+| **07 May 2026** | 🗺️ Roadmap v2 Added | Tabbed UI with interactive mindmap + download functionality |
 
 ---
 
@@ -83,6 +122,37 @@ open Family-Reg-V1-Final.html
 ```
 
 > 💡 Or [**download the HTML file directly**](./Family-Reg-V1-Final.html) — works offline in any browser.
+
+---
+
+## 🏢 MetroMate — B2B & B2C Services (NEW ✨)
+
+**MetroMate is now a proud part of SNTL 84 Digital Marketing Services.** The [`MetroMate/`](./MetroMate/) folder contains all configuration and service delivery files for location-based B2B & B2C lead generation.
+
+### B2B Services
+- 📋 Business Listing & Profile Creation
+- ✅ Verified Business Promotion
+- 👥 Lead Generation for Businesses
+- 🎯 Targeted B2B Campaigns
+- 📈 Brand Visibility & Growth
+
+### B2C Services
+- 📍 Local Business Discoverability
+- 🛒 Product & Service Promotion
+- 💎 Quality Lead Generation
+- 📢 Customer Engagement Campaigns
+- 🌐 Better Reach, More Customers
+
+### Trade Directory Lead Generation
+| Service | What It Does |
+|---|---|
+| Trade Directory Listing | Get listed on high-quality directories for maximum visibility |
+| Business Discoverability | Make your business easy to find by the right audience |
+| Quality Lead Generation | Verified, relevant leads that convert |
+| Targeted Outreach | Strategic outreach connecting you with decision makers |
+| Grow Your Business | More leads · More opportunities · More growth |
+
+> 📁 **Explore:** [`MetroMate/`](./MetroMate/) · [`MetroMate/config/`](./MetroMate/config/) · [`MetroMate/services/`](./MetroMate/services/)
 
 ---
 
@@ -128,8 +198,6 @@ open Family-Reg-V1-Final.html
 
 ## 📋 Sprint Sub-Sheets — Direct Links
 
-Jump straight to any planning section without navigating the Excel file.
-
 ### 🛠️ Phase Sprints
 
 | # | Sprint Sheet | Description | Status |
@@ -158,9 +226,6 @@ Jump straight to any planning section without navigating the Excel file.
 
 ## 🌏 International Trade Directory Standards
 
-This platform is being designed to comply with global community business directory standards to ensure **international discoverability and trustworthiness**.
-
-### ✅ Compliance Targets
 | Standard | Scope | Status |
 |---|---|---|
 | ISO 3166-1 Country Codes | Member location tagging | ✅ Planned |
@@ -182,8 +247,6 @@ This platform is being designed to comply with global community business directo
 
 ## 🏪 Trade Directory Module Preview
 
-The **Business & Trade Directory** will serve as a living, verifiable goldsmith trade registry.
-
 ### Planned Listing Categories
 - 💎 Goldsmith & Jewellery Manufacturers
 - 🏭 Gold Refineries & Bullion Traders
@@ -200,8 +263,6 @@ The **Business & Trade Directory** will serve as a living, verifiable goldsmith 
 
 ## 📞 Contact & Collaboration
 
-### 🤝 Reach Out — At Any Project Stage
-
 | Purpose | Channel | Link |
 |---|---|---|
 | 💬 Quick Query / Collaboration | WhatsApp | [+91 97274 13309](https://wa.me/919727413309) |
@@ -211,8 +272,6 @@ The **Business & Trade Directory** will serve as a living, verifiable goldsmith 
 | 🐙 GitHub Profile | Code & Repos | [github.com/SNTL84](https://github.com/SNTL84) |
 | 🤖 AI Platform | Arratt.ai | [aratt.ai/user/@desidevloper](https://aratt.ai/user/@desidevloper) |
 
-### 📬 When To Reach Out
-
 | Stage | Best Channel |
 |---|---|
 | **I want to join the community platform** | [WhatsApp](https://wa.me/919727413309) |
@@ -220,14 +279,12 @@ The **Business & Trade Directory** will serve as a living, verifiable goldsmith 
 | **I'm a Tragad Soni business owner** | [Email](mailto:3goldenlotusroots@gmail.com) |
 | **Partnership / Sponsorship** | [LinkedIn](https://www.linkedin.com/in/sntl2784) → [Email](mailto:3goldenlotusroots@gmail.com) |
 | **Community event or Milan coordination** | [WhatsApp](https://wa.me/919727413309) |
+| **MetroMate B2B / B2C Inquiry** | [WhatsApp](https://wa.me/919727413309) or [Email](mailto:3goldenlotusroots@gmail.com) |
 
 ---
 
 ## 🤝 Contributing
 
-This is a **community-driven, open-source project**. Contributions are welcome from developers, designers, community members, and Tragad Soni diaspora worldwide.
-
-### How to Contribute
 ```bash
 # 1. Fork this repository
 # 2. Create your feature branch
@@ -247,8 +304,6 @@ git push origin feature/your-contribution
 - 🌐 Gujarati/Hindi translations
 - 📊 Community data research & trade directory enrichment
 - 🧪 Testing & QA feedback
-
-> 📌 **Before contributing**, please read the sprint sheet relevant to your area and open an Issue to discuss your idea.
 
 ---
 
@@ -283,8 +338,9 @@ This project is licensed under the [MIT License](./LICENSE) — free to use, for
 
 [![Reach Us](https://img.shields.io/badge/💬%20Reach%20Us-WhatsApp-25D366?style=for-the-badge)](https://wa.me/919727413309)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SNTL2784-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sntl2784)
+[![MetroMate](https://img.shields.io/badge/MetroMate-B2B%20%26%20B2C-orange?style=for-the-badge)](./MetroMate/)
 [![Website](https://img.shields.io/badge/Website-desidevioper.com-FF6B6B?style=for-the-badge)](https://desidevioper.com)
 
-*Last Updated: May 2026 · Version 2.0*
+*Last Updated: May 2026 · Version 3.0 · Now featuring MetroMate B2B & B2C Services*
 
 </div>
