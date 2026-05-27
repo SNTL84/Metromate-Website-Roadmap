@@ -1,0 +1,87 @@
+{
+  "_comment": "MetroMate Location Trigger Rules — defines how services are pushed based on member location & profile type",
+  "version": "1.0.0",
+  "last_updated": "2026-05-27",
+  "module": "MetroMate",
+
+  "metro_zones": [
+    {
+      "zone_id": "GJ-SRT",
+      "zone_name": "Surat Metro",
+      "cities": ["Surat", "Bardoli", "Navsari", "Vyara"],
+      "state": "Gujarat"
+    },
+    {
+      "zone_id": "GJ-AMD",
+      "zone_name": "Ahmedabad Metro",
+      "cities": ["Ahmedabad", "Gandhinagar", "Mehsana", "Anand"],
+      "state": "Gujarat"
+    },
+    {
+      "zone_id": "MH-MUM",
+      "zone_name": "Mumbai Metro",
+      "cities": ["Mumbai", "Navi Mumbai", "Thane", "Vasai-Virar"],
+      "state": "Maharashtra"
+    },
+    {
+      "zone_id": "MH-PNE",
+      "zone_name": "Pune Metro",
+      "cities": ["Pune", "Pimpri-Chinchwad", "Lonavala"],
+      "state": "Maharashtra"
+    },
+    {
+      "zone_id": "RJ-JPR",
+      "zone_name": "Jaipur Metro",
+      "cities": ["Jaipur", "Ajmer", "Bhilwara"],
+      "state": "Rajasthan"
+    },
+    {
+      "zone_id": "DL-NCR",
+      "zone_name": "Delhi NCR",
+      "cities": ["Delhi", "Noida", "Gurgaon", "Faridabad", "Ghaziabad"],
+      "state": "Delhi/NCR"
+    }
+  ],
+
+  "service_push_rules": [
+    {
+      "rule_id": "R001",
+      "service": "B2B-Lead-Generation",
+      "trigger": "profile_type == 'business' OR profile_type == 'trade'",
+      "location_match": "metro_zone",
+      "fallback": "state_level",
+      "delivery_channels": ["dashboard", "whatsapp", "sms"],
+      "active": true
+    },
+    {
+      "rule_id": "R002",
+      "service": "B2C-Lead-Generation",
+      "trigger": "profile_type == 'family' OR profile_type == 'individual'",
+      "location_match": "city",
+      "fallback": "metro_zone",
+      "delivery_channels": ["dashboard", "whatsapp"],
+      "active": true
+    },
+    {
+      "rule_id": "R003",
+      "service": "Event-Vendor-Matching",
+      "trigger": "upcoming_events != null AND profile_type == 'family'",
+      "location_match": "metro_zone",
+      "fallback": "state_level",
+      "delivery_channels": ["dashboard", "whatsapp"],
+      "active": true
+    },
+    {
+      "rule_id": "R004",
+      "service": "Trade-Lead-Alerts",
+      "trigger": "profile_type == 'business' AND business_category != null",
+      "location_match": "metro_zone",
+      "fallback": "national",
+      "delivery_channels": ["dashboard", "email", "whatsapp"],
+      "frequency": "weekly",
+      "active": true
+    }
+  ],
+
+  "pincode_to_zone_mapping_note": "Full pincode-to-zone mapping table to be maintained in a separate DB/sheet. Use this config for rule logic only."
+}
