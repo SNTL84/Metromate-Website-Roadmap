@@ -1,291 +1,173 @@
-# 🏙️ MetroMate — Trade Generation Platform
+# 🏙️ MetroMate — Your City's Service Marketplace
 
-> **One Call. All Solutions.** — A full-spectrum B2B & B2C trade generation, lead intelligence, and supplier onboarding platform powered by SNTL 84.
-
-[![Platform](https://img.shields.io/badge/Platform-MetroMate-gold?style=for-the-badge)](https://desidevioper.com)
-[![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen?style=for-the-badge)]()
-[![Stack](https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JS%20%7C%20n8n-blue?style=for-the-badge)]()
-[![License](https://img.shields.io/badge/License-Private-red?style=for-the-badge)]()
+> **Automate What's Costing You Money**
+> MetroMate connects homes and businesses with trusted local service providers across 200+ categories — from IT & AI to plumbing, healthcare, travel, and beyond.
 
 ---
 
-## 🔍 What Is MetroMate?
+## 📋 B2C SERVICES (Consumer)
 
-**MetroMate** is the **trade generation and supplier activation engine** of the Tragad Soni ecosystem. It connects **suppliers, vendors, and service providers** with hyper-local and regional B2B/B2C demand — powered by structured onboarding, smart location matching, and AI-driven lead routing.
-
-MetroMate is built to serve businesses across:
-- **Gujarat** (Surat, Ahmedabad, Vadodara, Rajkot)
-- **Pan India** coverage
-- **International** trade connections
-
-> **For Developers:** This folder contains the supplier-facing onboarding module, service specs, integration configs, and automation blueprints. Every file here is production-relevant — read before you build.
-
----
-
-## 🚀 Platform Purpose
-
-MetroMate solves three core trade problems:
-
-| Problem | MetroMate Solution |
-|---|---|
-| Suppliers can't find qualified buyers | Smart B2B lead matching by category + zone |
-| Buyers can't find verified local vendors | Curated trade directory with placement services |
-| Manual follow-up kills conversion | AI automation workflows (n8n) for lead nurturing |
+| # | Category | Sub-Categories |
+|---|----------|----------------|
+| 1 | Doctor On Call | General Physician, Home Visit Doctor |
+| 2 | Nursing Staff | Home Nurse, Elderly Care |
+| 3 | Pharmacy | Prescription Medicines, OTC Medicines |
+| 4 | Beautician Services | Home Service, Bridal Makeup |
+| 5 | Salon Services | Haircut, Hair Treatment |
+| 6 | Grooming Services | Men's Grooming, Women's Grooming |
+| 7 | Ladies Dresses | Ethnic Wear, Western Wear |
+| 8 | Saree Seller | Silk Saree, Designer Saree |
+| 9 | Tiffin Services | Daily Tiffin, Corporate Tiffin |
 
 ---
 
-## 🗂️ Module Structure
+## 🏢 B2B SERVICES (Business)
+
+| # | Category | Sub-Categories |
+|---|----------|----------------|
+| 1 | Network Setup | Office LAN Setup, WiFi Networking |
+| 2 | Cloud Services | Cloud Backup, Cloud Storage |
+| 3 | Software Development | CRM Development, Custom Software, Full-Stack Builds |
+| 4 | Website Development | Business Website, E-commerce Website |
+| 5 | IT Staffing | Software Developers, Support Engineers |
+| 6 | Digital Marketing | Social Media Marketing, Performance Marketing |
+| 7 | IT Recruitment | Developers Hiring, QA Hiring |
+| 8 | Non-IT Recruitment | Sales Hiring, Admin Hiring |
+| 9 | Temporary Staffing | Event Staff, Contract Staff |
+| 10 | Permanent Staffing | Full-Time Hiring, Executive Search |
+| 11 | Corporate Gifting | Employee Gifts, Festival Hampers |
+| 12 | Real Estate Consultant | Property Purchase, Property Rental |
+| 13 | Income Tax Consultant | ITR Filing, Tax Planning |
+| 14 | GST Registration | New GST Registration, GST Amendment |
+| 15 | GST Filing | Monthly Filing, Annual Return |
+| 16 | Corporate Security Guard | Office Security, Factory Security |
+| 17 | Residential Security Guard | Society Security, Gated Community Security |
+| 18 | Physical Marketing | Pamphlet Distribution, Stall Promotion |
+| 19 | Growth Marketing | Customer Acquisition, Retention Campaigns |
+| 20 | Supply Chain BI | Supply Chain Business Intelligence |
+
+---
+
+## 🔁 B2B + B2C SERVICES (Both)
+
+| # | Category | Sub-Categories |
+|---|----------|----------------|
+| 1 | Laptop & Computer Sales | Business Laptop, Desktop Computer |
+| 2 | Computer Accessories | Keyboard & Mouse, Monitor |
+| 3 | Router Installation | WiFi Router Setup, Signal Optimization |
+| 4 | Switch & Hub Services | Managed Switch, Network Rack Setup |
+| 5 | CCTV Installation | IP Camera Setup, DVR/NVR Installation |
+| 6 | Surveillance Systems | Remote Monitoring, Security Recording |
+| 7 | AI Automation | Chatbot Automation, Workflow Automation, Lead Generation Automation, Fulfillment Automation, AI Workflows, Agentic AI Workflow |
+| 8 | Interior Design | Office Interior, Home Interior |
+| 9 | Furniture Services | Office Furniture, Modular Furniture |
+| 10 | Carpenter | Furniture Repair, Custom Furniture |
+| 11 | Fabrication | MS Fabrication, SS Fabrication |
+| 12 | Plumbing | Leakage Repair, Pipeline Installation |
+| 13 | Electrician | Wiring Repair, New Electrical Setup |
+| 14 | Water Tank Cleaning | Underground Tank Cleaning, Overhead Tank Cleaning |
+| 15 | Water Motor Installation | Borewell Pump Installation, Booster Pump Setup |
+| 16 | Water Motor Repair | Pump Repair, Motor Rewinding |
+| 17 | RO Installation | Home RO Setup, Commercial RO Setup |
+| 18 | Water Filter Services | Filter Replacement, RO Maintenance |
+| 19 | Two Wheeler Sales | New Bike, Electric Scooter |
+| 20 | Two Wheeler Repair | Engine Repair, Breakdown Assistance |
+| 21 | Two Wheeler Service | General Service, Oil Change |
+| 22 | Four Wheeler Sales | New Car, Commercial Vehicle |
+| 23 | Four Wheeler Repair | Engine Work, Accident Repair |
+| 24 | Four Wheeler Service | Routine Service, Wheel Alignment |
+| 25 | Auto Spare Parts | Battery, Tyres |
+| 26 | Co-working Office Provider | Dedicated Desk, Private Cabin |
+| 27 | Medical Delivery | Medicine Delivery, Lab Sample Pickup |
+| 28 | Home Healthcare | Patient Care, Physiotherapy |
+| 29 | Mutual Fund Advisor | SIP Planning, Wealth Planning |
+| 30 | Stock Portfolio Manager | Portfolio Review, Investment Advisory |
+| 31 | Health Insurance | Individual Policy, Family Floater |
+| 32 | Life Insurance | Term Plan, Investment Plan |
+| 33 | Gold Jewellery | Gold Chain, Gold Ring |
+| 34 | Silver Jewellery | Silver Coin, Silver Articles |
+| 35 | Diamond Jewellery | Diamond Ring, Diamond Necklace |
+| 36 | Gems & Jewellery | Precious Stones, Customized Jewellery |
+| 37 | Mobile Sales | Smartphone, Business Mobile |
+| 38 | Mobile Accessories | Charger, Earbuds |
+| 39 | Grocery Delivery | Monthly Grocery, Express Delivery |
+| 40 | Newspaper Subscription | Daily Newspaper, Business Newspaper |
+| 41 | School Stationery | Notebooks, School Kits |
+| 42 | Office Stationery | Printer Paper, Office Supplies |
+| 43 | Photocopy Services | Xerox, Document Printing |
+| 44 | Cook On Call | Home Cook, Event Cook |
+| 45 | Dining Hall Services | Marriage Function, Corporate Event |
+| 46 | Fresh Fruit Supplier | Seasonal Fruits, Bulk Supply |
+| 47 | Fresh Vegetable Supplier | Daily Supply, Bulk Supply |
+| 48 | Security Manpower Agency | Guard Deployment, Bouncer Services |
+| 49 | Private Tuition | One-to-One Tuition, Home Tuition |
+| 50 | Group Tuition | School Subjects, Competitive Exams |
+| 51 | Playgroup | Early Learning, Activity Classes |
+| 52 | Daycare Services | Full Day Care, After School Care |
+| 53 | SEO | Local SEO, Website SEO |
+| 54 | Meta Ads | Facebook Ads, Instagram Ads |
+| 55 | Lead Generation | B2B Leads, Qualified Appointments |
+| 56 | Bench Resources | Contract Developers, Project Consultants |
+| 57 | Virtual Assistants | Administrative Support, Customer Support |
+| 58 | Flight Ticket Booking | Domestic Flights, International Flights |
+| 59 | Train Ticket Booking | Confirm Ticket, Tatkal Booking |
+| 60 | Bus Ticket Booking | Sleeper Bus, Luxury Coach |
+| 61 | Vehicle Rental | Self Drive Car, Chauffeur Driven Car |
+| 62 | Local Transport | Cab Service, Goods Transport |
+| 63 | Travel Planning | Holiday Package, Corporate Travel |
+| 64 | Hardware Supplier | Construction Hardware, Industrial Hardware |
+| 65 | Stainless Steel Supplier | SS Sheets, SS Pipes |
+| 66 | Restaurant Equipment Supplier | Kitchen Equipment, Refrigeration Equipment |
+| 67 | Commercial Material Supplier | Packaging Material, Industrial Supplies |
+| 68 | Solar Panel Installation | Residential Solar, Commercial Solar |
+| 69 | Movers & Packers | Home Relocation, Office Relocation |
+| 70 | Others | Custom Requirement, Specialized Service |
+
+---
+
+## 📊 Service Statistics
+
+| Metric | Count |
+|--------|-------|
+| Total Service Entries | 203 |
+| B2C Only Services | 9 categories |
+| B2B Only Services | 20 categories |
+| B2B + B2C Shared | 70+ categories |
+| Total Unique Categories | 99+ |
+
+---
+
+## 📁 Repository Structure
 
 ```
 MetroMate/
-├── README.md                                   ← You are here — start reading
-├── MetroMate_Supplier_Registration_Form.html   ← Live supplier onboarding form (dark UI)
-├── services/
-│   ├── B2B-Lead-Generation.md                  ← B2B lead service spec & delivery rules
-│   └── B2C-Lead-Generation.md                  ← B2C consumer lead pipeline spec
-└── config/
-    └── location-trigger-rules.json             ← Location → service routing logic
+├── README.md                              # This file
+├── MetroMate_Supplier_Registration_Form.html
+├── config/                                # Configuration files
+├── services/                              # Service definitions
+│   └── MetroMate_services_v4.csv          # Full service master list
+└── ...
 ```
 
 ---
 
-## 📋 Supplier Registration Form
+## 🤝 Built By
 
-**File:** `MetroMate_Supplier_Registration_Form.html`
+**SNTL 84** | Agentic AI Workflow Professional
 
-A production-ready, fully responsive **dark-mode HTML form** for onboarding suppliers and service providers into the MetroMate trade network.
+> *Lead Generation, Fulfillment Automation, Bench Resource Availability, Full-Stack Builds, AI Workflows, and Supply Chain Business Intelligence.*
 
-### Form Sections & Fields
+🚀 Follow for practical AI automation insights & founder systems.
 
-| Section | Fields Captured | Purpose |
-|---|---|---|
-| **Business Owner Info** | Full Name, Firm Name, Primary Contact, Phone, Alt Contact, Email | Identity & communication |
-| **Business Details** | Address, Google Maps Link, Social Links | Location & digital presence |
-| **Category Selection** | Primary Category (dropdown), Other description | Lead routing by trade type |
-| **Business Description** | Rich text description | Profile quality, SEO indexing |
-| **Service Coverage Area** | Surat / Ahmedabad / Vadodara / Rajkot / Gujarat / Pan India / International | Geographic lead targeting |
-| **Lead Generation Intent** | Yes / No radio | Opt-in for lead pipeline activation |
-| **Additional Services** | Lead Gen, Digital Marketing, SEO, Meta Ads, AI Automation, Web Dev, Software Dev, Trade Directory, Placement, Fulfillment, Business Consulting | Upsell + service activation |
-| **Comments / Notes** | Free-text | Supplier-specific requirements |
-| **Declaration** | Checkbox agreement | Legal consent for SNTL 84 partnership |
-
-### Tech Stack — Form
-
-```
-Frontend:   HTML5, CSS3 (custom design tokens, dark theme)
-Fonts:      Syne (display) + DM Sans (body) via Google Fonts
-Theme:      Deep navy (#070b14) + Gold accent (#f5a623) + Blue CTAs (#1a8cff)
-UX:         Responsive (mobile-first), animated modal confirmation, character counters
-State:      Pure JS — no framework dependency, no localStorage (sandbox-safe)
-Images:     Base64-encoded hero banners (no external CDN dependency)
-```
-
-### ⚠️ Backend Integration — TODO for Developers
-
-The form currently shows a **client-side success modal** only. The following backend connections are **pending implementation**:
-
-```
-[ ] POST handler → Google Sheets (via Apps Script webhook or n8n HTTP node)
-[ ] Email notification → Supplier welcome email (SMTP / SendGrid / Resend)
-[ ] CRM entry → Airtable / Notion / custom DB
-[ ] Lead engine trigger → Auto-enroll in MetroMate lead pipeline
-[ ] WhatsApp confirmation → wa.me API or Wati integration
-[ ] Admin dashboard alert → Internal Slack/WhatsApp webhook
-```
-
-**Recommended integration pattern (n8n):**
-```
-Form Submit → n8n Webhook → [Google Sheets write] + [Email send] + [WhatsApp notify] + [CRM entry]
-```
-
-> **Backend Dev Note:** Look for the `<form>` element and attach your `action` endpoint or use `fetch()` in the existing JS submit handler. The form data is structured with named inputs — all field `id` values match the data schema below.
-
-### Form Field Schema (for API / DB mapping)
-
-```json
-{
-  "full_name":         "string",
-  "firm_name":         "string",
-  "primary_contact":   "string",
-  "business_phone":    "string (tel)",
-  "alt_contact":       "string",
-  "email":             "string (email)",
-  "biz_address":       "string",
-  "map_link":          "string (URL)",
-  "social_links":      "string",
-  "primary_category":  "string (dropdown)",
-  "others_desc":       "string",
-  "biz_desc":          "string (textarea, max 600 chars)",
-  "coverage_areas":    ["Surat","Ahmedabad","Vadodara","Rajkot","Gujarat","Pan India","International","Other"],
-  "wants_leads":       "boolean (yes/no radio)",
-  "services_selected": ["Lead Generation","Digital Marketing","SEO","Meta Ads","AI Automation","Website Development","Software Development","Trade Directory Listing","Placement Services","Fulfillment Services","Business Consulting"],
-  "comments":          "string (textarea, max 400 chars)",
-  "declaration":       "boolean (checkbox)"
-}
-```
+| Channel | Link |
+|---------|------|
+| 🌐 Website | [desidevloper.com](https://desidevioper.com) |
+| 💬 WhatsApp | [wa.me/919727413309](https://wa.me/919727413309) |
+| 🔗 LinkedIn | [linkedin.com/in/sntl2784](https://www.linkedin.com/in/sntl2784) |
+| 💻 GitHub | [github.com/SNTL84](https://github.com/SNTL84) |
+| 📸 Instagram | [@desibiztrade](https://www.instagram.com/desibiztrade) |
+| 🔴 YouTube | [@SNTL84](https://www.youtube.com/@SNTL84) |
 
 ---
 
-## 🏗️ Services Architecture
-
-### B2B Lead Generation
-- **Target:** Business owners, wholesalers, distributors, manufacturers
-- **Trigger:** On supplier registration with business category + coverage area selected
-- **Delivery:** Matched leads pushed via dashboard / WhatsApp / email
-- **Spec file:** `services/B2B-Lead-Generation.md`
-
-### B2C Lead Generation
-- **Target:** End consumers, families, individual buyers
-- **Trigger:** On member registration with location pin
-- **Delivery:** Filtered consumer demand routed to relevant suppliers by category
-- **Spec file:** `services/B2C-Lead-Generation.md`
-
-### Additional Trade Services
-
-| Service | Description | Dev Integration |
-|---|---|---|
-| **Digital Marketing** | Social media management, content, growth | External agency API / CRM flag |
-| **SEO** | On-page + local SEO for supplier listings | Google Search Console integration |
-| **Meta Ads** | Facebook/Instagram paid lead campaigns | Meta Business API |
-| **AI Automation** | n8n workflows for follow-up, routing, notifications | n8n webhook endpoint |
-| **Website Development** | Supplier microsite or portfolio page | GitHub repo trigger / Vercel deploy |
-| **Software Development** | Custom tools, portals, dashboards | Project scoping form |
-| **Trade Directory Listing** | Verified business listing in MetroMate directory | DB entry + public profile URL |
-| **Placement Services** | Job/vendor placement within the SNTL 84 network | Separate placement pipeline |
-| **Fulfillment Services** | Order fulfillment, logistics, last-mile | Logistics API integration |
-| **Business Consulting** | Strategy, market entry, growth planning | Calendar booking integration |
-
----
-
-## 🔁 Location-Based Lead Routing
-
-MetroMate's core intelligence is **geographic lead matching**. The routing config lives in `config/location-trigger-rules.json`.
-
-**How it works:**
-```
-Supplier registers → Coverage area selected → Lead engine tags supplier zone
-→ Incoming buyer requests matched to supplier zone + category
-→ Lead delivered via preferred channel (WhatsApp / email / dashboard)
-```
-
-**Coverage zones:**
-
-| Zone ID | Market | Lead Volume | Focus Sector |
-|---|---|---|---|
-| `SURAT` | Primary metro | Highest | Textile, FMCG, Trade |
-| `AHMEDABAD` | Secondary metro | High | FMCG, Pharma, Retail |
-| `VADODARA` | Industrial zone | Medium | Manufacturing, Engineering |
-| `RAJKOT` | SME cluster | Medium | Engineering, Auto parts |
-| `GUJARAT` | Statewide | Broad | All categories |
-| `PAN_INDIA` | National | Trade directory | Export/Import, B2B |
-| `INTERNATIONAL` | Global | Export leads | Specialized trade |
-
----
-
-## 🔗 Platform Integration Points
-
-```
-Tragad Soni Main Platform
-        │
-        ├── Family Registration Form     → captures member location + profile
-        │
-        └── MetroMate Module
-                │
-                ├── Supplier Reg Form    → MetroMate_Supplier_Registration_Form.html
-                ├── Location Engine      → config/location-trigger-rules.json
-                ├── Lead Matching DB     → Airtable / Google Sheets / custom DB
-                ├── n8n Automation       → webhook-based lead delivery & nurturing
-                ├── WhatsApp Notify      → wa.me/919727413309
-                └── Admin Dashboard      → internal review + approval queue
-```
-
----
-
-## 👩‍💻 Developer Guide
-
-### For Frontend Developers
-
-1. **Form styling** — All CSS lives inside the `<style>` block in the HTML. Design tokens are at `:root`. Modify colors via CSS variables only — never hardcode hex values.
-2. **Adding new fields** — Use the `.q-card` + `.q-label` pattern. Required fields get `<span class="req">*</span>`.
-3. **Responsive breakpoints** — Form is mobile-first. Main breakpoint at `520px`. Test at `375px` (iPhone SE) and `768px` (tablet).
-4. **Validation** — Currently HTML5 `required` + basic JS. Upgrade to real-time inline validation using `--green` (#28c97a) for success and `#ff5c5c` for error states (already in design tokens).
-5. **Success modal** — `.modal-overlay` + `.modal-card` — triggers `submitForm()` on button click. Currently shows static content. Connect to actual backend submission response.
-6. **Character counters** — `.q-counter` spans exist on textarea fields. Wire up `input` event listeners to update counts dynamically.
-
-### For Backend Developers
-
-1. **Endpoint setup** — Add `action="YOUR_ENDPOINT" method="POST"` to the `<form>` tag, or intercept in the existing JS `submitForm()` function using `fetch()`.
-2. **Data format** — All field `name` attributes match the JSON schema keys above. Collect as `FormData` or JSON body.
-3. **n8n integration** — Create an n8n **Webhook** node → Parse JSON body → Fan out to:
-   - Google Sheets node (write row)
-   - Gmail / Resend node (supplier welcome email)
-   - HTTP Request node (WhatsApp via Wati/Interakt)
-   - Airtable node (CRM entry)
-4. **Google Sheets MVP** — Use Apps Script `doPost(e)` as a simple webhook. Sheet columns must match the field schema exactly.
-5. **WhatsApp confirmation** — Send a welcome message to `business_phone` via Wati, Interakt, or the official `wa.me` click-to-chat link.
-6. **Lead engine trigger** — After saving the supplier record, fire a secondary internal webhook to enroll the supplier in the correct lead bucket (by `primary_category` + `coverage_areas`).
-
-### Environment & Deployment
-
-```
-Current hosting:  Static HTML — works on any static host
-Recommended:      Vercel / Hostinger / GitHub Pages
-Backend:          n8n (self-hosted or n8n.cloud) for automation
-Database MVP:     Google Sheets
-Database Scale:   Airtable → Supabase → Custom API
-Auth:             Not required for public registration form
-```
-
----
-
-## 📊 Metrics & KPIs to Track
-
-| Metric | Target | Tracking Method |
-|---|---|---|
-| Form completion rate | > 70% | Google Analytics / Hotjar |
-| Supplier registrations / month | 50+ (Phase 1) | Google Sheets row count |
-| Lead delivery rate | > 90% | n8n execution logs |
-| Supplier lead activation rate | > 60% | CRM tag tracking |
-| WhatsApp response rate | > 40% | Wati / Interakt dashboard |
-| Coverage zone distribution | Balanced across Gujarat | Sheets pivot table |
-| Service upsell conversion | > 25% | CRM pipeline stage |
-
----
-
-## 📌 Repository Topics
-
-> These GitHub topics are set on this repo for discoverability by developers and trade platform contributors:
-
-`trade-generation` · `lead-generation` · `b2b` · `b2c` · `supplier-onboarding` · `metromate` · `sntl84` · `gujarat` · `surat` · `fmcg` · `automation` · `n8n` · `google-sheets` · `html5` · `dark-theme` · `whatsapp-business` · `tragad-soni`
-
----
-
-## 📅 Roadmap — MetroMate Phase Plan
-
-| Phase | Milestone | Status |
-|---|---|---|
-| **Phase 1** | Supplier Registration Form (HTML, dark UI) | ✅ Complete |
-| **Phase 2** | Backend webhook + Google Sheets integration | 🔄 In Progress |
-| **Phase 3** | n8n automation (email + WhatsApp on submit) | 📋 Planned |
-| **Phase 4** | Supplier dashboard (view + manage leads) | 📋 Planned |
-| **Phase 5** | Location-based lead matching engine | 📋 Planned |
-| **Phase 6** | Trade directory (public supplier listing page) | 📋 Planned |
-| **Phase 7** | Payment integration (service plan activation) | 📋 Planned |
-| **Phase 8** | AI lead scoring + auto-routing | 📋 Planned |
-
----
-
-## 🧑‍🤝‍🧑 Team & Contacts
-
-| Role | Contact |
-|---|---|
-| **Project Owner / SNTL 84** | [WhatsApp: +91 97274 13309](https://wa.me/919727413309) |
-| **GitHub Repository** | [SNTL84 / Tragad-Soni-Website-Roadmap](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap) |
-| **Developer Website** | [desidevioper.com](https://desidevioper.com) |
-| **LinkedIn** | [linkedin.com/in/sntl2784](https://www.linkedin.com/in/sntl2784) |
-| **Email** | 3goldenlotusroots@gmail.com |
-| **Aratt Profile** | [aratt.ai/user/@desidevloper](https://aratt.ai/user/@desidevloper) |
-
----
-
-*Module maintained by SNTL 84 | Tragad Soni Platform Roadmap | MetroMate Trade Generation Engine*
+*© SNTL 84 — MetroMate Platform. All rights reserved.*
