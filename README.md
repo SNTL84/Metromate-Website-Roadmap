@@ -2,15 +2,16 @@
 ### Official Digital Roadmap · Family Registry · Business Directory · Lineage System
 
 > **🌐 Live Project | Community-First | Est. 2024 | Surat, Gujarat, India**
-> 
+>
 > *Preserving Roots · Connecting the Tragad Soni Goldsmith Community Globally · Building the Future Together*
 
 ---
 
 [![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen?style=for-the-badge)](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap)
 [![Community](https://img.shields.io/badge/Community-Tragad%20Soni-gold?style=for-the-badge)](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap)
-[![Phase](https://img.shields.io/badge/Current%20Phase-1%20Planning-yellow?style=for-the-badge)](./sprint-sheets/Phase1_Planning_Sprint.md)
+[![Phase](https://img.shields.io/badge/Current%20Phase-1%20Planning%2075%25-yellow?style=for-the-badge)](./sprint-sheets/Phase1_Planning_Sprint.md)
 [![MetroMate](https://img.shields.io/badge/Partner-MetroMate%20B2B%20%26%20B2C-orange?style=for-the-badge)](./MetroMate/)
+[![Services](https://img.shields.io/badge/MetroMate%20Services-203%20Listed-blue?style=for-the-badge)](./MetroMate/services/MetroMate_services_v4.csv)
 [![Author](https://img.shields.io/badge/Author-SNTL84-blue?style=for-the-badge)](https://github.com/SNTL84)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)](./LICENSE)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact%20Now-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/919727413309)
@@ -33,9 +34,9 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Lead-Generation-Service-Provider.jpg" alt="MetroMate — One Call All Solutions, 80+ Services" width="800" />
+<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Lead-Generation-Service-Provider.jpg" alt="MetroMate — One Call All Solutions, 203 Services" width="800" />
 
-> **MetroMate · One Call. All Solutions.** — 80+ services across Residential, Commercial & Corporate segments. Trusted professionals, 24×7 support, affordable & transparent pricing.
+> **MetroMate · One Call. All Solutions.** — 203 services across Residential, Commercial & Corporate segments. Trusted professionals, 24×7 support, affordable & transparent pricing.
 
 <br />
 
@@ -45,16 +46,33 @@
 
 </div>
 
-### 🏢 SNTL84 Growth Engine Services
+---
 
-| Service | Description |
+## 🧠 SNTL 84 — Agentic AI Workflow Professional
+
+> **Automate What's Costing You Money**
+
+| Service Pillar | What We Deliver |
 |---|---|
-| **Lead Generation** | Lead sourcing · Outreach · Qualification · Appointments · Pipeline building |
-| **Fulfillment** | Onboarding · Delivery · Automation · Customer success · Scaling operations |
-| **Bench Resources** | Skilled talent · Virtual assistants · Sales experts · Tech specialists · On-demand support |
-| **Automation** | Workflows · Integrations · AI agents · Automate · Accelerate |
-| **Systems** | Build · Optimize · Scale · Integrate · Dominate |
-| **Growth** | More leads · More clients · More sales · More profit · More freedom |
+| **MetroMate B2C SERVICES** | Home services · Repairs · Healthcare · Retail · Lifestyle |
+| **MetroMate B2B SERVICES** | IT · Staffing · Legal · Digital Marketing · Supply Chain |
+| **Lead Generation** | Lead sourcing · Qualification · Appointments · Pipeline building |
+| **Fulfillment Automation** | Onboarding · Delivery workflows · Customer success · Scaling |
+| **Bench Resource Availability** | On-demand talent · Contract developers · Project consultants |
+| **Full-Stack Builds** | Next.js · React · Node.js · Supabase · API integrations |
+| **AI Workflows** | n8n · Agentic AI · Process automation · Chatbots |
+| **Supply Chain Business Intelligence** | Data dashboards · BI reporting · Supply intelligence |
+
+🚀 Follow for practical AI automation insights & founder systems.
+
+| Channel | Link |
+|---|---|
+| 🌐 Website | [desidevloper.com](https://desidevioper.com) |
+| 💬 WhatsApp | [wa.me/919727413309](https://wa.me/919727413309) |
+| 🔗 LinkedIn | [linkedin.com/in/sntl2784](https://www.linkedin.com/in/sntl2784) |
+| 💻 GitHub | [github.com/SNTL84](https://github.com/SNTL84) |
+| 📸 Instagram | [@desibiztrade](https://www.instagram.com/desibiztrade) |
+| 🔴 YouTube | [@SNTL84](https://www.youtube.com/@SNTL84) |
 
 ---
 
@@ -87,6 +105,30 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 
 ---
 
+## 🆕 Latest Activity Log — May 2026
+
+> All commits tracked on [`main` branch](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commits/main)
+
+| Date & Time (IST) | Activity | Commit |
+|---|---|---|
+| **30 May 2026 · 4:52 PM** | 📊 MetroMate README flagship update — B2C/B2B/CSV developer links published | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/82041037888748edff33d030fe3104f5ff0a9386) |
+| **30 May 2026 · 4:50 PM** | ✅ `MetroMate_services_v4.csv` pushed — 203 rows, SNTL84 credits updated | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/82041037888748edff33d030fe3104f5ff0a9386) |
+| **30 May 2026 · 3:14 PM** | 🖼️ Asset filenames fixed — old PNG files with spaces deleted, replaced by hyphenated JPGs | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/1f89c4e9093fafdd64b8927e980fc4e8cbd66889) |
+| **30 May 2026 · 3:09 PM** | 🖼️ 3 new MetroMate brand images uploaded to `assets/` (LGS · Lead Gen Service Provider · Recruitment) | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/470f09308456b3fca09d8662c0bafe74d39a3796) |
+| **30 May 2026 · 2:57 PM** | 📋 README updated — 3 new MetroMate brand banners added below umbrella image | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/70fa63c921fe688fb2b8ae69be40c16e59d4228f) |
+| **30 May 2026 · 10:28 AM** | 🚦 Phase progress tracker updated — Phase 1 confirmed 75%, Phase 2 at 20% | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/9d673425e00de0ec5aacf0e44133ea77d9589377) |
+| **29 May 2026 · 6:48 PM** | 🏢 MetroMate Supplier Registration Form added — dark UI, fully responsive onboarding form | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/39bfcb10d2d5ccee3c9ce7e116b851abe5571499) |
+| **29 May 2026 · 6:46 PM** | 📖 MetroMate README upgraded — full dev guide, form schema, services architecture, trade roadmap | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/a1f54689d0ca6944bae8f5f1729278d30e7a1651) |
+| **27 May 2026 · 4:18 PM** | 🖼️ Brand image display fixed — `Optimised-SNTL-84-MetroMate-umbrella.jpg` renders correctly | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/4b13911ff752ff803b00925d9aa541be1740fddb) |
+| **27 May 2026 · 4:10 PM** | ✨ MetroMate Umbrella brand image added to `assets/` folder | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/1b132c390841a23008196276cbfebcb06d8f414f) |
+| **09 May 2026** | 📖 Backend Study README updated — assets list & progress notes added | — |
+| **08 May 2026** | 🗺️ Roadmap v3 published — dark mode, download PNG, smooth navigation | — |
+| **08 May 2026** | 🚀 README v2.0 launched — flagship upgrade with roadmap, trade directory, international sections | — |
+| **06–07 May 2026** | 📋 All 14 Sprint Sheets created — Phase Tracker · Trade Dir · Matrimony · Healthcare · School · Member Portal | — |
+| **07 May 2026** | 🗺️ Roadmap v2 added — tabbed UI with interactive mindmap + download | — |
+
+---
+
 ## 🗂️ Repository File Index
 
 | File / Folder | Type | Description | Status |
@@ -95,28 +137,51 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 | [`Tragad-Soni-Roadmap-v3.html`](./Tragad-Soni-Roadmap-v3.html) | 🗺️ HTML | Interactive HTML Roadmap v3 — dark mode, nav & download PNG | ✅ Live |
 | [`Tragad-Soni-Roadmap-v2.html`](./Tragad-Soni-Roadmap-v2.html) | 🗺️ HTML | Roadmap v2 — tabbed UI, interactive mindmap (reference version) | 📦 Archive |
 | [`Tragad_Soni_Website_Roadmap_Milan_SNTL84.xlsx`](./Tragad_Soni_Website_Roadmap_Milan_SNTL84.xlsx) | 📊 Excel | Full roadmap, feature planning & milestone tracker (14 sprint sub-sheets) | ✅ Active |
-| [`MetroMate/`](./MetroMate/) | 📁 Dir | **✨ NEW** MetroMate B2B & B2C Lead Generation — services config & location-based outreach | ✅ Live |
+| [`MetroMate/`](./MetroMate/) | 📁 Dir | MetroMate B2B & B2C — Supplier Registration Form, services config, README | ✅ Live |
+| [`MetroMate/services/MetroMate_services_v4.csv`](./MetroMate/services/MetroMate_services_v4.csv) | 📊 CSV | **203 services** — B2B, B2C, Both · Categories, Sub-Categories, Keywords | ✅ Latest |
+| [`MetroMate/services/B2B-Lead-Generation.md`](./MetroMate/services/B2B-Lead-Generation.md) | 📄 MD | B2B Lead Generation service details | ✅ Active |
+| [`MetroMate/services/B2C-Lead-Generation.md`](./MetroMate/services/B2C-Lead-Generation.md) | 📄 MD | B2C Lead Generation service details | ✅ Active |
 | [`sprint-sheets/`](./sprint-sheets) | 📁 Dir | 14 individual sprint & section Markdown sheets | 🔄 Active |
 | [`backend-architecture-study/`](./backend-architecture-study) | 📁 Dir | Backend architecture research & tech stack documentation | 🔄 Active |
-| [`assets/`](./assets) | 📁 Dir | Brand images and visual assets | ✅ Active |
+| [`assets/`](./assets) | 📁 Dir | Brand images — MetroMate umbrella, LGS, Recruitment, Lead Generation banners | ✅ Active |
 | [`LICENSE`](./LICENSE) | 📜 | MIT License | ✅ |
 
 ---
 
-## 🆕 Latest Updates — May 2026
+## 🏢 MetroMate — B2B & B2C Services (`203 Services ✅`)
 
-| Date | Update | Details |
-|---|---|---|
-| **30 May 2026** | 🖼️ 3 New MetroMate Brand Images Added | README updated with MetroMate LGS · Lead Generation Service Provider · Recruitment/Placement Services images below existing umbrella banner |
-| **30 May 2026** | 🚦 Progress Tracker Updated | Phase 1 confirmed at 75% ✅ In Progress · Phase 2 at 20% 🔄 Started · Phases 3–5 📅 Upcoming · Phase 6 🔭 Planned |
-| **29 May 2026** | 🏢 MetroMate Supplier Registration Form | Added dark UI, fully responsive supplier registration form to MetroMate folder |
-| **27 May 2026** | 🖼️ Brand Image Display Fixed | README now renders Optimised-SNTL-84-MetroMate-umbrella.jpg with correct width & HTML img tag |
-| **27 May 2026** | ✨ MetroMate Folder Added | B2B & B2C Lead Generation Services — location-based services, config & outreach |
-| **09 May 2026** | 📖 Backend Study README Updated | Added latest assets list and progress notes to `backend-architecture-study/` |
-| **08 May 2026** | 🗺️ Roadmap v3 Published | Interactive roadmap with dark mode, download PNG, and smooth navigation |
-| **08 May 2026** | 🚀 README v2.0 Launch | Flagship upgrade: enriched roadmap, trade directory standards, international sections |
-| **06–07 May 2026** | 📋 All 14 Sprint Sheets Created | Phase Detail Tracker, Trade Directory, Matrimony, Healthcare, School, Study Alignment, Member Portal |
-| **07 May 2026** | 🗺️ Roadmap v2 Added | Tabbed UI with interactive mindmap + download functionality |
+**MetroMate is now a proud part of SNTL 84 Digital Marketing Services.** The [`MetroMate/`](./MetroMate/) folder is the complete service delivery engine for location-based B2B & B2C lead generation.
+
+### MetroMate B2C SERVICES
+
+| Category | Services |
+|---|---|
+| Home Repairs | Electrician · Plumber · Carpenter · Fabrication |
+| Appliance | RO Installation · Water Motor · Water Tank Cleaning |
+| Vehicles | Two-Wheeler Repair/Service · Four-Wheeler Repair/Service · Auto Parts |
+| Lifestyle | Salon · Beautician · Grooming · Cook On Call · Tiffin Services |
+| Healthcare | Doctor On Call · Home Nurse · Pharmacy · Physiotherapy |
+| Travel | Flight · Train · Bus Tickets · Vehicle Rental · Local Transport |
+| Finance | Mutual Fund Advisor · Health/Life Insurance · Gold/Silver/Diamond Jewellery |
+
+### MetroMate B2B SERVICES
+
+| Category | Services |
+|---|---|
+| Technology | Software Dev · Website Dev · Cloud · IT Staffing · AI Automation |
+| Marketing | Digital Marketing · SEO · Meta Ads · Lead Generation · Growth Marketing |
+| Recruitment | IT Recruitment · Non-IT Recruitment · Temp/Permanent Staffing · Bench Resources |
+| Operations | GST Filing · Income Tax · Real Estate · Corporate Security · Movers & Packers |
+| Supply Chain | Supply Chain BI · Commercial Material Supplier · Restaurant Equipment · Solar |
+
+### 📊 Services Data File
+
+> 📁 **Raw CSV (203 rows):** [`MetroMate_services_v4.csv`](./MetroMate/services/MetroMate_services_v4.csv)
+>
+> **Raw URL for developers:**
+> ```
+> https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/MetroMate/services/MetroMate_services_v4.csv
+> ```
 
 ---
 
@@ -135,11 +200,8 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 
 ### Quick Start
 ```bash
-# Clone the repository
 git clone https://github.com/SNTL84/Tragad-Soni-Website-Roadmap.git
 cd Tragad-Soni-Website-Roadmap
-
-# Open form directly in browser (no server required)
 open Family-Reg-V1-Final.html
 ```
 
@@ -147,47 +209,16 @@ open Family-Reg-V1-Final.html
 
 ---
 
-## 🏢 MetroMate — B2B & B2C Services (NEW ✨)
-
-**MetroMate is now a proud part of SNTL 84 Digital Marketing Services.** The [`MetroMate/`](./MetroMate/) folder contains all configuration and service delivery files for location-based B2B & B2C lead generation.
-
-### B2B Services
-- 📋 Business Listing & Profile Creation
-- ✅ Verified Business Promotion
-- 👥 Lead Generation for Businesses
-- 🎯 Targeted B2B Campaigns
-- 📈 Brand Visibility & Growth
-
-### B2C Services
-- 📍 Local Business Discoverability
-- 🛒 Product & Service Promotion
-- 💎 Quality Lead Generation
-- 📢 Customer Engagement Campaigns
-- 🌐 Better Reach, More Customers
-
-### Trade Directory Lead Generation
-| Service | What It Does |
-|---|---|
-| Trade Directory Listing | Get listed on high-quality directories for maximum visibility |
-| Business Discoverability | Make your business easy to find by the right audience |
-| Quality Lead Generation | Verified, relevant leads that convert |
-| Targeted Outreach | Strategic outreach connecting you with decision makers |
-| Grow Your Business | More leads · More opportunities · More growth |
-
-> 📁 **Explore:** [`MetroMate/`](./MetroMate/) · [`MetroMate/config/`](./MetroMate/config/) · [`MetroMate/services/`](./MetroMate/services/)
-
----
-
 ## 🗺️ Full Website Roadmap — Phase Breakdown
 
-### Phase 1 · Planning & Setup `🟡 In Progress`
+### Phase 1 · Planning & Setup `🟡 75% In Progress`
 - Domain registration & DNS configuration
 - Hosting setup (Hostinger / Vercel)
 - Google Tag Manager & analytics
 - Community outreach and data collection kickoff
 - **📋 Sprint:** [Phase1_Planning_Sprint.md](./sprint-sheets/Phase1_Planning_Sprint.md)
 
-### Phase 2 · Design & UI/UX `🔄 Started`
+### Phase 2 · Design & UI/UX `🔄 20% Started`
 - Brand identity — logo, color palette (gold + maroon), typography
 - Wireframes for all major modules
 - Mobile-first responsive design system
@@ -227,8 +258,7 @@ open Family-Reg-V1-Final.html
 | 1 | [Master_Roadmap.md](./sprint-sheets/Master_Roadmap.md) | 🗺️ All 6 phases overview + sheet index | 🟡 In Progress |
 | 2 | [Phase1_Planning_Sprint.md](./sprint-sheets/Phase1_Planning_Sprint.md) | 📋 Domain, hosting, setup, community kickoff | 🟡 In Progress |
 | 3 | [Phase2_Design_Sprint.md](./sprint-sheets/Phase2_Design_Sprint.md) | 🎨 UI/UX, wireframes, brand identity | 🔄 Started |
-| 4 | [Phase3_Development_Sprint.md](./sprint-sheets/Phase3_Development_Sprint.md) | 💻 Frontend, backend, APIs, modules |
- 📅 Upcoming |
+| 4 | [Phase3_Development_Sprint.md](./sprint-sheets/Phase3_Development_Sprint.md) | 💻 Frontend, backend, APIs, modules | 📅 Upcoming |
 | 5 | [Phase4_Testing_Sprint.md](./sprint-sheets/Phase4_Testing_Sprint.md) | 🧪 QA, UAT, bug fixes, security | 📅 Upcoming |
 | 6 | [Phase5_Launch_Sprint.md](./sprint-sheets/Phase5_Launch_Sprint.md) | 🚀 Deployment, SEO, community launch | 📅 Upcoming |
 
@@ -291,8 +321,10 @@ open Family-Reg-V1-Final.html
 | 💬 Quick Query / Collaboration | WhatsApp | [+91 97274 13309](https://wa.me/919727413309) |
 | 📧 Formal Proposal / Partnership | Email | [3goldenlotusroots@gmail.com](mailto:3goldenlotusroots@gmail.com) |
 | 💼 Professional Profile | LinkedIn | [linkedin.com/in/sntl2784](https://www.linkedin.com/in/sntl2784) |
-| 🌐 Developer Portfolio | Website | [desidevioper.com](https://desidevioper.com) |
+| 🌐 Developer Portfolio | Website | [desidevloper.com](https://desidevioper.com) |
 | 🐙 GitHub Profile | Code & Repos | [github.com/SNTL84](https://github.com/SNTL84) |
+| 📸 Instagram | Brand Updates | [@desibiztrade](https://www.instagram.com/desibiztrade) |
+| 🔴 YouTube | AI & Automation | [@SNTL84](https://www.youtube.com/@SNTL84) |
 | 🤖 AI Platform | Arratt.ai | [aratt.ai/user/@desidevloper](https://aratt.ai/user/@desidevloper) |
 
 | Stage | Best Channel |
@@ -332,17 +364,19 @@ git push origin feature/your-contribution
 
 ## 👤 About the Author
 
-**SNTL84 · Golden Lotus** — AI Workflow Developer, Full-Stack Web Architect & Community Tech Builder from **Surat, Gujarat, India**
+**SNTL84 · Golden Lotus** — Agentic AI Workflow Professional, Full-Stack Web Architect & Community Tech Builder from **Surat, Gujarat, India**
 
-Passionate about building platforms that preserve cultural identity while enabling modern commerce and community empowerment through technology.
+Passionate about building platforms that preserve cultural identity while enabling modern commerce and community empowerment through technology. Specializing in AI automation, lead generation, and scalable business systems.
 
 | Profile | Link |
 |---|---|
-| 🌐 Portfolio | [desidevioper.com](https://desidevioper.com) |
+| 🌐 Portfolio | [desidevloper.com](https://desidevioper.com) |
 | 💼 LinkedIn | [linkedin.com/in/sntl2784](https://www.linkedin.com/in/sntl2784) |
 | 💬 WhatsApp | [+91 97274 13309](https://wa.me/919727413309) |
 | 📧 Email | [3goldenlotusroots@gmail.com](mailto:3goldenlotusroots@gmail.com) |
 | 🐙 GitHub | [github.com/SNTL84](https://github.com/SNTL84) |
+| 📸 Instagram | [@desibiztrade](https://www.instagram.com/desibiztrade) |
+| 🔴 YouTube | [@SNTL84](https://www.youtube.com/@SNTL84) |
 | 🤖 Arratt.ai | [aratt.ai/user/@desidevloper](https://aratt.ai/user/@desidevloper) |
 
 ---
@@ -361,9 +395,11 @@ This project is licensed under the [MIT License](./LICENSE) — free to use, for
 
 [![Reach Us](https://img.shields.io/badge/💬%20Reach%20Us-WhatsApp-25D366?style=for-the-badge)](https://wa.me/919727413309)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SNTL2784-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sntl2784)
-[![MetroMate](https://img.shields.io/badge/MetroMate-B2B%20%26%20B2C-orange?style=for-the-badge)](./MetroMate/)
-[![Website](https://img.shields.io/badge/Website-desidevioper.com-FF6B6B?style=for-the-badge)](https://desidevioper.com)
+[![Instagram](https://img.shields.io/badge/Instagram-desibiztrade-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/desibiztrade)
+[![YouTube](https://img.shields.io/badge/YouTube-SNTL84-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@SNTL84)
+[![MetroMate](https://img.shields.io/badge/MetroMate-203%20Services-orange?style=for-the-badge)](./MetroMate/)
+[![Website](https://img.shields.io/badge/Website-desidevloper.com-FF6B6B?style=for-the-badge)](https://desidevioper.com)
 
-*Last Updated: 30 May 2026 · Version 3.5 · MetroMate brand images added*
+*Last Updated: 30 May 2026 · Version 4.0 · Full Activity Log + MetroMate 203 Services + SNTL84 Flagship*
 
 </div>
