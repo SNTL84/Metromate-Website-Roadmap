@@ -89,6 +89,8 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 
 | Date | Update | Details |
 |---|---|---|
+| **30 May 2026** | 🚦 Progress Tracker Updated | Phase 1 confirmed at 75% ✅ In Progress · Phase 2 at 20% 🔄 Started · Phases 3–5 📅 Upcoming · Phase 6 🔭 Planned |
+| **29 May 2026** | 🏢 MetroMate Supplier Registration Form | Added dark UI, fully responsive supplier registration form to MetroMate folder |
 | **27 May 2026** | 🖼️ Brand Image Display Fixed | README now renders Optimised-SNTL-84-MetroMate-umbrella.jpg with correct width & HTML img tag |
 | **27 May 2026** | ✨ MetroMate Folder Added | B2B & B2C Lead Generation Services — location-based services, config & outreach |
 | **09 May 2026** | 📖 Backend Study README Updated | Added latest assets list and progress notes to `backend-architecture-study/` |
@@ -342,6 +344,6 @@ This project is licensed under the [MIT License](./LICENSE) — free to use, for
 [![MetroMate](https://img.shields.io/badge/MetroMate-B2B%20%26%20B2C-orange?style=for-the-badge)](./MetroMate/)
 [![Website](https://img.shields.io/badge/Website-desidevioper.com-FF6B6B?style=for-the-badge)](https://desidevioper.com)
 
-*Last Updated: May 2026 · Version 3.2 · Brand image display optimised*
+*Last Updated: 30 May 2026 · Version 3.3 · Progress tracker updated*
 
 </div>
