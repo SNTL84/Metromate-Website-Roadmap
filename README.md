@@ -25,6 +25,24 @@
 
 > **MetroMate B2B & B2C Services** is now a proud part of **SNTL 84 Digital Marketing Services** — powering trade directory listing, business discoverability, quality lead generation, targeted outreach & growth.
 
+<br />
+
+<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-LGS.jpg" alt="SNTL84 × MetroMate — Lead Generation System Overview" width="800" />
+
+> **SNTL 84 Growth Engine** — Systems that Scale. Results that Last. Growth that Compounds. Powered by MetroMate B2B & B2C Services with Lead Generation, Fulfillment, Internal Talent, Automation & Systems.
+
+<br />
+
+<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Lead-Generation-Service-Provider.jpg" alt="MetroMate — One Call All Solutions, 80+ Services" width="800" />
+
+> **MetroMate · One Call. All Solutions.** — 80+ services across Residential, Commercial & Corporate segments. Trusted professionals, 24×7 support, affordable & transparent pricing.
+
+<br />
+
+<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Recruitment-servicespng.jpg" alt="MetroMate — MetroMate Placement Services powered by SNTL 84" width="800" />
+
+> **MetroMate Placement Services** powered by SNTL 84 — IT Specialists (Software Engineers, Cloud & DevOps, Data Scientists, Cybersecurity, QA) & Non-IT Staff (Sales, Customer Success, Digital Marketers, Finance & HR, Supply Chain).
+
 </div>
 
 ### 🏢 SNTL84 Growth Engine Services
@@ -89,6 +107,7 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 
 | Date | Update | Details |
 |---|---|---|
+| **30 May 2026** | 🖼️ 3 New MetroMate Brand Images Added | README updated with MetroMate LGS · Lead Generation Service Provider · Recruitment/Placement Services images below existing umbrella banner |
 | **30 May 2026** | 🚦 Progress Tracker Updated | Phase 1 confirmed at 75% ✅ In Progress · Phase 2 at 20% 🔄 Started · Phases 3–5 📅 Upcoming · Phase 6 🔭 Planned |
 | **29 May 2026** | 🏢 MetroMate Supplier Registration Form | Added dark UI, fully responsive supplier registration form to MetroMate folder |
 | **27 May 2026** | 🖼️ Brand Image Display Fixed | README now renders Optimised-SNTL-84-MetroMate-umbrella.jpg with correct width & HTML img tag |
@@ -208,7 +227,8 @@ open Family-Reg-V1-Final.html
 | 1 | [Master_Roadmap.md](./sprint-sheets/Master_Roadmap.md) | 🗺️ All 6 phases overview + sheet index | 🟡 In Progress |
 | 2 | [Phase1_Planning_Sprint.md](./sprint-sheets/Phase1_Planning_Sprint.md) | 📋 Domain, hosting, setup, community kickoff | 🟡 In Progress |
 | 3 | [Phase2_Design_Sprint.md](./sprint-sheets/Phase2_Design_Sprint.md) | 🎨 UI/UX, wireframes, brand identity | 🔄 Started |
-| 4 | [Phase3_Development_Sprint.md](./sprint-sheets/Phase3_Development_Sprint.md) | 💻 Frontend, backend, APIs, modules | 📅 Upcoming |
+| 4 | [Phase3_Development_Sprint.md](./sprint-sheets/Phase3_Development_Sprint.md) | 💻 Frontend, backend, APIs, modules |
+ 📅 Upcoming |
 | 5 | [Phase4_Testing_Sprint.md](./sprint-sheets/Phase4_Testing_Sprint.md) | 🧪 QA, UAT, bug fixes, security | 📅 Upcoming |
 | 6 | [Phase5_Launch_Sprint.md](./sprint-sheets/Phase5_Launch_Sprint.md) | 🚀 Deployment, SEO, community launch | 📅 Upcoming |
 
@@ -344,6 +364,6 @@ This project is licensed under the [MIT License](./LICENSE) — free to use, for
 [![MetroMate](https://img.shields.io/badge/MetroMate-B2B%20%26%20B2C-orange?style=for-the-badge)](./MetroMate/)
 [![Website](https://img.shields.io/badge/Website-desidevioper.com-FF6B6B?style=for-the-badge)](https://desidevioper.com)
 
-*Last Updated: 30 May 2026 · Version 3.4 · Progress tracker verified & committed*
+*Last Updated: 30 May 2026 · Version 3.5 · MetroMate brand images added*
 
 </div>
