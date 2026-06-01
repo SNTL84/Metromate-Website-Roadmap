@@ -90,7 +90,7 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 
 ---
 
-## 🚦 Overall Progress — May 2026
+## 🚦 Overall Progress — June 2026
 
 ```
 Phase 1 · Planning & Setup          ████████░░  75% ✅ In Progress
@@ -105,12 +105,13 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 
 ---
 
-## 🆕 Latest Activity Log — May 2026
+## 🆕 Latest Activity Log — June 2026
 
 > All commits tracked on [`main` branch](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commits/main)
 
 | Date & Time (IST) | Activity | Commit |
 |---|---|---|
+| **01 Jun 2026** | 📋 README: Trade Directory expanded — 40+ categories, full goldsmith & community topics | latest |
 | **30 May 2026 · 4:52 PM** | 📊 MetroMate README flagship update — B2C/B2B/CSV developer links published | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/82041037888748edff33d030fe3104f5ff0a9386) |
 | **30 May 2026 · 4:50 PM** | ✅ `MetroMate_services_v4.csv` pushed — 203 rows, SNTL84 credits updated | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/82041037888748edff33d030fe3104f5ff0a9386) |
 | **30 May 2026 · 3:14 PM** | 🖼️ Asset filenames fixed — old PNG files with spaces deleted, replaced by hyphenated JPGs | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/1f89c4e9093fafdd64b8927e980fc4e8cbd66889) |
@@ -213,193 +214,4 @@ open Family-Reg-V1-Final.html
 
 ### Phase 1 · Planning & Setup `🟡 75% In Progress`
 - Domain registration & DNS configuration
-- Hosting setup (Hostinger / Vercel)
-- Google Tag Manager & analytics
-- Community outreach and data collection kickoff
-- **📋 Sprint:** [Phase1_Planning_Sprint.md](./sprint-sheets/Phase1_Planning_Sprint.md)
-
-### Phase 2 · Design & UI/UX `🔄 20% Started`
-- Brand identity — logo, color palette (gold + maroon), typography
-- Wireframes for all major modules
-- Mobile-first responsive design system
-- **📋 Sprint:** [Phase2_Design_Sprint.md](./sprint-sheets/Phase2_Design_Sprint.md)
-
-### Phase 3 · Development `📅 Upcoming`
-- Frontend: Next.js / React + Tailwind CSS
-- Backend: Node.js + Supabase (PostgreSQL)
-- Family registration API + admin dashboard
-- **📋 Sprint:** [Phase3_Development_Sprint.md](./sprint-sheets/Phase3_Development_Sprint.md)
-
-### Phase 4 · Testing & QA `📅 Upcoming`
-- Unit testing, UAT with community members
-- Cross-browser & mobile device testing
-- Security audit & data privacy compliance
-- **📋 Sprint:** [Phase4_Testing_Sprint.md](./sprint-sheets/Phase4_Testing_Sprint.md)
-
-### Phase 5 · Launch & SEO `📅 Upcoming`
-- Production deployment with CI/CD
-- SEO optimization — Gujarati + Hindi + English keywords
-- Community launch event coordination (Milan)
-- **📋 Sprint:** [Phase5_Launch_Sprint.md](./sprint-sheets/Phase5_Launch_Sprint.md)
-
-### Phase 6 · Mobile App / PWA `🔭 Planned`
-- Progressive Web App (PWA) wrapper
-- Push notifications for events, matrimony matches
-- Offline family data access
-
----
-
-## 📋 Sprint Sub-Sheets — Direct Links
-
-### 🛠️ Phase Sprints
-
-| # | Sprint Sheet | Description | Status |
-|---|---|---|---|
-| 1 | [Master_Roadmap.md](./sprint-sheets/Master_Roadmap.md) | 🗺️ All 6 phases overview + sheet index | 🟡 In Progress |
-| 2 | [Phase1_Planning_Sprint.md](./sprint-sheets/Phase1_Planning_Sprint.md) | 📋 Domain, hosting, setup, community kickoff | 🟡 In Progress |
-| 3 | [Phase2_Design_Sprint.md](./sprint-sheets/Phase2_Design_Sprint.md) | 🎨 UI/UX, wireframes, brand identity | 🔄 Started |
-| 4 | [Phase3_Development_Sprint.md](./sprint-sheets/Phase3_Development_Sprint.md) | 💻 Frontend, backend, APIs, modules | 📅 Upcoming |
-| 5 | [Phase4_Testing_Sprint.md](./sprint-sheets/Phase4_Testing_Sprint.md) | 🧪 QA, UAT, bug fixes, security | 📅 Upcoming |
-| 6 | [Phase5_Launch_Sprint.md](./sprint-sheets/Phase5_Launch_Sprint.md) | 🚀 Deployment, SEO, community launch | 📅 Upcoming |
-
-### 📊 Section Sub-Sheets
-
-| # | Section Sheet | Description | Status |
-|---|---|---|---|
-| 7 | [Phase_Detail_Tracker.md](./sprint-sheets/Phase_Detail_Tracker.md) | 📊 Full task tracker — hours, owners, status | 🟡 In Progress |
-| 8 | [Tech_Stack.md](./sprint-sheets/Tech_Stack.md) | ⚙️ Frontend, backend, hosting, security decisions | 📅 To Do |
-| 9 | [Member_Portal.md](./sprint-sheets/Member_Portal.md) | 👥 Member registration, profiles, family management | 📅 To Do |
-| 10 | [Trade_Directory.md](./sprint-sheets/Trade_Directory.md) | 🏪 Business listings, goldsmith trade, search & filters | 📅 To Do |
-| 11 | [Study_Alignment.md](./sprint-sheets/Study_Alignment.md) | 🎓 Scholarships, tutors, career guidance | 📅 To Do |
-| 12 | [School_Section.md](./sprint-sheets/School_Section.md) | 🏫 School listings, admissions, results | 📅 To Do |
-| 13 | [Healthcare.md](./sprint-sheets/Healthcare.md) | 🏥 Doctor directory, blood donors, hospital network | 📅 To Do |
-| 14 | [Matrimony.md](./sprint-sheets/Matrimony.md) | 💍 Matrimony profiles, search, privacy settings | 📅 To Do |
-
----
-
-## 🌏 International Trade Directory Standards
-
-| Standard | Scope | Status |
-|---|---|---|
-| ISO 3166-1 Country Codes | Member location tagging | ✅ Planned |
-| DUNS / GST Business Verification | Trade directory listings | 🔄 Researching |
-| GDPR-aligned Privacy Policy | Data protection (diaspora members) | 📅 Planned |
-| Unicode / UTF-8 Gujarati Support | Multilingual content | ✅ In Design |
-| Schema.org LocalBusiness Markup | SEO structured data | 📅 Phase 5 |
-| hCard / vCard Export | Member profile portability | 📅 Phase 3 |
-| SSL / TLS Encryption | Platform security | ✅ Phase 1 |
-
-### 🌐 Target Communities & Regions
-- **India:** Surat · Vadodara · Rajkot · Ahmedabad · Mumbai · Pune · Nagpur
-- **USA / Canada:** NRI Tragad Soni diaspora
-- **UK / Europe:** Community associations
-- **East Africa:** Tragad Soni traders (Kenya, Tanzania, Uganda)
-- **UAE / Gulf:** Business members
-
----
-
-## 🏪 Trade Directory Module Preview
-
-### Planned Listing Categories
-- 💎 Goldsmith & Jewellery Manufacturers
-- 🏭 Gold Refineries & Bullion Traders
-- 🔩 Jewellery Tools & Equipment Suppliers
-- 💼 Chartered Accountants & Tax Advisors (community)
-- 🏠 Real Estate & Property (community listings)
-- 🎓 Educational Institutions & Coaching Centers
-- 🏥 Doctors, Clinics & Diagnostic Centers
-- 🍽️ Caterers, Venues & Event Managers
-
-> 📋 Full trade directory sprint: [Trade_Directory.md](./sprint-sheets/Trade_Directory.md)
-
----
-
-## 📞 Contact & Collaboration
-
-| Purpose | Channel | Link |
-|---|---|---|
-| 💬 Quick Query / Collaboration | WhatsApp | [+91 97274 13309](https://wa.me/919727413309) |
-| 📧 Formal Proposal / Partnership | Email | [3goldenlotusroots@gmail.com](mailto:3goldenlotusroots@gmail.com) |
-| 💼 Professional Profile | LinkedIn | [linkedin.com/in/sntl2784](https://www.linkedin.com/in/sntl2784) |
-| 🌐 Developer Portfolio | Website | [desidevloper.com](https://desidevioper.com) |
-| 🐙 GitHub Profile | Code & Repos | [github.com/SNTL84](https://github.com/SNTL84) |
-| 📸 Instagram | Brand Updates | [@desibiztrade](https://www.instagram.com/desibiztrade) |
-| 🔴 YouTube | AI & Automation | [@SNTL84](https://www.youtube.com/@SNTL84) |
-| 🤖 AI Platform | Arratt.ai | [aratt.ai/user/@desidevloper](https://aratt.ai/user/@desidevloper) |
-
-| Stage | Best Channel |
-|---|---|
-| **I want to join the community platform** | [WhatsApp](https://wa.me/919727413309) |
-| **I'm a developer who wants to contribute** | [GitHub Issues](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/issues) → then [WhatsApp](https://wa.me/919727413309) |
-| **I'm a Tragad Soni business owner** | [Email](mailto:3goldenlotusroots@gmail.com) |
-| **Partnership / Sponsorship** | [LinkedIn](https://www.linkedin.com/in/sntl2784) → [Email](mailto:3goldenlotusroots@gmail.com) |
-| **Community event or Milan coordination** | [WhatsApp](https://wa.me/919727413309) |
-| **MetroMate B2B / B2C Inquiry** | [WhatsApp](https://wa.me/919727413309) or [Email](mailto:3goldenlotusroots@gmail.com) |
-
----
-
-## 🤝 Contributing
-
-```bash
-# 1. Fork this repository
-# 2. Create your feature branch
-git checkout -b feature/your-contribution
-
-# 3. Make your changes & commit
-git commit -m "Add: your meaningful contribution"
-
-# 4. Push and open a Pull Request
-git push origin feature/your-contribution
-```
-
-### Contribution Areas
-- 📝 Sprint sheet content & research
-- 🎨 UI/UX design contributions (Figma exports welcome)
-- 💻 HTML/CSS/JS form improvements
-- 🌐 Gujarati/Hindi translations
-- 📊 Community data research & trade directory enrichment
-- 🧪 Testing & QA feedback
-
----
-
-## 👤 About the Author
-
-**SNTL84 · Golden Lotus** — Agentic AI Workflow Professional, Full-Stack Web Architect & Community Tech Builder from **Surat, Gujarat, India**
-
-Passionate about building platforms that preserve cultural identity while enabling modern commerce and community empowerment through technology. Specializing in AI automation, lead generation, and scalable business systems.
-
-| Profile | Link |
-|---|---|
-| 🌐 Portfolio | [desidevloper.com](https://desidevioper.com) |
-| 💼 LinkedIn | [linkedin.com/in/sntl2784](https://www.linkedin.com/in/sntl2784) |
-| 💬 WhatsApp | [+91 97274 13309](https://wa.me/919727413309) |
-| 📧 Email | [3goldenlotusroots@gmail.com](mailto:3goldenlotusroots@gmail.com) |
-| 🐙 GitHub | [github.com/SNTL84](https://github.com/SNTL84) |
-| 📸 Instagram | [@desibiztrade](https://www.instagram.com/desibiztrade) |
-| 🔴 YouTube | [@SNTL84](https://www.youtube.com/@SNTL84) |
-| 🤖 Arratt.ai | [aratt.ai/user/@desidevloper](https://aratt.ai/user/@desidevloper) |
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](./LICENSE) — free to use, fork, and build upon with attribution.
-
----
-
-<div align="center">
-
-**🏛️ Preserving Heritage · Connecting Community · Enabling Trade · Building Future 🏛️**
-
-*Tragad Soni Community Platform · Surat, Gujarat, India*
-
-[![Reach Us](https://img.shields.io/badge/💬%20Reach%20Us-WhatsApp-25D366?style=for-the-badge)](https://wa.me/919727413309)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SNTL2784-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sntl2784)
-[![Instagram](https://img.shields.io/badge/Instagram-desibiztrade-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/desibiztrade)
-[![YouTube](https://img.shields.io/badge/YouTube-SNTL84-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@SNTL84)
-[![MetroMate](https://img.shields.io/badge/MetroMate-203%20Services-orange?style=for-the-badge)](./MetroMate/)
-[![Website](https://img.shields.io/badge/Website-desidevloper.com-FF6B6B?style=for-the-badge)](https://desidevioper.com)
-
-*Last Updated: 30 May 2026 · Version 4.0 · Full Activity Log + MetroMate 203 Services + SNTL84 Flagship*
-
-</div>
+- Hosting setup (Hostinger / Verce
