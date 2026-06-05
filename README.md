@@ -17,7 +17,18 @@
 [![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/pulls)
 [![Made in India](https://img.shields.io/badge/Made%20in-India%20🇮🇳-orange?style=for-the-badge)](https://github.com/SNTL84)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919727413309)
+
+**— Connect with SNTL84 —**
+
+[![Website](https://img.shields.io/badge/Website-desidevloper.com-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://desidevloper.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SNTL2784-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sntl2784)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919727413309)
+[![GitHub](https://img.shields.io/badge/GitHub-SNTL84-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SNTL84)
+[![Email](https://img.shields.io/badge/Email-3goldenlotusroots%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3goldenlotusroots@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40desibiztrade-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/desibiztrade)
+[![Facebook](https://img.shields.io/badge/Facebook-DesiBiz%20Trade-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61590405098559)
+[![YouTube](https://img.shields.io/badge/YouTube-%40SNTL84-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SNTL84)
+[![Aratt.ai](https://img.shields.io/badge/Aratt.ai-%40desidevloper-00C9A7?style=for-the-badge&logo=ai&logoColor=white)](https://aratt.ai/user/@desidevloper)
 
 </div>
 
@@ -228,17 +239,19 @@ The browser automation layer connects all four growth node layers — enabling s
 
 ### 🔗 Connect with SNTL84
 
-| Channel | Handle / Link |
-|---|---|
-| 🌐 Website | [desidevloper.com](https://desidevloper.com/) |
-| 💬 WhatsApp | [+91 97274 13309](https://wa.me/919727413309) |
-| 🔗 LinkedIn | [linkedin.com/in/sntl2784](https://www.linkedin.com/in/sntl2784) |
-| 💻 GitHub | [github.com/SNTL84](https://github.com/SNTL84) |
-| 📸 Instagram | [@desibiztrade](https://www.instagram.com/desibiztrade) |
-| 📘 Facebook | [DesiBiz Trade](https://www.facebook.com/profile.php?id=61590405098559) |
-| 🔴 YouTube | [@SNTL84](https://www.youtube.com/@SNTL84) |
-| 🤖 Aratt.ai | [@desidevloper](https://aratt.ai/user/@desidevloper) |
-| 📧 Email | [3goldenlotusroots@gmail.com](mailto:3goldenlotusroots@gmail.com) |
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-desidevloper.com-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://desidevloper.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SNTL2784-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sntl2784)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%2097274%2013309-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919727413309)
+[![GitHub](https://img.shields.io/badge/GitHub-SNTL84-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SNTL84)
+[![Email](https://img.shields.io/badge/Email-3goldenlotusroots%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3goldenlotusroots@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40desibiztrade-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/desibiztrade)
+[![Facebook](https://img.shields.io/badge/Facebook-DesiBiz%20Trade-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61590405098559)
+[![YouTube](https://img.shields.io/badge/YouTube-%40SNTL84-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SNTL84)
+[![Aratt.ai](https://img.shields.io/badge/Aratt.ai-%40desidevloper-00C9A7?style=for-the-badge&logoColor=white)](https://aratt.ai/user/@desidevloper)
+
+</div>
 
 ---
 
@@ -263,7 +276,8 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 
 | Date (IST) | Activity | Commit |
 |---|---|---|
-| **05 Jun 2026** | 🔗 Handles unified — all 9 SNTL84 channels updated, footer CTA enriched, Social Distribution layer synced | latest |
+| **05 Jun 2026** | 🔗 All 9 handles as shields.io badges — top strip, Connect section & footer unified | latest |
+| **05 Jun 2026** | 🔗 Handles unified — all 9 SNTL84 channels updated, footer CTA enriched, Social Distribution layer synced | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/acbbf61bd13d6d52cba82747c49869a3421ec988) |
 | **05 Jun 2026** | 🏛️ README: flagship restructure — What Is This Project + Mission above images, GitHub badges, zero duplication | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/7411c6ee642b2450454c268a2522d46da6f1539d) |
 | **05 Jun 2026** | 🏠 README: 4 MetroMate Real Estate images embedded — banner, logo badge, sale & rent visuals live | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/6a27581e1e01778df2df3afb627c61edbc535341) |
 | **05 Jun 2026** | 🏠 README: MetroMate Real Estate section added — rent/sale pricing, 4 core services, trust pillars | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/93f8dc2e97d7d53fdc483295940e1e3159a81d65) |
@@ -408,17 +422,16 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 
 **Tragad Soni Website Roadmap** — Surat, Gujarat, India · Est. 2024
 
-| | |
-|---|---|
-| 🌐 **Website** | [desidevloper.com](https://desidevloper.com/) |
-| 💬 **WhatsApp** | [+91 97274 13309](https://wa.me/919727413309) |
-| 🔗 **LinkedIn** | [linkedin.com/in/sntl2784](https://www.linkedin.com/in/sntl2784) |
-| 💻 **GitHub** | [github.com/SNTL84](https://github.com/SNTL84) |
-| 📸 **Instagram** | [@desibiztrade](https://www.instagram.com/desibiztrade) |
-| 📘 **Facebook** | [DesiBiz Trade](https://www.facebook.com/profile.php?id=61590405098559) |
-| 🔴 **YouTube** | [@SNTL84](https://www.youtube.com/@SNTL84) |
-| 🤖 **Aratt.ai** | [@desidevloper](https://aratt.ai/user/@desidevloper) |
-| 📧 **Email** | [3goldenlotusroots@gmail.com](mailto:3goldenlotusroots@gmail.com) |
+[![Website](https://img.shields.io/badge/Website-desidevloper.com-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://desidevloper.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SNTL2784-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sntl2784)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919727413309)
+[![GitHub](https://img.shields.io/badge/GitHub-SNTL84-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SNTL84)
+
+[![Email](https://img.shields.io/badge/Email-3goldenlotusroots%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3goldenlotusroots@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40desibiztrade-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/desibiztrade)
+[![Facebook](https://img.shields.io/badge/Facebook-DesiBiz%20Trade-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61590405098559)
+[![YouTube](https://img.shields.io/badge/YouTube-%40SNTL84-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SNTL84)
+[![Aratt.ai](https://img.shields.io/badge/Aratt.ai-%40desidevloper-00C9A7?style=for-the-badge&logoColor=white)](https://aratt.ai/user/@desidevloper)
 
 > *📞 MetroMate Real Estate: [+91 97274 13309](https://wa.me/919727413309) · Find. Connect. Close.*
 >
