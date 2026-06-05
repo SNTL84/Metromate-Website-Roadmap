@@ -51,12 +51,36 @@
 
 ## 🏠 MetroMate Real Estate Consultant
 
-> **FIND. CONNECT. CLOSE.** — *Your Property, Our Priority.*  
+> **FIND. CONNECT. CLOSE.** — *Your Property, Our Priority.*
 > **One Platform · Multiple Solutions** · Powered by DesiBizTrade
 
 <div align="center">
 
 ### 📞 Connect Now: [+91 97274 13309](https://wa.me/919727413309)
+
+<br />
+
+<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Real-Estate-Banner.jpg" alt="MetroMate Real Estate Consultant — Find. Connect. Close. One Platform Multiple Solutions." width="800" />
+
+> **MetroMate Real Estate** — *Your Property, Our Priority.* One platform for buying, selling, renting & listing residential and commercial properties across Surat. Trusted guidance · Wide network · Best results · Transparent deals.
+
+<br />
+
+<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Real-Estate-Logo-Badge.jpg" alt="MetroMate Real Estate Consultant — Buy, Sell, Rental, Listing — Powered by DesiBizTrade" width="500" />
+
+> **MetroMate Real Estate Consultant Services** — Powered by DesiBizTrade. Buy · Sell · Rental · Listing. *Your Property. Our Priority.* ⭐⭐⭐⭐⭐
+
+<br />
+
+<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Real-Estate-Sale.jpg" alt="MetroMate Real Estate — 1 BHK, 2 BHK, 3 BHK For Sale — Adajan, Pal, Palangpur, Jangirpura Surat" width="700" />
+
+> **Properties For Sale** — 1 BHK from ₹15,00,000 · 2 BHK from ₹20,00,000 · 3 BHK from ₹40,00,000 · Areas: Adajan · Pal · Palangpur · Jangirpura · 📞 [+91 97274 13309](https://wa.me/919727413309)
+
+<br />
+
+<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MM%20fb%20version.jpg" alt="MetroMate Real Estate — 1 BHK, 2 BHK, 3 BHK For Rent — Adajan, Pal, Palangpur, Jangirpura Surat" width="700" />
+
+> **Properties For Rent** — 1 BHK from ₹8,000 · 2 BHK from ₹15,000 · 3 BHK from ₹18,000 · Areas: Adajan · Pal · Palangpur · Jangirpura · 📞 [+91 97274 13309](https://wa.me/919727413309)
 
 </div>
 
@@ -236,8 +260,9 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 
 | Date & Time (IST) | Activity | Commit |
 |---|---|---|
-| **05 Jun 2026** | 🏠 README: MetroMate Real Estate section added — rent/sale pricing, 4 core services, trust pillars, WhatsApp CTA | latest |
-| **05 Jun 2026** | 🗺️ README enriched — SNTL84 4-layer node architecture, Facebook channel, browser automation stack added | latest |
+| **05 Jun 2026** | 🏠 README: 4 MetroMate Real Estate images embedded — banner, logo badge, sale & rent visuals live | latest |
+| **05 Jun 2026** | 🏠 README: MetroMate Real Estate section added — rent/sale pricing, 4 core services, trust pillars, WhatsApp CTA | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/93f8dc2e97d7d53fdc483295940e1e3159a81d65) |
+| **05 Jun 2026** | 🗺️ README enriched — SNTL84 4-layer node architecture, Facebook channel, browser automation stack added | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commits/main) |
 | **01 Jun 2026** | 📋 README: Trade Directory expanded — 40+ categories, full goldsmith & community topics | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commits/main) |
 | **30 May 2026 · 4:52 PM** | 📊 MetroMate README flagship update — B2C/B2B/CSV developer links published | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/82041037888748edff33d030fe3104f5ff0a9386) |
 | **30 May 2026 · 4:50 PM** | ✅ `MetroMate_services_v4.csv` pushed — 203 rows, SNTL84 credits updated | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/82041037888748edff33d030fe3104f5ff0a9386) |
@@ -271,7 +296,7 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 | [`MetroMate/services/B2C-Lead-Generation.md`](./MetroMate/services/B2C-Lead-Generation.md) | 📄 MD | B2C Lead Generation service details | ✅ Active |
 | [`sprint-sheets/`](./sprint-sheets) | 📁 Dir | 14 individual sprint & section Markdown sheets | 🔄 Active |
 | [`backend-architecture-study/`](./backend-architecture-study) | 📁 Dir | Backend architecture research & tech stack documentation | 🔄 Active |
-| [`assets/`](./assets) | 📁 Dir | Brand images — MetroMate umbrella, LGS, Recruitment, Lead Generation banners | ✅ Active |
+| [`assets/`](./assets) | 📁 Dir | Brand images — MetroMate umbrella, LGS, Recruitment, Lead Gen + Real Estate banners | ✅ Active |
 | [`LICENSE`](./LICENSE) | 📜 | MIT License | ✅ |
 
 ---
