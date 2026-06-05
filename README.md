@@ -160,11 +160,11 @@ MetroMate Real Estate Consultant is the **dedicated property vertical** of the S
 │  COMMUNITY    │  │  SERVICE      │  │  SOCIAL       │  │  MVP HOSTING  │
 │  PLATFORM     │  │  ENGINE       │  │  DISTRIBUTION │  │  & PROMO      │
 │               │  │               │  │               │  │               │
-│ Tragad Soni   │  │ SNTL84        │  │ DesiBiz Trade │  │ desidevloper  │
+│ Tragad Soni   │  │ SNTL84        │  │ @desibiztrade │  │ desidevloper  │
 │ Website       │  │ Workflows     │  │ Instagram     │  │ .com          │
 │ Member Trust  │  │ MetroMate     │  │ Facebook      │  │ Hostinger     │
 │ Event Hub     │  │ Real Estate   │  │ LinkedIn      │  │ Vercel        │
-│ Trade Leads   │  │ Automation    │  │ YouTube       │  │ GitHub Pages  │
+│ Trade Leads   │  │ Automation    │  │ @SNTL84 YT    │  │ GitHub Pages  │
 │ Community SEO │  │ Concierge     │  │ WhatsApp      │  │ Promotion Ops │
 │               │  │ Operations    │  │ Aratt.ai      │  │               │
 └───────┬───────┘  └───────┬───────┘  └───────┬───────┘  └───────┬───────┘
@@ -211,7 +211,7 @@ The browser automation layer connects all four growth node layers — enabling s
 
 ## 🧠 SNTL 84 — Agentic AI Workflow Professional
 
-> **Automate What’s Costing You Money · Systems that Scale · Results that Last**
+> **Automate What's Costing You Money · Systems that Scale · Results that Last**
 
 | Service Pillar | What We Deliver |
 |---|---|
@@ -228,10 +228,10 @@ The browser automation layer connects all four growth node layers — enabling s
 
 ### 🔗 Connect with SNTL84
 
-| Channel | Link |
+| Channel | Handle / Link |
 |---|---|
-| 🌐 Website | [desidevloper.com](https://desidevloper.com) |
-| 💬 WhatsApp | [wa.me/919727413309](https://wa.me/919727413309) |
+| 🌐 Website | [desidevloper.com](https://desidevloper.com/) |
+| 💬 WhatsApp | [+91 97274 13309](https://wa.me/919727413309) |
 | 🔗 LinkedIn | [linkedin.com/in/sntl2784](https://www.linkedin.com/in/sntl2784) |
 | 💻 GitHub | [github.com/SNTL84](https://github.com/SNTL84) |
 | 📸 Instagram | [@desibiztrade](https://www.instagram.com/desibiztrade) |
@@ -263,7 +263,8 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 
 | Date (IST) | Activity | Commit |
 |---|---|---|
-| **05 Jun 2026** | 🏛️ README: flagship restructure — What Is This Project + Mission above images, GitHub badges, zero duplication | latest |
+| **05 Jun 2026** | 🔗 Handles unified — all 9 SNTL84 channels updated, footer CTA enriched, Social Distribution layer synced | latest |
+| **05 Jun 2026** | 🏛️ README: flagship restructure — What Is This Project + Mission above images, GitHub badges, zero duplication | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/7411c6ee642b2450454c268a2522d46da6f1539d) |
 | **05 Jun 2026** | 🏠 README: 4 MetroMate Real Estate images embedded — banner, logo badge, sale & rent visuals live | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/6a27581e1e01778df2df3afb627c61edbc535341) |
 | **05 Jun 2026** | 🏠 README: MetroMate Real Estate section added — rent/sale pricing, 4 core services, trust pillars | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/93f8dc2e97d7d53fdc483295940e1e3159a81d65) |
 | **05 Jun 2026** | 🗺️ README enriched — SNTL84 4-layer node architecture, Facebook channel, browser automation stack | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commits/main) |
@@ -291,177 +292,140 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 | [`MetroMate/services/B2C-Lead-Generation.md`](./MetroMate/services/B2C-Lead-Generation.md) | 📄 MD | B2C Lead Generation service details | ✅ Active |
 | [`sprint-sheets/`](./sprint-sheets) | 📁 Dir | 14 individual sprint & section Markdown sheets | 🔄 Active |
 | [`backend-architecture-study/`](./backend-architecture-study) | 📁 Dir | Backend architecture research & tech stack documentation | 🔄 Active |
-| [`assets/`](./assets) | 📁 Dir | Brand images — MetroMate umbrella, LGS, Recruitment, Lead Gen + Real Estate banners | ✅ Active |
-| [`LICENSE`](./LICENSE) | 📜 MIT | Open source license | ✅ |
+| [`assets/`](./assets) | 📁 Dir | Brand images — MetroMate umbrella, LGS, services, real estate banners | ✅ Growing |
 
 ---
 
-## 🏢 MetroMate — B2B & B2C Services (`203 Services ✅`)
+## 🏗️ MetroMate Services — B2B · B2C · Real Estate
 
-**MetroMate is now a proud part of SNTL 84 Digital Marketing Services.** The [`MetroMate/`](./MetroMate/) folder is the complete service delivery engine for location-based B2B & B2C lead generation.
+> Full service list: [`MetroMate_services_v4.csv`](./MetroMate/services/MetroMate_services_v4.csv) · **203 active service lines**
 
-### MetroMate B2C SERVICES
-
-| Category | Services |
-|---|---|
-| Home Repairs | Electrician · Plumber · Carpenter · Fabrication |
-| Appliance | RO Installation · Water Motor · Water Tank Cleaning |
-| Vehicles | Two-Wheeler Repair/Service · Four-Wheeler Repair/Service · Auto Parts |
-| Lifestyle | Salon · Beautician · Grooming · Cook On Call · Tiffin Services |
-| Healthcare | Doctor On Call · Home Nurse · Pharmacy · Physiotherapy |
-| Travel | Flight · Train · Bus Tickets · Vehicle Rental · Local Transport |
-| Finance | Mutual Fund Advisor · Health/Life Insurance · Gold/Silver/Diamond Jewellery |
-
-### MetroMate B2B SERVICES
-
-| Category | Services |
-|---|---|
-| Technology | Software Dev · Website Dev · Cloud · IT Staffing · AI Automation |
-| Marketing | Digital Marketing · SEO · Meta Ads · Lead Generation · Growth Marketing |
-| Recruitment | IT Recruitment · Non-IT Recruitment · Temp/Permanent Staffing · Bench Resources |
-| Operations | GST Filing · Income Tax · Real Estate · Corporate Security · Movers & Packers |
-| Supply Chain | Supply Chain BI · Commercial Material Supplier · Restaurant Equipment · Solar |
-
-### 📊 Services Data File
-
-> 📁 **Raw CSV (203 rows):** [`MetroMate_services_v4.csv`](./MetroMate/services/MetroMate_services_v4.csv)
->
-> **Raw URL for developers:**
-> ```
-> https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/MetroMate/services/MetroMate_services_v4.csv
-> ```
+| Segment | Categories | Count |
+|---|---|---|
+| **B2C** | Home Services · Healthcare · Retail · Lifestyle · Education | 110+ |
+| **B2B** | IT · Staffing · Legal · Digital Marketing · Finance · Supply Chain | 70+ |
+| **Real Estate** | Buy · Sell · Rent · List · Find Property | 23+ |
 
 ---
 
-## 🏠 Family Registration Form (V1 — Live)
+## 👨‍👩‍👧 Tragad Soni Family Registry Form
 
-**[`Family-Reg-V1-Final.html`](./Family-Reg-V1-Final.html)** is a **fully functional, zero-dependency, single-file HTML registration form** built for community data collection.
+> Live HTML Form — captures family head, spouse, children, contact details and submits directly via WhatsApp.
 
-### Features
-- 🔖 **Family Identification** — Surname, native village (*mool gam*), current city
-- 👑 **Head of Family** — Full name, DOB, mobile, occupation, photo upload
-- 💍 **Spouse Details** — Living status, maiden surname, mobile contact
-- 👶 **Children Details** — Sons, daughters, son-in-law fields, grandchildren count
-- 📍 **Address Module** — Full address with Gujarat & Maharashtra city dropdowns
-- 📋 **Additional Info** — Blood groups, skills, business category, anniversary date
-- 📲 **WhatsApp Submit** — One-tap form submission via WhatsApp message
-
-```bash
-git clone https://github.com/SNTL84/Tragad-Soni-Website-Roadmap.git
-cd Tragad-Soni-Website-Roadmap
-open Family-Reg-V1-Final.html
-```
-
-> 💡 Or [**download the HTML file directly**](./Family-Reg-V1-Final.html) — works offline in any browser.
+- 📝 **File:** [`Family-Reg-V1-Final.html`](./Family-Reg-V1-Final.html)
+- 🎯 **Purpose:** Digital census for the Tragad Soni community — lineage documentation & directory
+- 📲 **Submission:** WhatsApp-native — data goes directly to community admin
+- 🌍 **Coverage:** Surat · Vadodara · Rajkot · Mumbai · Diaspora worldwide
 
 ---
 
-## 🗺️ Full Website Roadmap — Phase Breakdown
+## 🗺️ Interactive Roadmap
 
-### Phase 1 · Planning & Setup `🟡 75% In Progress`
-- [x] Domain registration & DNS configuration
-- [x] Hosting setup (Hostinger / Vercel)
-- [x] Tech stack decided — Vanilla HTML/CSS/JS, zero dependencies
-- [x] GitHub repository created and structured
-- [x] Sprint sheets created (14 sub-sheets)
-- [x] Family Registration Form V1 shipped
-- [ ] Wireframes finalised
-- [ ] Content strategy locked
+> Version 3 is the flagship — dark mode, download PNG, full navigation.
 
-### Phase 2 · Design & Branding `🔄 20% Started`
-- [x] Logo concept scoped
-- [x] Colour palette — gold/saffron/ivory community identity
-- [ ] Full UI mockups — homepage, directory, member profile
-- [ ] Mobile-first design system
-- [ ] Brand guide document
-
-### Phase 3 · Development `📅 Upcoming`
-- [ ] Homepage — hero, mission, quick links
-- [ ] Member Directory — search, filter by city/trade/surname
-- [ ] Trade Directory — 40+ goldsmith & jewellery categories
-- [ ] Event & Exhibition Calendar — auto-fed from xlsx pipeline via n8n
-- [ ] Community Announcement Board
-- [ ] Family Registration — V2 with backend (Google Sheets integration)
-- [ ] Browser automation: Excel event data → auto-update calendar
-- [ ] MetroMate event logistics integration — booking via MetroMate
-- [ ] MetroMate Real Estate lead pipeline — property enquiry → WhatsApp alert
-
-### Phase 4 · Testing & QA `📅 Upcoming`
-- [ ] Cross-browser testing (Chrome, Safari, Firefox)
-- [ ] Mobile responsiveness audit (375px, 390px, 768px)
-- [ ] Form submission end-to-end testing
-- [ ] WhatsApp integration QA
-- [ ] Performance audit (LCP < 2.5s, CLS < 0.1)
-
-### Phase 5 · Launch & SEO `📅 Upcoming`
-- [ ] Go-live on Hostinger / Vercel
-- [ ] Google Search Console setup
-- [ ] Sitemap & robots.txt
-- [ ] DesiBiz Trade social channels — Instagram, Facebook launch posts
-- [ ] WhatsApp broadcast to community members
-- [ ] LinkedIn announcement post
-
-### Phase 6 · Mobile App / PWA `🔭 Planned 2027`
-- [ ] Progressive Web App (PWA) conversion
-- [ ] Push notifications for events & announcements
-- [ ] Offline member directory access
-- [ ] Native App — Android & iOS (React Native)
+| Version | File | Features | Status |
+|---|---|---|---|
+| **v3** ⭐ | [`Tragad-Soni-Roadmap-v3.html`](./Tragad-Soni-Roadmap-v3.html) | Dark mode · PNG export · Full navigation | ✅ Live |
+| v2 | [`Tragad-Soni-Roadmap-v2.html`](./Tragad-Soni-Roadmap-v2.html) | Tabbed UI · Interactive mindmap | 📦 Archive |
 
 ---
 
-## 🏗️ Tech Stack
+## 🛠️ Tech Stack
 
 | Layer | Technology |
 |---|---|
-| Frontend | Vanilla JS · HTML · CSS (zero frameworks) |
-| Automation | n8n · Browser Automation · Webhook pipelines |
-| AI Workflows | Custom Agents · Prompt Engineering · Claude/OpenAI |
-| Backend/API | Node.js · Google Sheets API · AppScript |
-| Cloud Infra | Google Cloud · Vercel · Hostinger · Supabase |
-| CI/CD | GitHub Actions · GitHub Pages · Vercel auto-deploy |
-| Browser Automation | Puppeteer · n8n Browser Node · Playwright scripts |
-| Data & Intel | Google Forms → Sheets → Dashboard pipelines |
+| **Frontend** | HTML5 · CSS3 · Vanilla JS · Responsive Design |
+| **Forms** | Native HTML Forms → WhatsApp API submission |
+| **Hosting** | GitHub Pages · Vercel · Hostinger |
+| **Automation** | n8n · Puppeteer · Playwright · Google Sheets API |
+| **AI Layer** | Claude AI · GPT · Aratt.ai · Prompt Engineering |
+| **CRM** | Google Sheets · WhatsApp Business API |
+| **Analytics** | GitHub Insights · Google Analytics (planned) |
+| **Version Control** | Git · GitHub · Branch strategy |
 
 ---
 
-## 🔗 Node Connection Map
+## 🌐 SNTL84 Connection Node Map
 
 ```text
-                        ┌───────────────────┐
-                        │   SNTL84 Node     │
-                        │  (this repo)      │
-                        └─────────┬─────────┘
+                        ┌──────────────────────┐
+                        │    SNTL84 · MILAN     │
+                        │   Surat, Gujarat, IN  │
+                        └──────────┬───────────┘
+                                   │
+          ┌────────────────────────┼────────────────────────┐
+          │                        │                        │
+          ▼                        ▼                        ▼
+  ┌───────────────┐      ┌──────────────────┐     ┌────────────────┐
+  │  🌐 DIGITAL   │      │  🤝 COMMUNITY    │     │  🏢 SERVICES   │
+  │               │      │                  │     │                │
+  │ desidevloper  │      │  Tragad Soni     │     │ MetroMate      │
+  │   .com        │      │  Heritage Plat.  │     │ B2B · B2C      │
+  │ github/SNTL84 │      │  Family Registry │     │ Real Estate    │
+  │ aratt.ai      │      │  Trade Directory │     │ Lead Gen       │
+  │ @desidevloper │      │  Event Calendar  │     │ Recruitment    │
+  └───────┬───────┘      └────────┬─────────┘     └───────┬────────┘
+          │                       │                        │
+          └───────────────────────┼────────────────────────┘
                                   │
-          ┌───────────────────────┼───────────────────────┐
-          │                       │                       │
-          ▼                       ▼                       ▼
-  ┌───────────────┐      ┌─────────────────┐     ┌────────────────┐
-  │ Tragad Soni   │      │    MetroMate    │     │  desidevloper  │
-  │   Website ⭐  │◀────▶│  B2B · B2C     │◀───▶│     .com       │
-  │               │      │  Real Estate   │     │                │
-  │ Community     │      │  Service       │     │  Dev Portfolio │
-  │ Trust Portal  │      │  Operations    │     │  + Hosting Hub │
-  └───────┬───────┘      └────────┬───────┘     └───────┬────────┘
-          │                       │                     │
-          └───────────────────────┼─────────────────────┘
-                                  │
-                    ┌─────────────▼──────────────┐
-                    │     DesiBiz Trade          │
-                    │  Social Distribution       │
-                    │  Instagram · Facebook      │
-                    │  LinkedIn · YouTube        │
-                    │  WhatsApp · Aratt.ai       │
-                    └───────────────────────────┘
+          ┌───────────────────────┼────────────────────────┐
+          │                       │                        │
+          ▼                       ▼                        ▼
+  ┌───────────────┐     ┌──────────────────┐    ┌─────────────────┐
+  │  📱 SOCIAL    │     │  ⚙️ AUTOMATION   │    │  📊 ANALYTICS   │
+  │               │     │                  │    │                 │
+  │ @desibiztrade │     │ n8n workflows    │    │ Google Sheets   │
+  │ Instagram     │     │ Puppeteer        │    │ GitHub Insights │
+  │ Facebook      │     │ Playwright       │    │ WhatsApp Stats  │
+  │ @SNTL84 YT    │     │ Google Forms API │    │ BI Dashboards   │
+  │ LinkedIn      │     │ Webhooks / CRM   │    │ Lead Pipeline   │
+  │ WhatsApp      │     │ Scheduled tasks  │    │ SEO Tracking    │
+  └───────────────┘     └──────────────────┘    └─────────────────┘
 ```
+
+---
+
+## 📌 Phase 3 Preview — Upcoming Development
+
+| Feature | Description | Priority |
+|---|---|---|
+| 🌐 Community Website | Tragad Soni heritage & trade portal — full responsive build | 🔴 High |
+| 👨‍👩‍👧 Family Directory | Searchable member registry with lineage tree | 🔴 High |
+| 🏪 Trade Directory | Goldsmith & jewellery business listings — SEO optimised | 🔴 High |
+| 💒 Matrimony Module | Community matchmaking with privacy controls | 🟡 Medium |
+| 📅 Event Calendar | Festivals, exhibitions & community events | 🟡 Medium |
+| 🤖 AI Assistant | Community FAQ bot + WhatsApp integration | 🟡 Medium |
+| MetroMate Real Estate lead pipeline | Property enquiry → WhatsApp alert → CRM | 🟡 Medium |
+| 📱 Mobile PWA | Progressive Web App for mobile-first access | 🟢 Phase 6 |
 
 ---
 
 <div align="center">
 
-🏆 **Trusted by Businesses Worldwide** &nbsp;·&nbsp; ✅ **Proven Systems. Real People. Real Results.**
+---
 
-📞 **MetroMate Real Estate: [+91 97274 13309](https://wa.me/919727413309)** &nbsp;·&nbsp; *Find. Connect. Close.*
+### 🌟 Built with Purpose · Powered by Community · Scaled by SNTL84
 
-*Built with 🪷 in Surat, India · © 2026 SNTL84 — Milan*
+**Tragad Soni Website Roadmap** — Surat, Gujarat, India · Est. 2024
+
+| | |
+|---|---|
+| 🌐 **Website** | [desidevloper.com](https://desidevloper.com/) |
+| 💬 **WhatsApp** | [+91 97274 13309](https://wa.me/919727413309) |
+| 🔗 **LinkedIn** | [linkedin.com/in/sntl2784](https://www.linkedin.com/in/sntl2784) |
+| 💻 **GitHub** | [github.com/SNTL84](https://github.com/SNTL84) |
+| 📸 **Instagram** | [@desibiztrade](https://www.instagram.com/desibiztrade) |
+| 📘 **Facebook** | [DesiBiz Trade](https://www.facebook.com/profile.php?id=61590405098559) |
+| 🔴 **YouTube** | [@SNTL84](https://www.youtube.com/@SNTL84) |
+| 🤖 **Aratt.ai** | [@desidevloper](https://aratt.ai/user/@desidevloper) |
+| 📧 **Email** | [3goldenlotusroots@gmail.com](mailto:3goldenlotusroots@gmail.com) |
+
+> *📞 MetroMate Real Estate: [+91 97274 13309](https://wa.me/919727413309) · Find. Connect. Close.*
+>
+> *🏛️ Tragad Soni Community: Preserving Roots · Connecting Globally · Building the Future Together*
+
+[![GitHub stars](https://img.shields.io/github/stars/SNTL84/Tragad-Soni-Website-Roadmap?style=social)](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/SNTL84/Tragad-Soni-Website-Roadmap?style=social)](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/SNTL84/Tragad-Soni-Website-Roadmap?style=social)](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/watchers)
 
 </div>
