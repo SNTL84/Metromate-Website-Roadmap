@@ -1,21 +1,42 @@
 # 🏛️ Tragad Soni — Community Heritage & Trade Platform
 ### Official Digital Roadmap · Family Registry · Business Directory · Lineage System
 
-> **🌐 Live Project | Community-First | Est. 2024 | Surat, Gujarat, India**
+<div align="center">
+
+> **🌐 Live Project · Community-First · Est. 2024 · Surat, Gujarat, India**
 >
 > *Preserving Roots · Connecting the Tragad Soni Goldsmith Community Globally · Building the Future Together*
 
----
-
 [![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen?style=for-the-badge)](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap)
-[![Community](https://img.shields.io/badge/Community-Tragad%20Soni-gold?style=for-the-badge)](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap)
-[![Phase](https://img.shields.io/badge/Current%20Phase-1%20Planning%2075%25-yellow?style=for-the-badge)](./sprint-sheets/Phase1_Planning_Sprint.md)
+[![Community](https://img.shields.io/badge/Community-Tragad%20Soni%20Goldsmith-gold?style=for-the-badge)](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap)
+[![Phase](https://img.shields.io/badge/Phase%201-Planning%2075%25-yellow?style=for-the-badge)](./sprint-sheets/Phase1_Planning_Sprint.md)
 [![MetroMate](https://img.shields.io/badge/Partner-MetroMate%20B2B%20%26%20B2C-orange?style=for-the-badge)](./MetroMate/)
-[![Real Estate](https://img.shields.io/badge/NEW-MetroMate%20Real%20Estate-red?style=for-the-badge)](#-metromate-real-estate-consultant)
+[![Real Estate](https://img.shields.io/badge/%F0%9F%94%B4%20NEW-MetroMate%20Real%20Estate-red?style=for-the-badge)](#-metromate-real-estate-consultant)
 [![Services](https://img.shields.io/badge/MetroMate%20Services-203%20Listed-blue?style=for-the-badge)](./MetroMate/services/MetroMate_services_v4.csv)
 [![Author](https://img.shields.io/badge/Author-SNTL84-blue?style=for-the-badge)](https://github.com/SNTL84)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)](./LICENSE)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact%20Now-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/919727413309)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/pulls)
+[![Made in India](https://img.shields.io/badge/Made%20in-India%20🇮🇳-orange?style=for-the-badge)](https://github.com/SNTL84)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919727413309)
+
+</div>
+
+---
+
+## 🏛️ What Is This Project?
+
+The **Tragad Soni Website** is a **community-first digital platform** for the **Tragad Soni (Goldsmith) community** of Gujarat, Maharashtra, and diaspora worldwide. This repository is the **complete, living roadmap** — from ideation to international launch.
+
+> *The Tragad Soni community, historically centered around Surat, Vadodara, Rajkot & Mumbai, has deep roots in goldsmithing, trade, and cultural heritage. This platform is being built to digitize and unify their legacy for generations to come.*
+
+### 🎯 Mission
+
+| Pillar | Purpose |
+|---|---|
+| 🔮 **Preserve** | Document lineage, family histories, and community heritage |
+| 🤝 **Connect** | Build the largest Tragad Soni community network globally |
+| 💪 **Empower** | Enable trade, matrimony, education, and healthcare discovery |
+| 🌍 **Scale** | International trade directory standards for global visibility |
 
 ---
 
@@ -41,7 +62,7 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Recruitment-servicespng.jpg" alt="MetroMate — MetroMate Placement Services powered by SNTL 84" width="800" />
+<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Recruitment-servicespng.jpg" alt="MetroMate — Placement Services powered by SNTL 84" width="800" />
 
 > **MetroMate Placement Services** powered by SNTL 84 — IT Specialists (Software Engineers, Cloud & DevOps, Data Scientists, Cybersecurity, QA) & Non-IT Staff (Sales, Customer Success, Digital Marketers, Finance & HR, Supply Chain).
 
@@ -56,10 +77,6 @@
 
 <div align="center">
 
-### 📞 Connect Now: [+91 97274 13309](https://wa.me/919727413309)
-
-<br />
-
 <img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Real-Estate-Banner.jpg" alt="MetroMate Real Estate Consultant — Find. Connect. Close. One Platform Multiple Solutions." width="800" />
 
 > **MetroMate Real Estate** — *Your Property, Our Priority.* One platform for buying, selling, renting & listing residential and commercial properties across Surat. Trusted guidance · Wide network · Best results · Transparent deals.
@@ -72,15 +89,15 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Real-Estate-Sale.jpg" alt="MetroMate Real Estate — 1 BHK, 2 BHK, 3 BHK For Sale — Adajan, Pal, Palangpur, Jangirpura Surat" width="700" />
+<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Real-Estate-Sale.jpg" alt="MetroMate Real Estate — 1 BHK, 2 BHK, 3 BHK For Sale — Adajan, Pal, Palangpur, Jangirpura, Surat" width="700" />
 
-> **Properties For Sale** — 1 BHK from ₹15,00,000 · 2 BHK from ₹20,00,000 · 3 BHK from ₹40,00,000 · Areas: Adajan · Pal · Palangpur · Jangirpura · 📞 [+91 97274 13309](https://wa.me/919727413309)
+> **For Sale** — 1 BHK ₹15,00,000+ · 2 BHK ₹20,00,000+ · 3 BHK ₹40,00,000+ · Areas: Adajan · Pal · Palangpur · Jangirpura
 
 <br />
 
-<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MM%20fb%20version.jpg" alt="MetroMate Real Estate — 1 BHK, 2 BHK, 3 BHK For Rent — Adajan, Pal, Palangpur, Jangirpura Surat" width="700" />
+<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MM%20fb%20version.jpg" alt="MetroMate Real Estate — 1 BHK, 2 BHK, 3 BHK For Rent — Adajan, Pal, Palangpur, Jangirpura, Surat" width="700" />
 
-> **Properties For Rent** — 1 BHK from ₹8,000 · 2 BHK from ₹15,000 · 3 BHK from ₹18,000 · Areas: Adajan · Pal · Palangpur · Jangirpura · 📞 [+91 97274 13309](https://wa.me/919727413309)
+> **For Rent** — 1 BHK ₹8,000+ · 2 BHK ₹15,000+ · 3 BHK ₹18,000+ · Areas: Adajan · Pal · Palangpur · Jangirpura
 
 </div>
 
@@ -102,14 +119,14 @@ MetroMate Real Estate Consultant is the **dedicated property vertical** of the S
 | 2 BHK For Sale | ₹ 20,00,000/- onwards | Adajan · Pal · Palangpur · Jangirpura |
 | 3 BHK For Sale | ₹ 40,00,000/- onwards | Adajan · Pal · Palangpur · Jangirpura |
 
-### 🔑 Our 4 Core Services
+### 🔑 Core Services
 
 | Service | Description |
 |---|---|
 | 🏠 **Buy / Sell** | Residential & Commercial Properties — end-to-end transaction support |
 | 🏢 **Rental** | Residential & Commercial Properties — tenants matched with verified listings |
-| 📋 **List Your Property** | We help you list & market your property effectively for maximum reach |
-| 🤝 **Find Your Property** | We connect you with the right opportunities matching your exact requirements |
+| 📋 **List Your Property** | We help you list & market effectively for maximum reach |
+| 🤝 **Find Your Property** | We connect you with the right opportunities matching your requirements |
 
 ### ✅ Why MetroMate Real Estate?
 
@@ -120,7 +137,7 @@ MetroMate Real Estate Consultant is the **dedicated property vertical** of the S
 | 📈 **Best Results** | Maximising value, delivering successful deals |
 | 🤝 **Transparent Deals** | Honest. Clear. Hassle-Free. |
 | 📍 **Local Experts** | In-depth market knowledge, local insights |
-| 🏆 **Your Trust, Our Commitment** | Personalised solutions · End-to-end support · 100% confidentiality · Client-first approach |
+| 🏆 **Your Trust, Our Commitment** | Personalised solutions · End-to-end support · 100% confidentiality · Client-first |
 
 > 📲 **Ready to find or list a property?** — [WhatsApp +91 97274 13309](https://wa.me/919727413309)
 
@@ -128,7 +145,7 @@ MetroMate Real Estate Consultant is the **dedicated property vertical** of the S
 
 ## 🗺️ SNTL84 Growth Infrastructure Node — Four-Layer Architecture
 
-> **Tragad Soni Website is Layer 1** of the SNTL84 Growth Infrastructure Node. Each layer feeds the next: community trust creates demand → services convert demand into delivery → social channels amplify proof → hosting infrastructure keeps every MVP live.
+> **Tragad Soni Website is Layer 1** of the SNTL84 Growth Infrastructure Node. Each layer feeds the next: community trust → service delivery → social amplification → live hosting.
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────┐
@@ -194,7 +211,7 @@ The browser automation layer connects all four growth node layers — enabling s
 
 ## 🧠 SNTL 84 — Agentic AI Workflow Professional
 
-> **Automate What's Costing You Money**
+> **Automate What’s Costing You Money · Systems that Scale · Results that Last**
 
 | Service Pillar | What We Deliver |
 |---|---|
@@ -206,10 +223,10 @@ The browser automation layer connects all four growth node layers — enabling s
 | **Bench Resource Availability** | On-demand talent · Contract developers · Project consultants |
 | **Full-Stack Builds** | Next.js · React · Node.js · Supabase · API integrations |
 | **AI Workflows** | n8n · Agentic AI · Process automation · Chatbots |
-| **Supply Chain Business Intelligence** | Data dashboards · BI reporting · Supply intelligence |
+| **Supply Chain BI** | Data dashboards · BI reporting · Supply intelligence |
 | **Browser Automation** | Puppeteer · Playwright · n8n Browser Node · Scheduled pipelines |
 
-🚀 Follow for practical AI automation insights & founder systems.
+### 🔗 Connect with SNTL84
 
 | Channel | Link |
 |---|---|
@@ -225,20 +242,6 @@ The browser automation layer connects all four growth node layers — enabling s
 
 ---
 
-## 📌 What Is This Project?
-
-The **Tragad Soni Website** is a **community-first digital platform** for the **Tragad Soni (Goldsmith) community** of Gujarat, Maharashtra, and diaspora worldwide. This repository is the **complete, living roadmap** — from ideation to international launch.
-
-> The Tragad Soni community, historically centered around Surat, Vadodara, Rajkot & Mumbai, has deep roots in goldsmithing, trade, and cultural heritage. This platform is being built to digitize and unify their legacy.
-
-### 🎯 Mission
-- **Preserve** — Document lineage, family histories, and community heritage
-- **Connect** — Build the largest Tragad Soni community network globally
-- **Empower** — Enable trade, matrimony, education, and healthcare discovery
-- **Scale** — International trade directory standards for global visibility
-
----
-
 ## 🚦 Overall Progress — June 2026
 
 ```
@@ -247,7 +250,7 @@ Phase 2 · Design & Branding         ██░░░░░░░░  20% 🔄 St
 Phase 3 · Development               ░░░░░░░░░░   0% 📅 Upcoming
 Phase 4 · Testing & QA              ░░░░░░░░░░   0% 📅 Upcoming
 Phase 5 · Launch & SEO              ░░░░░░░░░░   0% 📅 Upcoming
-Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Planned
+Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Planned 2027
 ```
 
 > 📋 **Full task tracker:** [`Phase_Detail_Tracker.md`](./sprint-sheets/Phase_Detail_Tracker.md)
@@ -258,27 +261,19 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 
 > All commits tracked on [`main` branch](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commits/main)
 
-| Date & Time (IST) | Activity | Commit |
+| Date (IST) | Activity | Commit |
 |---|---|---|
-| **05 Jun 2026** | 🏠 README: 4 MetroMate Real Estate images embedded — banner, logo badge, sale & rent visuals live | latest |
-| **05 Jun 2026** | 🏠 README: MetroMate Real Estate section added — rent/sale pricing, 4 core services, trust pillars, WhatsApp CTA | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/93f8dc2e97d7d53fdc483295940e1e3159a81d65) |
-| **05 Jun 2026** | 🗺️ README enriched — SNTL84 4-layer node architecture, Facebook channel, browser automation stack added | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commits/main) |
+| **05 Jun 2026** | 🏛️ README: flagship restructure — What Is This Project + Mission above images, GitHub badges, zero duplication | latest |
+| **05 Jun 2026** | 🏠 README: 4 MetroMate Real Estate images embedded — banner, logo badge, sale & rent visuals live | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/6a27581e1e01778df2df3afb627c61edbc535341) |
+| **05 Jun 2026** | 🏠 README: MetroMate Real Estate section added — rent/sale pricing, 4 core services, trust pillars | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/93f8dc2e97d7d53fdc483295940e1e3159a81d65) |
+| **05 Jun 2026** | 🗺️ README enriched — SNTL84 4-layer node architecture, Facebook channel, browser automation stack | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commits/main) |
 | **01 Jun 2026** | 📋 README: Trade Directory expanded — 40+ categories, full goldsmith & community topics | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commits/main) |
-| **30 May 2026 · 4:52 PM** | 📊 MetroMate README flagship update — B2C/B2B/CSV developer links published | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/82041037888748edff33d030fe3104f5ff0a9386) |
-| **30 May 2026 · 4:50 PM** | ✅ `MetroMate_services_v4.csv` pushed — 203 rows, SNTL84 credits updated | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/82041037888748edff33d030fe3104f5ff0a9386) |
-| **30 May 2026 · 3:14 PM** | 🖼️ Asset filenames fixed — old PNG files with spaces deleted, replaced by hyphenated JPGs | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/1f89c4e9093fafdd64b8927e980fc4e8cbd66889) |
-| **30 May 2026 · 3:09 PM** | 🖼️ 3 new MetroMate brand images uploaded to `assets/` (LGS · Lead Gen Service Provider · Recruitment) | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/470f09308456b3fca09d8662c0bafe74d39a3796) |
-| **30 May 2026 · 2:57 PM** | 📋 README updated — 3 new MetroMate brand banners added below umbrella image | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/70fa63c921fe688fb2b8ae69be40c16e59d4228f) |
-| **30 May 2026 · 10:28 AM** | 🚦 Phase progress tracker updated — Phase 1 confirmed 75%, Phase 2 at 20% | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/9d673425e00de0ec5aacf0e44133ea77d9589377) |
-| **29 May 2026 · 6:48 PM** | 🏢 MetroMate Supplier Registration Form added — dark UI, fully responsive onboarding form | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/39bfcb10d2d5ccee3c9ce7e116b851abe5571499) |
-| **29 May 2026 · 6:46 PM** | 📖 MetroMate README upgraded — full dev guide, form schema, services architecture, trade roadmap | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/a1f54689d0ca6944bae8f5f1729278d30e7a1651) |
-| **27 May 2026 · 4:18 PM** | 🖼️ Brand image display fixed — `Optimised-SNTL-84-MetroMate-umbrella.jpg` renders correctly | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/4b13911ff752ff803b00925d9aa541be1740fddb) |
-| **27 May 2026 · 4:10 PM** | ✨ MetroMate Umbrella brand image added to `assets/` folder | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/1b132c390841a23008196276cbfebcb06d8f414f) |
-| **09 May 2026** | 📖 Backend Study README updated — assets list & progress notes added | — |
-| **08 May 2026** | 🗺️ Roadmap v3 published — dark mode, download PNG, smooth navigation | — |
-| **08 May 2026** | 🚀 README v2.0 launched — flagship upgrade with roadmap, trade directory, international sections | — |
-| **06–07 May 2026** | 📋 All 14 Sprint Sheets created — Phase Tracker · Trade Dir · Matrimony · Healthcare · School · Member Portal | — |
-| **07 May 2026** | 🗺️ Roadmap v2 added — tabbed UI with interactive mindmap + download | — |
+| **30 May 2026** | 📊 MetroMate README flagship — B2C/B2B/CSV developer links · `MetroMate_services_v4.csv` 203 rows | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/82041037888748edff33d030fe3104f5ff0a9386) |
+| **30 May 2026** | 🖼️ Asset filenames fixed · 3 new MetroMate brand images uploaded to `assets/` | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/470f09308456b3fca09d8662c0bafe74d39a3796) |
+| **29 May 2026** | 🏢 MetroMate Supplier Registration Form added · MetroMate README upgraded | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/39bfcb10d2d5ccee3c9ce7e116b851abe5571499) |
+| **27 May 2026** | ✨ MetroMate Umbrella brand image added · display fixed | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/4b13911ff752ff803b00925d9aa541be1740fddb) |
+| **08–09 May 2026** | 🚀 README v2.0 launched · Roadmap v3 published · Backend Study README updated | — |
+| **06–07 May 2026** | 📋 All 14 Sprint Sheets created · Roadmap v2 added | — |
 
 ---
 
@@ -287,8 +282,8 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 | File / Folder | Type | Description | Status |
 |---|---|---|---|
 | [`Family-Reg-V1-Final.html`](./Family-Reg-V1-Final.html) | 📝 HTML | Live Family Registration Form — Head, Spouse, Children, Address, WhatsApp Submit | ✅ Live |
-| [`Tragad-Soni-Roadmap-v3.html`](./Tragad-Soni-Roadmap-v3.html) | 🗺️ HTML | Interactive HTML Roadmap v3 — dark mode, nav & download PNG | ✅ Live |
-| [`Tragad-Soni-Roadmap-v2.html`](./Tragad-Soni-Roadmap-v2.html) | 🗺️ HTML | Roadmap v2 — tabbed UI, interactive mindmap (reference version) | 📦 Archive |
+| [`Tragad-Soni-Roadmap-v3.html`](./Tragad-Soni-Roadmap-v3.html) | 🗺️ HTML | Interactive Roadmap v3 — dark mode, navigation & download PNG | ✅ Live |
+| [`Tragad-Soni-Roadmap-v2.html`](./Tragad-Soni-Roadmap-v2.html) | 🗺️ HTML | Roadmap v2 — tabbed UI, interactive mindmap (reference archive) | 📦 Archive |
 | [`Tragad_Soni_Website_Roadmap_Milan_SNTL84.xlsx`](./Tragad_Soni_Website_Roadmap_Milan_SNTL84.xlsx) | 📊 Excel | Full roadmap, feature planning & milestone tracker (14 sprint sub-sheets) | ✅ Active |
 | [`MetroMate/`](./MetroMate/) | 📁 Dir | MetroMate B2B & B2C — Supplier Registration Form, services config, README | ✅ Live |
 | [`MetroMate/services/MetroMate_services_v4.csv`](./MetroMate/services/MetroMate_services_v4.csv) | 📊 CSV | **203 services** — B2B, B2C, Both · Categories, Sub-Categories, Keywords | ✅ Latest |
@@ -297,7 +292,7 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 | [`sprint-sheets/`](./sprint-sheets) | 📁 Dir | 14 individual sprint & section Markdown sheets | 🔄 Active |
 | [`backend-architecture-study/`](./backend-architecture-study) | 📁 Dir | Backend architecture research & tech stack documentation | 🔄 Active |
 | [`assets/`](./assets) | 📁 Dir | Brand images — MetroMate umbrella, LGS, Recruitment, Lead Gen + Real Estate banners | ✅ Active |
-| [`LICENSE`](./LICENSE) | 📜 | MIT License | ✅ |
+| [`LICENSE`](./LICENSE) | 📜 MIT | Open source license | ✅ |
 
 ---
 
@@ -351,7 +346,6 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 - 📋 **Additional Info** — Blood groups, skills, business category, anniversary date
 - 📲 **WhatsApp Submit** — One-tap form submission via WhatsApp message
 
-### Quick Start
 ```bash
 git clone https://github.com/SNTL84/Tragad-Soni-Website-Roadmap.git
 cd Tragad-Soni-Website-Roadmap
@@ -451,7 +445,7 @@ open Family-Reg-V1-Final.html
           │                       │                     │
           └───────────────────────┼─────────────────────┘
                                   │
-                    ┌─────────────▼─────────────┐
+                    ┌─────────────▼──────────────┐
                     │     DesiBiz Trade          │
                     │  Social Distribution       │
                     │  Instagram · Facebook      │
@@ -464,7 +458,7 @@ open Family-Reg-V1-Final.html
 
 <div align="center">
 
-🏆 **Trusted by Businesses Worldwide** &nbsp;|&nbsp; ✅ **Proven Systems. Real People. Real Results.**
+🏆 **Trusted by Businesses Worldwide** &nbsp;·&nbsp; ✅ **Proven Systems. Real People. Real Results.**
 
 📞 **MetroMate Real Estate: [+91 97274 13309](https://wa.me/919727413309)** &nbsp;·&nbsp; *Find. Connect. Close.*
 
