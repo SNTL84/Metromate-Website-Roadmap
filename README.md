@@ -11,6 +11,7 @@
 [![Community](https://img.shields.io/badge/Community-Tragad%20Soni-gold?style=for-the-badge)](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap)
 [![Phase](https://img.shields.io/badge/Current%20Phase-1%20Planning%2075%25-yellow?style=for-the-badge)](./sprint-sheets/Phase1_Planning_Sprint.md)
 [![MetroMate](https://img.shields.io/badge/Partner-MetroMate%20B2B%20%26%20B2C-orange?style=for-the-badge)](./MetroMate/)
+[![Real Estate](https://img.shields.io/badge/NEW-MetroMate%20Real%20Estate-red?style=for-the-badge)](#-metromate-real-estate-consultant)
 [![Services](https://img.shields.io/badge/MetroMate%20Services-203%20Listed-blue?style=for-the-badge)](./MetroMate/services/MetroMate_services_v4.csv)
 [![Author](https://img.shields.io/badge/Author-SNTL84-blue?style=for-the-badge)](https://github.com/SNTL84)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)](./LICENSE)
@@ -48,6 +49,59 @@
 
 ---
 
+## 🏠 MetroMate Real Estate Consultant
+
+> **FIND. CONNECT. CLOSE.** — *Your Property, Our Priority.*  
+> **One Platform · Multiple Solutions** · Powered by DesiBizTrade
+
+<div align="center">
+
+### 📞 Connect Now: [+91 97274 13309](https://wa.me/919727413309)
+
+</div>
+
+MetroMate Real Estate Consultant is the **dedicated property vertical** of the SNTL84 ecosystem — connecting buyers, sellers, tenants, and investors with verified residential & commercial opportunities across **Adajan · Pal · Palangpur · Jangirpura** (Surat, Gujarat) and beyond.
+
+### 🏡 Properties For Rent
+
+| Type | Starting Price | Areas Covered |
+|---|---|---|
+| 1 BHK For Rent | ₹ 8,000/- onwards | Adajan · Pal · Palangpur · Jangirpura |
+| 2 BHK For Rent | ₹ 15,000/- onwards | Adajan · Pal · Palangpur · Jangirpura |
+| 3 BHK For Rent | ₹ 18,000/- onwards | Adajan · Pal · Palangpur · Jangirpura |
+
+### 🏢 Properties For Sale
+
+| Type | Starting Price | Areas Covered |
+|---|---|---|
+| 1 BHK For Sale | ₹ 15,00,000/- onwards | Adajan · Pal · Palangpur · Jangirpura |
+| 2 BHK For Sale | ₹ 20,00,000/- onwards | Adajan · Pal · Palangpur · Jangirpura |
+| 3 BHK For Sale | ₹ 40,00,000/- onwards | Adajan · Pal · Palangpur · Jangirpura |
+
+### 🔑 Our 4 Core Services
+
+| Service | Description |
+|---|---|
+| 🏠 **Buy / Sell** | Residential & Commercial Properties — end-to-end transaction support |
+| 🏢 **Rental** | Residential & Commercial Properties — tenants matched with verified listings |
+| 📋 **List Your Property** | We help you list & market your property effectively for maximum reach |
+| 🤝 **Find Your Property** | We connect you with the right opportunities matching your exact requirements |
+
+### ✅ Why MetroMate Real Estate?
+
+| Pillar | What It Means For You |
+|---|---|
+| 🛡️ **Trusted Guidance** | Expert advice every step of the way |
+| 🌐 **Wide Network** | Access to verified buyers, sellers, tenants & investors |
+| 📈 **Best Results** | Maximising value, delivering successful deals |
+| 🤝 **Transparent Deals** | Honest. Clear. Hassle-Free. |
+| 📍 **Local Experts** | In-depth market knowledge, local insights |
+| 🏆 **Your Trust, Our Commitment** | Personalised solutions · End-to-end support · 100% confidentiality · Client-first approach |
+
+> 📲 **Ready to find or list a property?** — [WhatsApp +91 97274 13309](https://wa.me/919727413309)
+
+---
+
 ## 🗺️ SNTL84 Growth Infrastructure Node — Four-Layer Architecture
 
 > **Tragad Soni Website is Layer 1** of the SNTL84 Growth Infrastructure Node. Each layer feeds the next: community trust creates demand → services convert demand into delivery → social channels amplify proof → hosting infrastructure keeps every MVP live.
@@ -68,10 +122,10 @@
 │ Tragad Soni   │  │ SNTL84        │  │ DesiBiz Trade │  │ desidevloper  │
 │ Website       │  │ Workflows     │  │ Instagram     │  │ .com          │
 │ Member Trust  │  │ MetroMate     │  │ Facebook      │  │ Hostinger     │
-│ Event Hub     │  │ Automation    │  │ LinkedIn      │  │ Vercel        │
-│ Trade Leads   │  │ Concierge     │  │ YouTube       │  │ GitHub Pages  │
-│ Community SEO │  │ Operations    │  │ WhatsApp      │  │ Promotion Ops │
-│               │  │               │  │ Aratt.ai      │  │               │
+│ Event Hub     │  │ Real Estate   │  │ LinkedIn      │  │ Vercel        │
+│ Trade Leads   │  │ Automation    │  │ YouTube       │  │ GitHub Pages  │
+│ Community SEO │  │ Concierge     │  │ WhatsApp      │  │ Promotion Ops │
+│               │  │ Operations    │  │ Aratt.ai      │  │               │
 └───────┬───────┘  └───────┬───────┘  └───────┬───────┘  └───────┬───────┘
         │                  │                  │                  │
         └──────────────────┴──────────────────┴──────────────────┘
@@ -106,6 +160,7 @@ The browser automation layer connects all four growth node layers — enabling s
 │  ✅ Scrape exhibition intel → populate jewellery event calendar  │
 │  ✅ Lead form submission → auto-qualify → WhatsApp alert         │
 │  ✅ MetroMate booking form → Google Sheets → operator notify     │
+│  ✅ MetroMate Real Estate → property leads → WhatsApp pipeline   │
 │  ✅ Tragad Soni directory updates → trigger site rebuild         │
 │  ✅ FMCG/Gold event data → auto-generate Excel reports           │
 └──────────────────────────────────────────────────────────────────┘
@@ -121,6 +176,7 @@ The browser automation layer connects all four growth node layers — enabling s
 |---|---|
 | **MetroMate B2C SERVICES** | Home services · Repairs · Healthcare · Retail · Lifestyle |
 | **MetroMate B2B SERVICES** | IT · Staffing · Legal · Digital Marketing · Supply Chain |
+| **MetroMate Real Estate** | Buy · Sell · Rent · List Your Property · Find Your Property |
 | **Lead Generation** | Lead sourcing · Qualification · Appointments · Pipeline building |
 | **Fulfillment Automation** | Onboarding · Delivery workflows · Customer success · Scaling |
 | **Bench Resource Availability** | On-demand talent · Contract developers · Project consultants |
@@ -180,6 +236,7 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 
 | Date & Time (IST) | Activity | Commit |
 |---|---|---|
+| **05 Jun 2026** | 🏠 README: MetroMate Real Estate section added — rent/sale pricing, 4 core services, trust pillars, WhatsApp CTA | latest |
 | **05 Jun 2026** | 🗺️ README enriched — SNTL84 4-layer node architecture, Facebook channel, browser automation stack added | latest |
 | **01 Jun 2026** | 📋 README: Trade Directory expanded — 40+ categories, full goldsmith & community topics | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commits/main) |
 | **30 May 2026 · 4:52 PM** | 📊 MetroMate README flagship update — B2C/B2B/CSV developer links published | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/82041037888748edff33d030fe3104f5ff0a9386) |
@@ -308,6 +365,7 @@ open Family-Reg-V1-Final.html
 - [ ] Family Registration — V2 with backend (Google Sheets integration)
 - [ ] Browser automation: Excel event data → auto-update calendar
 - [ ] MetroMate event logistics integration — booking via MetroMate
+- [ ] MetroMate Real Estate lead pipeline — property enquiry → WhatsApp alert
 
 ### Phase 4 · Testing & QA `📅 Upcoming`
 - [ ] Cross-browser testing (Chrome, Safari, Firefox)
@@ -360,8 +418,8 @@ open Family-Reg-V1-Final.html
           ▼                       ▼                       ▼
   ┌───────────────┐      ┌─────────────────┐     ┌────────────────┐
   │ Tragad Soni   │      │    MetroMate    │     │  desidevloper  │
-  │   Website ⭐  │◀────▶│   (Surat MVP)  │◀───▶│     .com       │
-  │               │      │                │     │                │
+  │   Website ⭐  │◀────▶│  B2B · B2C     │◀───▶│     .com       │
+  │               │      │  Real Estate   │     │                │
   │ Community     │      │  Service       │     │  Dev Portfolio │
   │ Trust Portal  │      │  Operations    │     │  + Hosting Hub │
   └───────┬───────┘      └────────┬───────┘     └───────┬────────┘
@@ -382,6 +440,8 @@ open Family-Reg-V1-Final.html
 <div align="center">
 
 🏆 **Trusted by Businesses Worldwide** &nbsp;|&nbsp; ✅ **Proven Systems. Real People. Real Results.**
+
+📞 **MetroMate Real Estate: [+91 97274 13309](https://wa.me/919727413309)** &nbsp;·&nbsp; *Find. Connect. Close.*
 
 *Built with 🪷 in Surat, India · © 2026 SNTL84 — Milan*
 
