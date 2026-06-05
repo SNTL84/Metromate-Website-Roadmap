@@ -48,6 +48,71 @@
 
 ---
 
+## 🗺️ SNTL84 Growth Infrastructure Node — Four-Layer Architecture
+
+> **Tragad Soni Website is Layer 1** of the SNTL84 Growth Infrastructure Node. Each layer feeds the next: community trust creates demand → services convert demand into delivery → social channels amplify proof → hosting infrastructure keeps every MVP live.
+
+```text
+┌─────────────────────────────────────────────────────────────────────────┐
+│                    SNTL84 GROWTH INFRASTRUCTURE NODE                    │
+│                         Surat, Gujarat, India                           │
+└──────────────────────────┬──────────────────────────────────────────────┘
+                           │
+        ┌──────────────────┼──────────────────┬──────────────────┐
+        ▼                  ▼                  ▼                  ▼
+┌───────────────┐  ┌───────────────┐  ┌───────────────┐  ┌───────────────┐
+│  LAYER 1 ⭐    │  │  LAYER 2      │  │  LAYER 3      │  │  LAYER 4      │
+│  COMMUNITY    │  │  SERVICE      │  │  SOCIAL       │  │  MVP HOSTING  │
+│  PLATFORM     │  │  ENGINE       │  │  DISTRIBUTION │  │  & PROMO      │
+│               │  │               │  │               │  │               │
+│ Tragad Soni   │  │ SNTL84        │  │ DesiBiz Trade │  │ desidevloper  │
+│ Website       │  │ Workflows     │  │ Instagram     │  │ .com          │
+│ Member Trust  │  │ MetroMate     │  │ Facebook      │  │ Hostinger     │
+│ Event Hub     │  │ Automation    │  │ LinkedIn      │  │ Vercel        │
+│ Trade Leads   │  │ Concierge     │  │ YouTube       │  │ GitHub Pages  │
+│ Community SEO │  │ Operations    │  │ WhatsApp      │  │ Promotion Ops │
+│               │  │               │  │ Aratt.ai      │  │               │
+└───────┬───────┘  └───────┬───────┘  └───────┬───────┘  └───────┬───────┘
+        │                  │                  │                  │
+        └──────────────────┴──────────────────┴──────────────────┘
+                                   │
+                    ┌──────────────▼──────────────┐
+                    │   BROWSER AUTOMATION LAYER   │
+                    │  n8n · Puppeteer · Playwright│
+                    │  Google Sheets · Forms API   │
+                    │  Webhooks · Schedulers · CRM │
+                    └─────────────────────────────┘
+```
+
+---
+
+## 🤖 Browser Automation Architecture
+
+The browser automation layer connects all four growth node layers — enabling scheduled publishing, lead scraping, form submissions, content distribution, and CRM updates without manual intervention.
+
+```text
+┌──────────────────────────────────────────────────────────────────┐
+│                  BROWSER AUTOMATION STACK                        │
+│                                                                  │
+│  TRIGGER LAYER          EXECUTION LAYER        OUTPUT LAYER      │
+│  ─────────────          ────────────────        ────────────      │
+│  Cron / Schedule  ───▶  n8n Workflow       ───▶ Google Sheets    │
+│  Webhook (forms)  ───▶  Puppeteer script   ───▶ WhatsApp notify  │
+│  GitHub push      ───▶  AI Agent decision  ───▶ Email / CRM      │
+│  Manual trigger   ───▶  Playwright test    ───▶ Vercel deploy     │
+│                                                                  │
+│  USE CASES:                                                      │
+│  ✅ Auto-post to Instagram / Facebook from content queue         │
+│  ✅ Scrape exhibition intel → populate jewellery event calendar  │
+│  ✅ Lead form submission → auto-qualify → WhatsApp alert         │
+│  ✅ MetroMate booking form → Google Sheets → operator notify     │
+│  ✅ Tragad Soni directory updates → trigger site rebuild         │
+│  ✅ FMCG/Gold event data → auto-generate Excel reports           │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+---
+
 ## 🧠 SNTL 84 — Agentic AI Workflow Professional
 
 > **Automate What's Costing You Money**
@@ -62,17 +127,21 @@
 | **Full-Stack Builds** | Next.js · React · Node.js · Supabase · API integrations |
 | **AI Workflows** | n8n · Agentic AI · Process automation · Chatbots |
 | **Supply Chain Business Intelligence** | Data dashboards · BI reporting · Supply intelligence |
+| **Browser Automation** | Puppeteer · Playwright · n8n Browser Node · Scheduled pipelines |
 
 🚀 Follow for practical AI automation insights & founder systems.
 
 | Channel | Link |
 |---|---|
-| 🌐 Website | [desidevloper.com](https://desidevioper.com) |
+| 🌐 Website | [desidevloper.com](https://desidevloper.com) |
 | 💬 WhatsApp | [wa.me/919727413309](https://wa.me/919727413309) |
 | 🔗 LinkedIn | [linkedin.com/in/sntl2784](https://www.linkedin.com/in/sntl2784) |
 | 💻 GitHub | [github.com/SNTL84](https://github.com/SNTL84) |
 | 📸 Instagram | [@desibiztrade](https://www.instagram.com/desibiztrade) |
+| 📘 Facebook | [DesiBiz Trade](https://www.facebook.com/profile.php?id=61590405098559) |
 | 🔴 YouTube | [@SNTL84](https://www.youtube.com/@SNTL84) |
+| 🤖 Aratt.ai | [@desidevloper](https://aratt.ai/user/@desidevloper) |
+| 📧 Email | [3goldenlotusroots@gmail.com](mailto:3goldenlotusroots@gmail.com) |
 
 ---
 
@@ -105,13 +174,14 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 
 ---
 
-## 🆕 Latest Activity Log — June 2026
+## 🔆 Latest Activity Log — June 2026
 
 > All commits tracked on [`main` branch](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commits/main)
 
 | Date & Time (IST) | Activity | Commit |
 |---|---|---|
-| **01 Jun 2026** | 📋 README: Trade Directory expanded — 40+ categories, full goldsmith & community topics | latest |
+| **05 Jun 2026** | 🗺️ README enriched — SNTL84 4-layer node architecture, Facebook channel, browser automation stack added | latest |
+| **01 Jun 2026** | 📋 README: Trade Directory expanded — 40+ categories, full goldsmith & community topics | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commits/main) |
 | **30 May 2026 · 4:52 PM** | 📊 MetroMate README flagship update — B2C/B2B/CSV developer links published | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/82041037888748edff33d030fe3104f5ff0a9386) |
 | **30 May 2026 · 4:50 PM** | ✅ `MetroMate_services_v4.csv` pushed — 203 rows, SNTL84 credits updated | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/82041037888748edff33d030fe3104f5ff0a9386) |
 | **30 May 2026 · 3:14 PM** | 🖼️ Asset filenames fixed — old PNG files with spaces deleted, replaced by hyphenated JPGs | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/1f89c4e9093fafdd64b8927e980fc4e8cbd66889) |
@@ -213,5 +283,106 @@ open Family-Reg-V1-Final.html
 ## 🗺️ Full Website Roadmap — Phase Breakdown
 
 ### Phase 1 · Planning & Setup `🟡 75% In Progress`
-- Domain registration & DNS configuration
-- Hosting setup (Hostinger / Verce
+- [x] Domain registration & DNS configuration
+- [x] Hosting setup (Hostinger / Vercel)
+- [x] Tech stack decided — Vanilla HTML/CSS/JS, zero dependencies
+- [x] GitHub repository created and structured
+- [x] Sprint sheets created (14 sub-sheets)
+- [x] Family Registration Form V1 shipped
+- [ ] Wireframes finalised
+- [ ] Content strategy locked
+
+### Phase 2 · Design & Branding `🔄 20% Started`
+- [x] Logo concept scoped
+- [x] Colour palette — gold/saffron/ivory community identity
+- [ ] Full UI mockups — homepage, directory, member profile
+- [ ] Mobile-first design system
+- [ ] Brand guide document
+
+### Phase 3 · Development `📅 Upcoming`
+- [ ] Homepage — hero, mission, quick links
+- [ ] Member Directory — search, filter by city/trade/surname
+- [ ] Trade Directory — 40+ goldsmith & jewellery categories
+- [ ] Event & Exhibition Calendar — auto-fed from xlsx pipeline via n8n
+- [ ] Community Announcement Board
+- [ ] Family Registration — V2 with backend (Google Sheets integration)
+- [ ] Browser automation: Excel event data → auto-update calendar
+- [ ] MetroMate event logistics integration — booking via MetroMate
+
+### Phase 4 · Testing & QA `📅 Upcoming`
+- [ ] Cross-browser testing (Chrome, Safari, Firefox)
+- [ ] Mobile responsiveness audit (375px, 390px, 768px)
+- [ ] Form submission end-to-end testing
+- [ ] WhatsApp integration QA
+- [ ] Performance audit (LCP < 2.5s, CLS < 0.1)
+
+### Phase 5 · Launch & SEO `📅 Upcoming`
+- [ ] Go-live on Hostinger / Vercel
+- [ ] Google Search Console setup
+- [ ] Sitemap & robots.txt
+- [ ] DesiBiz Trade social channels — Instagram, Facebook launch posts
+- [ ] WhatsApp broadcast to community members
+- [ ] LinkedIn announcement post
+
+### Phase 6 · Mobile App / PWA `🔭 Planned 2027`
+- [ ] Progressive Web App (PWA) conversion
+- [ ] Push notifications for events & announcements
+- [ ] Offline member directory access
+- [ ] Native App — Android & iOS (React Native)
+
+---
+
+## 🏗️ Tech Stack
+
+| Layer | Technology |
+|---|---|
+| Frontend | Vanilla JS · HTML · CSS (zero frameworks) |
+| Automation | n8n · Browser Automation · Webhook pipelines |
+| AI Workflows | Custom Agents · Prompt Engineering · Claude/OpenAI |
+| Backend/API | Node.js · Google Sheets API · AppScript |
+| Cloud Infra | Google Cloud · Vercel · Hostinger · Supabase |
+| CI/CD | GitHub Actions · GitHub Pages · Vercel auto-deploy |
+| Browser Automation | Puppeteer · n8n Browser Node · Playwright scripts |
+| Data & Intel | Google Forms → Sheets → Dashboard pipelines |
+
+---
+
+## 🔗 Node Connection Map
+
+```text
+                        ┌───────────────────┐
+                        │   SNTL84 Node     │
+                        │  (this repo)      │
+                        └─────────┬─────────┘
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          │                       │                       │
+          ▼                       ▼                       ▼
+  ┌───────────────┐      ┌─────────────────┐     ┌────────────────┐
+  │ Tragad Soni   │      │    MetroMate    │     │  desidevloper  │
+  │   Website ⭐  │◀────▶│   (Surat MVP)  │◀───▶│     .com       │
+  │               │      │                │     │                │
+  │ Community     │      │  Service       │     │  Dev Portfolio │
+  │ Trust Portal  │      │  Operations    │     │  + Hosting Hub │
+  └───────┬───────┘      └────────┬───────┘     └───────┬────────┘
+          │                       │                     │
+          └───────────────────────┼─────────────────────┘
+                                  │
+                    ┌─────────────▼─────────────┐
+                    │     DesiBiz Trade          │
+                    │  Social Distribution       │
+                    │  Instagram · Facebook      │
+                    │  LinkedIn · YouTube        │
+                    │  WhatsApp · Aratt.ai       │
+                    └───────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+🏆 **Trusted by Businesses Worldwide** &nbsp;|&nbsp; ✅ **Proven Systems. Real People. Real Results.**
+
+*Built with 🪷 in Surat, India · © 2026 SNTL84 — Milan*
+
+</div>
