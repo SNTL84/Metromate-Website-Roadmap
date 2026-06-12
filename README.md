@@ -48,6 +48,62 @@
 
 ---
 
+## 👨‍💻 Developer Reference — Scope of Work
+
+> **For Backend & Frontend Developers joining this project — start here.**
+> All technical documentation, database schema, implementation guides, and execution timelines are in the [`reference/`](./reference/) folder.
+
+<div align="center">
+
+[![Reference Folder](https://img.shields.io/badge/📁%20REFERENCE%20FOLDER-VIEW%20ALL%20DOCS-2ea44f?style=for-the-badge)](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/tree/main/reference)
+
+</div>
+
+### 📋 Quick Start — Which File Should I Read?
+
+| Role | Start With | Then Read |
+|------|-----------|-----------|
+| 🆕 **New to project** | [`00_START_HERE.txt`](./reference/00_START_HERE.txt) | [`EXECUTIVE_SUMMARY.md`](./reference/EXECUTIVE_SUMMARY.md) |
+| 🔧 **Backend Developer** | [`MVP_Implementation_Guide.md`](./reference/MVP_Implementation_Guide.md) | [`Tragad_Soni_MVP_Depth_Reference.md`](./reference/Tragad_Soni_MVP_Depth_Reference.md) |
+| 🎨 **Frontend Developer** | [`QUICK_REFERENCE.md`](./reference/QUICK_REFERENCE.md) | [`MVP_Implementation_Guide.md`](./reference/MVP_Implementation_Guide.md) |
+| 📊 **Project Manager / Lead** | [`EXECUTIVE_SUMMARY.md`](./reference/EXECUTIVE_SUMMARY.md) | [`Tragad_Soni_MVP_Depth_Reference.md`](./reference/Tragad_Soni_MVP_Depth_Reference.md) |
+| 🧪 **QA / Testing** | [`QUICK_REFERENCE.md`](./reference/QUICK_REFERENCE.md) → Deployment Checklist | [`MVP_Implementation_Guide.md`](./reference/MVP_Implementation_Guide.md) → Phase 6 |
+
+### 📁 Reference Documents — Full List
+
+| # | File | Size | Purpose |
+|---|------|------|---------|
+| 1 | [`00_START_HERE.txt`](./reference/00_START_HERE.txt) | 11 KB | Entry point — project overview, quick answers, contact |
+| 2 | [`EXECUTIVE_SUMMARY.md`](./reference/EXECUTIVE_SUMMARY.md) | 10 KB | Answers 4 key questions, 21-day action plan, success criteria |
+| 3 | [`MVP_Implementation_Guide.md`](./reference/MVP_Implementation_Guide.md) | 23 KB | **Primary technical spec** — full SQL schema, 11 DB tables, RLS, push notifications, 6 code patterns |
+| 4 | [`QUICK_REFERENCE.md`](./reference/QUICK_REFERENCE.md) | 11 KB | Architecture diagram, tech stack, API routes, deployment checklist, pitfalls |
+| 5 | [`Tragad_Soni_MVP_Depth_Reference.md`](./reference/Tragad_Soni_MVP_Depth_Reference.md) | 9.4 KB | 8-section structured reference — repos, DB schema, timeline, cost, team assignments |
+| 6 | [`INDEX.md`](./reference/INDEX.md) | 2.3 KB | Document map & recommended reading order |
+
+### ⚙️ Tech Stack at a Glance
+
+```
+Frontend  →  Next.js 14 + Tailwind CSS  →  Deployed on Vercel
+Backend   →  Supabase (PostgreSQL + Auth + Realtime + Edge Functions)
+Push      →  OneSignal (98%+ delivery)
+WhatsApp  →  Twilio Business API
+Database  →  11 tables · 24 indexes · Row-Level Security (RLS)
+Cost      →  ~$100/month at 5000 users
+Timeline  →  21 Days to MVP
+```
+
+### 🗓️ 21-Day MVP Sprint Overview
+
+```
+Week 1 (Days 1–7)   →  Foundation: DB schema · OAuth · Directory · Workspace pages
+Week 2 (Days 8–14)  →  Features: Push notifications · 2-level bot · WhatsApp forms · Ads
+Week 3 (Days 15–21) →  Launch: Optimization · Security audit · Load testing · Deploy
+```
+
+> 📞 **Questions on scope?** Contact Project Lead SNTL 84 → [wa.me/919727413309](https://wa.me/919727413309)
+
+---
+
 ## 🏛️ What Is This Project?
 
 The **Tragad Soni Website** is a **community-first digital platform** for the **Tragad Soni (Goldsmith) community** of Gujarat, Maharashtra, and diaspora worldwide. This repository is the **complete, living roadmap** — from ideation to international launch.
@@ -298,18 +354,15 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 
 | Date (IST) | Activity | Commit |
 |---|---|---|
-| **05 Jun 2026** | 🔗 Handles: unified visual strip — all 9 channels, HTML table badge style, top + connect + footer synced | latest |
+| **12 Jun 2026** | 👨‍💻 Developer Reference section added to README — role-based reading guide, tech stack, 21-day sprint overview | latest |
+| **12 Jun 2026** | 📁 `reference/` folder created — 6 files uploaded for backend & frontend developer scope of work | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/tree/main/reference) |
+| **05 Jun 2026** | 🔗 Handles: unified visual strip — all 9 channels, HTML table badge style, top + connect + footer synced | — |
 | **05 Jun 2026** | 🏛️ README: flagship restructure — What Is This Project + Mission above images, GitHub badges, zero duplication | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/7411c6ee642b2450454c268a2522d46da6f1539d) |
 | **05 Jun 2026** | 🏠 README: 4 MetroMate Real Estate images embedded — banner, logo badge, sale & rent visuals live | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/6a27581e1e01778df2df3afb627c61edbc535341) |
 | **05 Jun 2026** | 🏠 README: MetroMate Real Estate section added — rent/sale pricing, 4 core services, trust pillars | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/93f8dc2e97d7d53fdc483295940e1e3159a81d65) |
 | **05 Jun 2026** | 🗺️ README enriched — SNTL84 4-layer node architecture, Facebook channel, browser automation stack | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commits/main) |
 | **01 Jun 2026** | 📋 README: Trade Directory expanded — 40+ categories, full goldsmith & community topics | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commits/main) |
 | **30 May 2026** | 📊 MetroMate README flagship — B2C/B2B/CSV developer links · `MetroMate_services_v4.csv` 203 rows | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/82041037888748edff33d030fe3104f5ff0a9386) |
-| **30 May 2026** | 🖼️ Asset filenames fixed · 3 new MetroMate brand images uploaded to `assets/` | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/470f09308456b3fca09d8662c0bafe74d39a3796) |
-| **29 May 2026** | 🏢 MetroMate Supplier Registration Form added · MetroMate README upgraded | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/39bfcb10d2d5ccee3c9ce7e116b851abe5571499) |
-| **27 May 2026** | ✨ MetroMate Umbrella brand image added · display fixed | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/4b13911ff752ff803b00925d9aa541be1740fddb) |
-| **08–09 May 2026** | 🚀 README v2.0 launched · Roadmap v3 published · Backend Study README updated | — |
-| **06–07 May 2026** | 📋 All 14 Sprint Sheets created · Roadmap v2 added | — |
 
 ---
 
@@ -317,14 +370,17 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 
 | File / Folder | Type | Description | Status |
 |---|---|---|---|
+| [`reference/`](./reference/) | 📁 **Dev Docs** | **Backend & Frontend developer reference — SQL schema, implementation guide, architecture, 21-day sprint** | ✅ **NEW** |
+| [`reference/MVP_Implementation_Guide.md`](./reference/MVP_Implementation_Guide.md) | 📄 MD | Complete technical spec — 11 DB tables, RLS, push notifications, 6 code patterns | ✅ Live |
+| [`reference/QUICK_REFERENCE.md`](./reference/QUICK_REFERENCE.md) | 📄 MD | Architecture diagram, tech stack, API routes, deployment checklist | ✅ Live |
+| [`reference/EXECUTIVE_SUMMARY.md`](./reference/EXECUTIVE_SUMMARY.md) | 📄 MD | Project overview, 21-day action plan, cost analysis, success criteria | ✅ Live |
+| [`reference/Tragad_Soni_MVP_Depth_Reference.md`](./reference/Tragad_Soni_MVP_Depth_Reference.md) | 📄 MD | 8-section structured reference — repos, DB schema, timeline, team assignments | ✅ Live |
 | [`Family-Reg-V1-Final.html`](./Family-Reg-V1-Final.html) | 📝 HTML | Live Family Registration Form — Head, Spouse, Children, Address, WhatsApp Submit | ✅ Live |
 | [`Tragad-Soni-Roadmap-v3.html`](./Tragad-Soni-Roadmap-v3.html) | 🗺️ HTML | Interactive Roadmap v3 — dark mode, navigation & download PNG | ✅ Live |
 | [`Tragad-Soni-Roadmap-v2.html`](./Tragad-Soni-Roadmap-v2.html) | 🗺️ HTML | Roadmap v2 — tabbed UI, interactive mindmap (reference archive) | 📦 Archive |
 | [`Tragad_Soni_Website_Roadmap_Milan_SNTL84.xlsx`](./Tragad_Soni_Website_Roadmap_Milan_SNTL84.xlsx) | 📊 Excel | Full roadmap, feature planning & milestone tracker (14 sprint sub-sheets) | ✅ Active |
 | [`MetroMate/`](./MetroMate/) | 📁 Dir | MetroMate B2B & B2C — Supplier Registration Form, services config, README | ✅ Live |
 | [`MetroMate/services/MetroMate_services_v4.csv`](./MetroMate/services/MetroMate_services_v4.csv) | 📊 CSV | **203 services** — B2B, B2C, Both · Categories, Sub-Categories, Keywords | ✅ Latest |
-| [`MetroMate/services/B2B-Lead-Generation.md`](./MetroMate/services/B2B-Lead-Generation.md) | 📄 MD | B2B Lead Generation service details | ✅ Active |
-| [`MetroMate/services/B2C-Lead-Generation.md`](./MetroMate/services/B2C-Lead-Generation.md) | 📄 MD | B2C Lead Generation service details | ✅ Active |
 | [`sprint-sheets/`](./sprint-sheets) | 📁 Dir | 14 individual sprint & section Markdown sheets | 🔄 Active |
 | [`backend-architecture-study/`](./backend-architecture-study) | 📁 Dir | Backend architecture research & tech stack documentation | 🔄 Active |
 | [`assets/`](./assets) | 📁 Dir | Brand images — MetroMate umbrella, LGS, services, real estate banners | ✅ Growing |
