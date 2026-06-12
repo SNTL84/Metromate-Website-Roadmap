@@ -19,7 +19,7 @@
 └─────────────────────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│ 2️⃣  Tragad_Soni_MVP_Depth_Reference.md (Project Reference - from Excel)     │
+│ 2️⃣  Tragad_Soni_MVP_Depth_Reference.xlsx (Excel Spreadsheet)                │
 │     ✓ 8 Comprehensive sections                                              │
 │     ✓ Repository links with status                                          │
 │     ✓ Database schema overview                                              │
@@ -137,7 +137,7 @@ Timeline:
 🚀 IMMEDIATE NEXT STEPS:
 
 1. Read EXECUTIVE_SUMMARY.md (15 minutes)
-2. Review Tragad_Soni_MVP_Depth_Reference.md - Section 1 & 5 (30 minutes)
+2. Review Excel file - Section 1 & 5 (30 minutes)
 3. Share documents with your developer team
 4. Create Supabase account → Deploy database schema
 5. Create Vercel account → Deploy Next.js starter

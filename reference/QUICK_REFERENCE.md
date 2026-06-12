@@ -65,11 +65,13 @@
 
 ## 🚀 KEY REPOSITORIES & LINKS
 
+### Priority Order for Implementation
+
 ```
 DAY 1-3: Foundation
 ├─ https://supabase.com/docs/guides/auth ..................... OAuth + RLS
 ├─ https://github.com/supabase/examples-nextjs ............... Full-stack base
-└─ Schema + Triggers (provided in MVP_Implementation_Guide.md)
+└─ Schema + Triggers (provided in detail guide)
 
 DAY 4-7: Core Features
 ├─ https://github.com/vercel/next.js/examples/tailwind ........ Workspace UI
@@ -121,6 +123,7 @@ LIMIT 20 OFFSET 0;
 
 ### 3. Send Push Notification
 ```javascript
+// Supabase Edge Function trigger
 const response = await fetch('https://onesignal.com/api/v1/notifications', {
     method: 'POST',
     headers: {
@@ -141,6 +144,7 @@ const response = await fetch('https://onesignal.com/api/v1/notifications', {
 UPDATE ads 
 SET impressions = impressions + 1
 WHERE id = $1;
+-- Batched every 100 updates to reduce cost
 ```
 **Performance:** 50ms per batch
 
@@ -153,14 +157,15 @@ SET daily_count = daily_count + 1,
 WHERE active = TRUE 
   AND DATE(followed_at) != CURRENT_DATE;
 ```
+**Duration:** ~15 minutes for 50K follows
 
 ---
 
-## 📈 COST BREAKDOWN
+## 📈 COST BREAKDOWN (Monthly at 3000-5000 Users)
 
 | Service | Cost | Why |
 |---------|------|-----|
-| **Supabase** | $40 | 2GB DB, 3GB storage, 2M function invocations |
+| **Supabase (DB + Storage + Functions)** | $40 | 2GB DB, 3GB storage, 2M function invocations |
 | **OneSignal Push** | $0 | Free tier covers 5000 users |
 | **Twilio WhatsApp** | $20 | ~1000 messages/month |
 | **Vercel Hosting** | $20 | 50GB bandwidth |
@@ -168,22 +173,28 @@ WHERE active = TRUE
 | **Monitoring & CDN** | $10 | Logs, analytics, edge cache |
 | **TOTAL** | **~$100/month** | Highly scalable |
 
+**Cost Optimization:**
+- ✅ Image resizing: -60% storage
+- ✅ Query batching: -90% transaction cost
+- ✅ RLS policies: Zero extra cost
+- ✅ Connection pooling: -20% overhead
+
 ---
 
 ## 🛠️ TECHNOLOGY STACK
 
-| Layer | Technology | Why |
-|-------|-----------|-----|
-| **Frontend** | Next.js 14 | Fast, SSR, API routes |
-| **Styling** | Tailwind CSS | Rapid UI development |
-| **Hosting** | Vercel | Seamless Next.js deployment |
-| **Auth** | Supabase Auth | OAuth ready, RLS built-in |
-| **Database** | PostgreSQL | Powerful, cost-effective |
-| **Realtime** | Supabase Realtime | WebSocket subscriptions |
-| **Storage** | Supabase Storage | Image optimization, CDN |
-| **Push Notifications** | OneSignal | 98%+ delivery rate |
-| **WhatsApp API** | Twilio | Form submissions, messaging |
-| **Serverless** | Supabase Functions | Auto-triggers, webhooks |
+| Layer | Technology | Why | URL |
+|-------|-----------|-----|-----|
+| **Frontend** | Next.js 14 | Fast, SSR, API routes | nextjs.org |
+| **Styling** | Tailwind CSS | Rapid UI development | tailwindcss.com |
+| **Hosting** | Vercel | Seamless Next.js deployment | vercel.com |
+| **Auth** | Supabase Auth | OAuth ready, RLS built-in | supabase.com |
+| **Database** | PostgreSQL | Powerful, cost-effective | postgresql.org |
+| **Realtime** | Supabase Realtime | WebSocket subscriptions | supabase.com |
+| **Storage** | Supabase Storage | Image optimization, CDN | supabase.com |
+| **Push Notifications** | OneSignal | 98%+ delivery rate | onesignal.com |
+| **WhatsApp API** | Twilio | Form submissions, messaging | twilio.com |
+| **Serverless** | Supabase Functions | Auto-triggers, webhooks | supabase.com |
 
 ---
 
@@ -191,26 +202,26 @@ WHERE active = TRUE
 
 ```
 WEEK 1 (Days 1-7)
-├─ Mon-Tue: Database setup + OAuth ......................... CRITICAL PATH
-├─ Wed: User profiles + directory .......................... CRITICAL PATH
-├─ Thu: Directory search + pagination ...................... P1
-├─ Fri: Workspace UI + routing ............................ P1
-└─ Weekend: Push notification setup ....................... P1
+├─ Mon-Tue: Database setup + OAuth ............................ CRITICAL PATH
+├─ Wed: User profiles + directory ............................ CRITICAL PATH
+├─ Thu: Directory search + pagination ......................... P1
+├─ Fri: Workspace UI + routing ............................... P1
+└─ Weekend: Push notification setup ........................... P1
 
 WEEK 2 (Days 8-14)
-├─ Mon: Bot Level 1 (FAQ) ................................. P2
-├─ Tue: Bot Level 2 (Escalation) .......................... P2
-├─ Wed: WhatsApp form integration ......................... P2
-├─ Thu: Ads UI components ................................. P2
-├─ Fri: Integration testing ............................... P1
-└─ Weekend: Load testing (1000 concurrent users) ......... P1
+├─ Mon: Bot Level 1 (FAQ) .................................... P2
+├─ Tue: Bot Level 2 (Escalation) ............................. P2
+├─ Wed: WhatsApp form integration ............................. P2
+├─ Thu: Ads UI components .................................... P2
+├─ Fri: Integration testing ................................... P1
+└─ Weekend: Load testing (1000 concurrent users) ............. P1
 
 WEEK 3 (Days 15-21)
-├─ Mon-Tue: Image optimization + caching .................. P1
-├─ Wed: Query optimization + indexing ..................... P1
-├─ Thu: Security audit + RLS verification ................. P0
-├─ Fri: Full regression testing ........................... P0
-└─ Weekend: Production deployment + monitoring ............ P0
+├─ Mon-Tue: Image optimization + caching ..................... P1
+├─ Wed: Query optimization + indexing ......................... P1
+├─ Thu: Security audit + RLS verification .................... P0
+├─ Fri: Full regression testing ............................... P0
+└─ Weekend: Production deployment + monitoring ................ P0
 ```
 
 ---
@@ -218,6 +229,7 @@ WEEK 3 (Days 15-21)
 ## ✅ DEPLOYMENT CHECKLIST
 
 ### Pre-Launch (Day 19)
+
 - [ ] All 11 database tables created + tested
 - [ ] OAuth working (Google, GitHub)
 - [ ] Directory listing showing all 5000 users
@@ -230,6 +242,7 @@ WEEK 3 (Days 15-21)
 - [ ] RLS policies verified (no unauthorized access)
 
 ### Day 20 (Security & Scale)
+
 - [ ] SQL injection tests passed
 - [ ] XSS protection verified
 - [ ] Load test: 1000+ concurrent users
@@ -238,12 +251,44 @@ WEEK 3 (Days 15-21)
 - [ ] CDN caching enabled
 
 ### Day 21 (Go Live)
+
 - [ ] Production database migrated
 - [ ] SSL certificates verified
 - [ ] Monitoring dashboards live
 - [ ] Incident response plan documented
 - [ ] Customer support ready
 - [ ] Launch email sent to early users
+
+---
+
+## 📞 PROJECT LEADERSHIP
+
+**Project Lead:** SNTL 84 (MetroMate)
+- 📧 Email: desidevloper.com
+- 💬 WhatsApp: wa.me/919727413309
+- 🔗 LinkedIn: linkedin.com/in/sntl2784
+- 🐙 GitHub: github.com/SNTL84
+- 📸 Instagram: @desibiztrade
+- 🎥 YouTube: @SNTL84
+
+---
+
+## 🎓 LEARNING RESOURCES
+
+### Supabase Masterclass
+1. Auth with RLS: https://supabase.com/docs/guides/auth
+2. Realtime subscriptions: https://supabase.com/docs/realtime
+3. Edge Functions: https://supabase.com/docs/functions
+
+### Next.js Frontend
+1. App Router: https://nextjs.org/docs/app
+2. API Routes: https://nextjs.org/docs/pages/building-your-application/routing/api-routes
+3. Deployment: https://nextjs.org/docs/deployment
+
+### Database Design
+1. PostgreSQL EXPLAIN: https://www.postgresql.org/docs/current/sql-explain.html
+2. Index strategies: https://use-the-index-luke.com/
+3. RLS policies: https://supabase.com/docs/guides/auth/row-level-security
 
 ---
 
@@ -256,6 +301,7 @@ WEEK 3 (Days 15-21)
 | ❌ Unoptimized images | ✅ Auto-resize on upload to Storage |
 | ❌ Realtime costs exploding | ✅ Only subscribe to active workspaces |
 | ❌ Database connection limits | ✅ Enable PgBouncer pooling |
+| ❌ No follow-up notifications | ✅ Implement batch reminders (separate table) |
 | ❌ Bot training not scalable | ✅ Use similarity search, not hardcoded FAQs |
 | ❌ Ads not tracking impressions | ✅ Batch updates every 100 views |
 
@@ -271,4 +317,4 @@ WEEK 3 (Days 15-21)
 
 ---
 
-**Version:** 1.0 | **Project Lead:** SNTL 84 → wa.me/919727413309
+**Version:** 1.0 | **Last Updated:** 2024 | **Next Review:** Post-MVP
