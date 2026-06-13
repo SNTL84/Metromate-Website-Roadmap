@@ -62,7 +62,7 @@
 ### 📋 Quick Start — Which File Should I Read?
 
 | Role | Start With | Then Read |
-|------|-----------|-----------|
+|------|-----------|-----------| 
 | 🆕 **New to project** | [`00_START_HERE.txt`](./reference/00_START_HERE.txt) | [`EXECUTIVE_SUMMARY.md`](./reference/EXECUTIVE_SUMMARY.md) |
 | 🔧 **Backend Developer** | [`MVP_Implementation_Guide.md`](./reference/MVP_Implementation_Guide.md) | [`Tragad_Soni_MVP_Depth_Reference.md`](./reference/Tragad_Soni_MVP_Depth_Reference.md) |
 | 🎨 **Frontend Developer** | [`QUICK_REFERENCE.md`](./reference/QUICK_REFERENCE.md) | [`MVP_Implementation_Guide.md`](./reference/MVP_Implementation_Guide.md) |
@@ -125,7 +125,9 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/Optimised-SNTL-84-MetroMate-umbrella.jpg" alt="SNTL84 × MetroMate — B2B & B2C Lead Generation Services" width="800" />
+<a href="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/Optimised-SNTL-84-MetroMate-umbrella.jpg" target="_blank">
+<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/Optimised-SNTL-84-MetroMate-umbrella.jpg" alt="SNTL84 × MetroMate — B2B & B2C Lead Generation Services — Umbrella Brand" width="800" />
+</a>
 
 > **MetroMate B2B & B2C Services** is now a proud part of **SNTL 84 Digital Marketing Services** — powering trade directory listing, business discoverability, quality lead generation, targeted outreach & growth.
 
@@ -139,7 +141,9 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 
 <div align="center">
 
-### 📊 Growth Engine — Lead Generation System
+---
+
+### 📊 1. Growth Engine — Lead Generation System
 
 <a href="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-LGS.jpg" target="_blank">
 <img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-LGS.jpg" alt="SNTL84 × MetroMate — Lead Generation System (LGS) — Systems that Scale, Results that Last, Growth that Compounds" width="800" />
@@ -150,7 +154,9 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 
 <br />
 
-### 📞 One Call. All Solutions. — 203 Services
+---
+
+### 📞 2. One Call. All Solutions. — 203 Services
 
 <a href="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Lead-Generation-Service-Provider.jpg" target="_blank">
 <img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Lead-Generation-Service-Provider.jpg" alt="MetroMate — One Call All Solutions — 203 Services — Residential, Commercial & Corporate" width="800" />
@@ -161,7 +167,35 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 
 <br />
 
-### 👥 Placement & Recruitment Services
+---
+
+### 🔧 3. MetroMate 3-in-1 Services
+
+<a href="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate%203in1%20servicepng_github_optimized.jpg" target="_blank">
+<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate%203in1%20servicepng_github_optimized.jpg" alt="MetroMate 3-in-1 Service Bundle — B2B, B2C & Real Estate — Powered by SNTL84" width="800" />
+</a>
+
+> 🔧 **MetroMate 3-in-1 Service Bundle** — B2B · B2C · Real Estate, all under one roof.
+> One platform, multiple solutions — simplifying business & home service delivery across Surat.
+
+<br />
+
+---
+
+### 🧾 4. Tax Consultation — Gujarati
+
+<a href="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate%20Tax%20Consultation%20Gujarati_github_optimized.jpg" target="_blank">
+<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate%20Tax%20Consultation%20Gujarati_github_optimized.jpg" alt="MetroMate Tax Consultation — Gujarati Language — GST, ITR, Business Tax — Powered by SNTL84" width="800" />
+</a>
+
+> 🧾 **MetroMate Tax Consultation** — GST · ITR · Business Tax Filing in Gujarati.
+> Affordable, expert-guided tax services for SMEs and individuals across Gujarat.
+
+<br />
+
+---
+
+### 👥 5. Placement & Recruitment Services
 
 <a href="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Recruitment-servicespng.jpg" target="_blank">
 <img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Recruitment-servicespng.jpg" alt="MetroMate — Placement & Recruitment Services — IT & Non-IT Staffing powered by SNTL 84" width="800" />
@@ -173,7 +207,35 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 
 <br />
 
-### 🏠 MetroMate Real Estate — Property Listings
+---
+
+### 🏭 6. FMCG Franchise Opportunity
+
+<a href="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/Insta%20Optimized%20Fmcg%20franchiase(1)_github_optimized.jpg" target="_blank">
+<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/Insta%20Optimized%20Fmcg%20franchiase(1)_github_optimized.jpg" alt="MetroMate — FMCG Franchise Opportunity — B2B Trade — Powered by SNTL84 DesiBizTrade" width="800" />
+</a>
+
+> 🏭 **FMCG Franchise Opportunity** via MetroMate · DesiBizTrade
+> Connecting FMCG brands with distributors, retailers & franchise partners across India.
+
+<br />
+
+---
+
+### 🔍 7. Franchise Hunt — Business Opportunities
+
+<a href="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/Insta%20Optimised%20franchiase%20hunt(1)_github_optimized.jpg" target="_blank">
+<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/Insta%20Optimised%20franchiase%20hunt(1)_github_optimized.jpg" alt="MetroMate — Franchise Hunt — Find the Right Business Franchise — Powered by SNTL84 DesiBizTrade" width="800" />
+</a>
+
+> 🔍 **MetroMate Franchise Hunt** — Find the right business franchise for you.
+> Curated franchise listings · Investment-ready leads · Powered by DesiBizTrade.
+
+<br />
+
+---
+
+### 🏠 8. MetroMate Real Estate — Property Listings
 
 <table>
 <tr>
@@ -393,7 +455,8 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 
 | Date (IST) | Activity | Commit |
 |---|---|---|
-| **13 Jun 2026** | 📸 Visual Service Gallery section added — all 9 assets wired with click-to-enlarge, side-by-side RE layout, proper naming | latest |
+| **13 Jun 2026** | 📸 Visual Service Gallery updated — 13 assets wired in order: Umbrella Brand → LGS → 3-in-1 → Tax Consultation → Recruitment → FMCG Franchise → Franchise Hunt → Real Estate (Sale/Rent/Banner/Badge) | latest |
+| **13 Jun 2026** | 📸 Visual Service Gallery section added — all 9 assets wired with click-to-enlarge, side-by-side RE layout, proper naming | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/ebe64c70392f41b99a35f85d5a8d21cc9e94049e) |
 | **12 Jun 2026** | 👨‍💻 Developer Reference section added to README — role-based reading guide, tech stack, 21-day sprint overview | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/c0a6b8462f7694d6cad09f31dc7f04daa82d04aa) |
 | **12 Jun 2026** | 📁 `reference/` folder created — 6 files uploaded for backend & frontend developer scope of work | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/tree/main/reference) |
 | **05 Jun 2026** | 🔗 Handles: unified visual strip — all 9 channels, HTML table badge style, top + connect + footer synced | — |
@@ -412,7 +475,7 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 | [`reference/QUICK_REFERENCE.md`](./reference/QUICK_REFERENCE.md) | 📄 MD | Architecture diagram, tech stack, API routes, deployment checklist | ✅ Live |
 | [`reference/EXECUTIVE_SUMMARY.md`](./reference/EXECUTIVE_SUMMARY.md) | 📄 MD | Project overview, 21-day action plan, cost analysis, success criteria | ✅ Live |
 | [`reference/Tragad_Soni_MVP_Depth_Reference.md`](./reference/Tragad_Soni_MVP_Depth_Reference.md) | 📄 MD | 8-section structured reference — repos, DB schema, timeline, team assignments | ✅ Live |
-| [`assets/`](./assets) | 📁 Dir | **9 brand images** — umbrella brand, LGS, services, recruitment, real estate (banner, badge, sale, rent) | ✅ Gallery Live |
+| [`assets/`](./assets) | 📁 Dir | **13 brand images** — umbrella brand, LGS, 3-in-1 service, tax consultation, recruitment, FMCG franchise, franchise hunt, real estate (sale, rent, banner, badge) | ✅ Gallery Live |
 | [`Family-Reg-V1-Final.html`](./Family-Reg-V1-Final.html) | 📝 HTML | Live Family Registration Form — Head, Spouse, Children, Address, WhatsApp Submit | ✅ Live |
 | [`Tragad-Soni-Roadmap-v3.html`](./Tragad-Soni-Roadmap-v3.html) | 🗺️ HTML | Interactive Roadmap v3 — dark mode, navigation & download PNG | ✅ Live |
 | [`Tragad-Soni-Roadmap-v2.html`](./Tragad-Soni-Roadmap-v2.html) | 🗺️ HTML | Roadmap v2 — tabbed UI, interactive mindmap (reference archive) | 📦 Archive |
