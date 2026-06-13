@@ -129,23 +129,88 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 
 > **MetroMate B2B & B2C Services** is now a proud part of **SNTL 84 Digital Marketing Services** — powering trade directory listing, business discoverability, quality lead generation, targeted outreach & growth.
 
+</div>
+
+---
+
+## 📸 MetroMate × SNTL84 — Visual Service Gallery
+
+> *Every image below maps to a live service vertical. Click any image to view the full asset.*
+
+<div align="center">
+
+### 📊 Growth Engine — Lead Generation System
+
+<a href="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-LGS.jpg" target="_blank">
+<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-LGS.jpg" alt="SNTL84 × MetroMate — Lead Generation System (LGS) — Systems that Scale, Results that Last, Growth that Compounds" width="800" />
+</a>
+
+> 📊 **SNTL 84 Growth Engine** — Systems that Scale · Results that Last · Growth that Compounds
+> Powered by MetroMate with Lead Generation, Fulfillment, Internal Talent, Automation & Systems.
+
 <br />
 
-<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-LGS.jpg" alt="SNTL84 × MetroMate — Lead Generation System Overview" width="800" />
+### 📞 One Call. All Solutions. — 203 Services
 
-> **SNTL 84 Growth Engine** — Systems that Scale. Results that Last. Growth that Compounds. Powered by MetroMate B2B & B2C Services with Lead Generation, Fulfillment, Internal Talent, Automation & Systems.
+<a href="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Lead-Generation-Service-Provider.jpg" target="_blank">
+<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Lead-Generation-Service-Provider.jpg" alt="MetroMate — One Call All Solutions — 203 Services — Residential, Commercial & Corporate" width="800" />
+</a>
+
+> 📞 **MetroMate · One Call. All Solutions.** — 203 services across Residential, Commercial & Corporate segments.
+> Trusted professionals · 24×7 support · Affordable & transparent pricing.
 
 <br />
 
-<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Lead-Generation-Service-Provider.jpg" alt="MetroMate — One Call All Solutions, 203 Services" width="800" />
+### 👥 Placement & Recruitment Services
 
-> **MetroMate · One Call. All Solutions.** — 203 services across Residential, Commercial & Corporate segments. Trusted professionals, 24×7 support, affordable & transparent pricing.
+<a href="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Recruitment-servicespng.jpg" target="_blank">
+<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Recruitment-servicespng.jpg" alt="MetroMate — Placement & Recruitment Services — IT & Non-IT Staffing powered by SNTL 84" width="800" />
+</a>
+
+> 👥 **MetroMate Placement Services** powered by SNTL 84
+> IT: Software Engineers · Cloud & DevOps · Data Scientists · Cybersecurity · QA
+> Non-IT: Sales · Customer Success · Digital Marketers · Finance & HR · Supply Chain
 
 <br />
 
-<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Recruitment-servicespng.jpg" alt="MetroMate — Placement Services powered by SNTL 84" width="800" />
+### 🏠 MetroMate Real Estate — Property Listings
 
-> **MetroMate Placement Services** powered by SNTL 84 — IT Specialists (Software Engineers, Cloud & DevOps, Data Scientists, Cybersecurity, QA) & Non-IT Staff (Sales, Customer Success, Digital Marketers, Finance & HR, Supply Chain).
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Real-Estate-Sale.jpg" target="_blank">
+<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Real-Estate-Sale.jpg" alt="MetroMate Real Estate — Properties For Sale — 1BHK, 2BHK, 3BHK — Adajan, Pal, Palangpur, Jangirpura, Surat" width="380" />
+</a>
+<br/><b>🏡 For Sale</b><br/>
+1 BHK ₹15L+ · 2 BHK ₹20L+ · 3 BHK ₹40L+
+</td>
+<td align="center" width="50%">
+<a href="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MM%20fb%20version.jpg" target="_blank">
+<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MM%20fb%20version.jpg" alt="MetroMate Real Estate — Properties For Rent — 1BHK, 2BHK, 3BHK — Adajan, Pal, Palangpur, Jangirpura, Surat" width="380" />
+</a>
+<br/><b>🏢 For Rent</b><br/>
+1 BHK ₹8K+ · 2 BHK ₹15K+ · 3 BHK ₹18K+
+</td>
+</tr>
+</table>
+
+<br />
+
+<a href="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Real-Estate-Banner.jpg" target="_blank">
+<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Real-Estate-Banner.jpg" alt="MetroMate Real Estate Consultant — Find. Connect. Close. — One Platform Multiple Solutions — Surat Gujarat" width="800" />
+</a>
+
+> 🏠 **MetroMate Real Estate** — *Your Property, Our Priority.*
+> Find · Connect · Close — One platform for buying, selling, renting & listing across Surat.
+
+<br />
+
+<a href="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Real-Estate-Logo-Badge.jpg" target="_blank">
+<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Real-Estate-Logo-Badge.jpg" alt="MetroMate Real Estate Consultant Logo Badge — Buy Sell Rental Listing — Powered by DesiBizTrade" width="420" />
+</a>
+
+> ⭐⭐⭐⭐⭐ **MetroMate Real Estate Consultant** — Powered by DesiBizTrade
+> Buy · Sell · Rental · Listing · *Your Property. Our Priority.*
 
 </div>
 
@@ -155,32 +220,6 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 
 > **FIND. CONNECT. CLOSE.** — *Your Property, Our Priority.*
 > **One Platform · Multiple Solutions** · Powered by DesiBizTrade
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Real-Estate-Banner.jpg" alt="MetroMate Real Estate Consultant — Find. Connect. Close. One Platform Multiple Solutions." width="800" />
-
-> **MetroMate Real Estate** — *Your Property, Our Priority.* One platform for buying, selling, renting & listing residential and commercial properties across Surat. Trusted guidance · Wide network · Best results · Transparent deals.
-
-<br />
-
-<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Real-Estate-Logo-Badge.jpg" alt="MetroMate Real Estate Consultant — Buy, Sell, Rental, Listing — Powered by DesiBizTrade" width="500" />
-
-> **MetroMate Real Estate Consultant Services** — Powered by DesiBizTrade. Buy · Sell · Rental · Listing. *Your Property. Our Priority.* ⭐⭐⭐⭐⭐
-
-<br />
-
-<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Real-Estate-Sale.jpg" alt="MetroMate Real Estate — 1 BHK, 2 BHK, 3 BHK For Sale — Adajan, Pal, Palangpur, Jangirpura, Surat" width="700" />
-
-> **For Sale** — 1 BHK ₹15,00,000+ · 2 BHK ₹20,00,000+ · 3 BHK ₹40,00,000+ · Areas: Adajan · Pal · Palangpur · Jangirpura
-
-<br />
-
-<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MM%20fb%20version.jpg" alt="MetroMate Real Estate — 1 BHK, 2 BHK, 3 BHK For Rent — Adajan, Pal, Palangpur, Jangirpura, Surat" width="700" />
-
-> **For Rent** — 1 BHK ₹8,000+ · 2 BHK ₹15,000+ · 3 BHK ₹18,000+ · Areas: Adajan · Pal · Palangpur · Jangirpura
-
-</div>
 
 MetroMate Real Estate Consultant is the **dedicated property vertical** of the SNTL84 ecosystem — connecting buyers, sellers, tenants, and investors with verified residential & commercial opportunities across **Adajan · Pal · Palangpur · Jangirpura** (Surat, Gujarat) and beyond.
 
@@ -354,14 +393,12 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 
 | Date (IST) | Activity | Commit |
 |---|---|---|
-| **12 Jun 2026** | 👨‍💻 Developer Reference section added to README — role-based reading guide, tech stack, 21-day sprint overview | latest |
+| **13 Jun 2026** | 📸 Visual Service Gallery section added — all 9 assets wired with click-to-enlarge, side-by-side RE layout, proper naming | latest |
+| **12 Jun 2026** | 👨‍💻 Developer Reference section added to README — role-based reading guide, tech stack, 21-day sprint overview | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/c0a6b8462f7694d6cad09f31dc7f04daa82d04aa) |
 | **12 Jun 2026** | 📁 `reference/` folder created — 6 files uploaded for backend & frontend developer scope of work | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/tree/main/reference) |
 | **05 Jun 2026** | 🔗 Handles: unified visual strip — all 9 channels, HTML table badge style, top + connect + footer synced | — |
 | **05 Jun 2026** | 🏛️ README: flagship restructure — What Is This Project + Mission above images, GitHub badges, zero duplication | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/7411c6ee642b2450454c268a2522d46da6f1539d) |
 | **05 Jun 2026** | 🏠 README: 4 MetroMate Real Estate images embedded — banner, logo badge, sale & rent visuals live | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/6a27581e1e01778df2df3afb627c61edbc535341) |
-| **05 Jun 2026** | 🏠 README: MetroMate Real Estate section added — rent/sale pricing, 4 core services, trust pillars | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/93f8dc2e97d7d53fdc483295940e1e3159a81d65) |
-| **05 Jun 2026** | 🗺️ README enriched — SNTL84 4-layer node architecture, Facebook channel, browser automation stack | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commits/main) |
-| **01 Jun 2026** | 📋 README: Trade Directory expanded — 40+ categories, full goldsmith & community topics | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commits/main) |
 | **30 May 2026** | 📊 MetroMate README flagship — B2C/B2B/CSV developer links · `MetroMate_services_v4.csv` 203 rows | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/82041037888748edff33d030fe3104f5ff0a9386) |
 
 ---
@@ -375,6 +412,7 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 | [`reference/QUICK_REFERENCE.md`](./reference/QUICK_REFERENCE.md) | 📄 MD | Architecture diagram, tech stack, API routes, deployment checklist | ✅ Live |
 | [`reference/EXECUTIVE_SUMMARY.md`](./reference/EXECUTIVE_SUMMARY.md) | 📄 MD | Project overview, 21-day action plan, cost analysis, success criteria | ✅ Live |
 | [`reference/Tragad_Soni_MVP_Depth_Reference.md`](./reference/Tragad_Soni_MVP_Depth_Reference.md) | 📄 MD | 8-section structured reference — repos, DB schema, timeline, team assignments | ✅ Live |
+| [`assets/`](./assets) | 📁 Dir | **9 brand images** — umbrella brand, LGS, services, recruitment, real estate (banner, badge, sale, rent) | ✅ Gallery Live |
 | [`Family-Reg-V1-Final.html`](./Family-Reg-V1-Final.html) | 📝 HTML | Live Family Registration Form — Head, Spouse, Children, Address, WhatsApp Submit | ✅ Live |
 | [`Tragad-Soni-Roadmap-v3.html`](./Tragad-Soni-Roadmap-v3.html) | 🗺️ HTML | Interactive Roadmap v3 — dark mode, navigation & download PNG | ✅ Live |
 | [`Tragad-Soni-Roadmap-v2.html`](./Tragad-Soni-Roadmap-v2.html) | 🗺️ HTML | Roadmap v2 — tabbed UI, interactive mindmap (reference archive) | 📦 Archive |
@@ -383,7 +421,6 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 | [`MetroMate/services/MetroMate_services_v4.csv`](./MetroMate/services/MetroMate_services_v4.csv) | 📊 CSV | **203 services** — B2B, B2C, Both · Categories, Sub-Categories, Keywords | ✅ Latest |
 | [`sprint-sheets/`](./sprint-sheets) | 📁 Dir | 14 individual sprint & section Markdown sheets | 🔄 Active |
 | [`backend-architecture-study/`](./backend-architecture-study) | 📁 Dir | Backend architecture research & tech stack documentation | 🔄 Active |
-| [`assets/`](./assets) | 📁 Dir | Brand images — MetroMate umbrella, LGS, services, real estate banners | ✅ Growing |
 
 ---
 
