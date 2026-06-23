@@ -72,7 +72,7 @@
 ### 📁 Reference Documents — Full List
 
 | # | File | Size | Purpose |
-|---|------|------|---------|
+|---|------|------|---------| 
 | 1 | [`00_START_HERE.txt`](./reference/00_START_HERE.txt) | 11 KB | Entry point — project overview, quick answers, contact |
 | 2 | [`EXECUTIVE_SUMMARY.md`](./reference/EXECUTIVE_SUMMARY.md) | 10 KB | Answers 4 key questions, 21-day action plan, success criteria |
 | 3 | [`MVP_Implementation_Guide.md`](./reference/MVP_Implementation_Guide.md) | 23 KB | **Primary technical spec** — full SQL schema, 11 DB tables, RLS, push notifications, 6 code patterns |
@@ -126,7 +126,7 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 <div align="center">
 
 <a href="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/Optimised-SNTL-84-MetroMate-umbrella.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/Optimised-SNTL-84-MetroMate-umbrella.jpg" alt="SNTL84 × MetroMate — B2B & B2C Lead Generation Services — Umbrella Brand" width="800" />
+<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/Optimised-SNTL-84-MetroMate-umbrella.jpg" alt="SNTL84 × MetroMate — B2B & B2C Lead Generation Services — Umbrella Brand" width="100%" style="max-width:800px;display:block;margin:0 auto;" />
 </a>
 
 > **MetroMate B2B & B2C Services** is now a proud part of **SNTL 84 Digital Marketing Services** — powering trade directory listing, business discoverability, quality lead generation, targeted outreach & growth.
@@ -146,7 +146,7 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 ### 📊 1. Growth Engine — Lead Generation System
 
 <a href="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-LGS.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-LGS.jpg" alt="SNTL84 × MetroMate — Lead Generation System (LGS) — Systems that Scale, Results that Last, Growth that Compounds" width="800" />
+<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-LGS.jpg" alt="SNTL84 × MetroMate — Lead Generation System (LGS) — Systems that Scale, Results that Last, Growth that Compounds" width="100%" style="max-width:800px;display:block;margin:0 auto;" />
 </a>
 
 > 📊 **SNTL 84 Growth Engine** — Systems that Scale · Results that Last · Growth that Compounds
@@ -159,7 +159,7 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 ### 📞 2. One Call. All Solutions. — 203 Services
 
 <a href="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Lead-Generation-Service-Provider.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Lead-Generation-Service-Provider.jpg" alt="MetroMate — One Call All Solutions — 203 Services — Residential, Commercial & Corporate" width="800" />
+<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Lead-Generation-Service-Provider.jpg" alt="MetroMate — One Call All Solutions — 203 Services — Residential, Commercial & Corporate" width="100%" style="max-width:800px;display:block;margin:0 auto;" />
 </a>
 
 > 📞 **MetroMate · One Call. All Solutions.** — 203 services across Residential, Commercial & Corporate segments.
@@ -172,7 +172,7 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 ### 🔧 3. MetroMate 3-in-1 Services
 
 <a href="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate%203in1%20servicepng_github_optimized.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate%203in1%20servicepng_github_optimized.jpg" alt="MetroMate 3-in-1 Service Bundle — B2B, B2C & Real Estate — Powered by SNTL84" width="800" />
+<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate%203in1%20servicepng_github_optimized.jpg" alt="MetroMate 3-in-1 Service Bundle — B2B, B2C & Real Estate — Powered by SNTL84" width="100%" style="max-width:800px;display:block;margin:0 auto;" />
 </a>
 
 > 🔧 **MetroMate 3-in-1 Service Bundle** — B2B · B2C · Real Estate, all under one roof.
@@ -185,7 +185,7 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 ### 🧾 4. Tax Consultation — Gujarati
 
 <a href="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate%20Tax%20Consultation%20Gujarati_github_optimized.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate%20Tax%20Consultation%20Gujarati_github_optimized.jpg" alt="MetroMate Tax Consultation — Gujarati Language — GST, ITR, Business Tax — Powered by SNTL84" width="800" />
+<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate%20Tax%20Consultation%20Gujarati_github_optimized.jpg" alt="MetroMate Tax Consultation — Gujarati Language — GST, ITR, Business Tax — Powered by SNTL84" width="100%" style="max-width:800px;display:block;margin:0 auto;" />
 </a>
 
 > 🧾 **MetroMate Tax Consultation** — GST · ITR · Business Tax Filing in Gujarati.
@@ -198,7 +198,7 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 ### 👥 5. Placement & Recruitment Services
 
 <a href="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Recruitment-servicespng.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Recruitment-servicespng.jpg" alt="MetroMate — Placement & Recruitment Services — IT & Non-IT Staffing powered by SNTL 84" width="800" />
+<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Recruitment-servicespng.jpg" alt="MetroMate — Placement & Recruitment Services — IT & Non-IT Staffing powered by SNTL 84" width="100%" style="max-width:800px;display:block;margin:0 auto;" />
 </a>
 
 > 👥 **MetroMate Placement Services** powered by SNTL 84
@@ -212,7 +212,7 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 ### 🏭 6. FMCG Franchise Opportunity
 
 <a href="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/Insta%20Optimized%20Fmcg%20franchiase(1)_github_optimized.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/Insta%20Optimized%20Fmcg%20franchiase(1)_github_optimized.jpg" alt="MetroMate — FMCG Franchise Opportunity — B2B Trade — Powered by SNTL84 DesiBizTrade" width="800" />
+<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/Insta%20Optimized%20Fmcg%20franchiase(1)_github_optimized.jpg" alt="MetroMate — FMCG Franchise Opportunity — B2B Trade — Powered by SNTL84 DesiBizTrade" width="100%" style="max-width:800px;display:block;margin:0 auto;" />
 </a>
 
 > 🏭 **FMCG Franchise Opportunity** via MetroMate · DesiBizTrade
@@ -225,7 +225,7 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 ### 🔍 7. Franchise Hunt — Business Opportunities
 
 <a href="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/Insta%20Optimised%20franchiase%20hunt(1)_github_optimized.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/Insta%20Optimised%20franchiase%20hunt(1)_github_optimized.jpg" alt="MetroMate — Franchise Hunt — Find the Right Business Franchise — Powered by SNTL84 DesiBizTrade" width="800" />
+<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/Insta%20Optimised%20franchiase%20hunt(1)_github_optimized.jpg" alt="MetroMate — Franchise Hunt — Find the Right Business Franchise — Powered by SNTL84 DesiBizTrade" width="100%" style="max-width:800px;display:block;margin:0 auto;" />
 </a>
 
 > 🔍 **MetroMate Franchise Hunt** — Find the right business franchise for you.
@@ -241,14 +241,14 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 <tr>
 <td align="center" width="50%">
 <a href="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Sale.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Sale.jpg" alt="MetroMate Real Estate — Properties For Sale — 1BHK, 2BHK, 3BHK — Adajan, Pal, Palangpur, Jangirpura, Surat" width="380" />
+<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Sale.jpg" alt="MetroMate Real Estate — Properties For Sale — 1BHK, 2BHK, 3BHK — Adajan, Pal, Palangpur, Jangirpura, Surat" width="100%" style="max-width:380px;display:block;margin:0 auto;" />
 </a>
 <br/><b>🏡 For Sale</b><br/>
 1 BHK ₹15L+ · 2 BHK ₹20L+ · 3 BHK ₹40L+
 </td>
 <td align="center" width="50%">
 <a href="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MM%20fb%20version.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MM%20fb%20version.jpg" alt="MetroMate Real Estate — Properties For Rent — 1BHK, 2BHK, 3BHK — Adajan, Pal, Palangpur, Jangirpura, Surat" width="380" />
+<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MM%20fb%20version.jpg" alt="MetroMate Real Estate — Properties For Rent — 1BHK, 2BHK, 3BHK — Adajan, Pal, Palangpur, Jangirpura, Surat" width="100%" style="max-width:380px;display:block;margin:0 auto;" />
 </a>
 <br/><b>🏢 For Rent</b><br/>
 1 BHK ₹8K+ · 2 BHK ₹15K+ · 3 BHK ₹18K+
@@ -259,7 +259,7 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 <br />
 
 <a href="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Banner.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Banner.jpg" alt="MetroMate Real Estate Consultant — Find. Connect. Close. — One Platform Multiple Solutions — Surat Gujarat" width="800" />
+<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Banner.jpg" alt="MetroMate Real Estate Consultant — Find. Connect. Close. — One Platform Multiple Solutions — Surat Gujarat" width="100%" style="max-width:800px;display:block;margin:0 auto;" />
 </a>
 
 > 🏠 **MetroMate Real Estate** — *Your Property, Our Priority.*
@@ -268,7 +268,7 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 <br />
 
 <a href="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Logo-Badge.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Logo-Badge.jpg" alt="MetroMate Real Estate Consultant Logo Badge — Buy Sell Rental Listing — Powered by DesiBizTrade" width="420" />
+<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Logo-Badge.jpg" alt="MetroMate Real Estate Consultant Logo Badge — Buy Sell Rental Listing — Powered by DesiBizTrade" width="100%" style="max-width:420px;display:block;margin:0 auto;" />
 </a>
 
 > ⭐⭐⭐⭐⭐ **MetroMate Real Estate Consultant** — Powered by DesiBizTrade
@@ -280,7 +280,7 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 ### 📣 9. MetroMate Digital Marketing Services
 
 <a href="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Digital-Marketing-Service.png" target="_blank">
-<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Digital-Marketing-Service.png" alt="MetroMate Digital Marketing Service — Strategy · Creativity · Growth" width="700" />
+<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Digital-Marketing-Service.png" alt="MetroMate Digital Marketing Service — Strategy · Creativity · Growth" width="100%" style="max-width:700px;display:block;margin:0 auto;" />
 </a>
 
 > 📣 **MetroMate Digital Marketing Services** — *Strategy. Creativity. Growth.*
