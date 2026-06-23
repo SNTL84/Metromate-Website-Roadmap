@@ -468,6 +468,7 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 
 | Date (IST) | Activity | Commit |
 |---|---|---|
+| **23 Jun 2026** | 📣 MetroMate Digital Marketing Services added — Section 9 in Visual Gallery · Phase 3 Preview updated with Digital Marketing pipeline | latest |
 | **13 Jun 2026** | 📸 Visual Service Gallery updated — 13 assets wired in order: Umbrella Brand → LGS → 3-in-1 → Tax Consultation → Recruitment → FMCG Franchise → Franchise Hunt → Real Estate (Sale/Rent/Banner/Badge) | latest |
 | **13 Jun 2026** | 📸 Visual Service Gallery section added — all 9 assets wired with click-to-enlarge, side-by-side RE layout, proper naming | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/ebe64c70392f41b99a35f85d5a8d21cc9e94049e) |
 | **12 Jun 2026** | 👨‍💻 Developer Reference section added to README — role-based reading guide, tech stack, 21-day sprint overview | [→](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commit/c0a6b8462f7694d6cad09f31dc7f04daa82d04aa) |
