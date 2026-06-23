@@ -274,6 +274,19 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 > ⭐⭐⭐⭐⭐ **MetroMate Real Estate Consultant** — Powered by DesiBizTrade
 > Buy · Sell · Rental · Listing · *Your Property. Our Priority.*
 
+
+---
+
+### 📣 9. MetroMate Digital Marketing Services
+
+<a href="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Digital-Marketing-Service.png" target="_blank">
+<img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/MetroMate-Digital-Marketing-Service.png" alt="MetroMate Digital Marketing Service — Strategy · Creativity · Growth" width="700" />
+</a>
+
+> 📣 **MetroMate Digital Marketing Services** — *Strategy. Creativity. Growth.*
+> Strategy · Content · SEO · Social Media · Paid Ads · Analytics
+> **We Market. You Grow. Results That Matter.**
+
 </div>
 
 ---
@@ -587,6 +600,7 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 | 📅 Event Calendar | Festivals, exhibitions & community events | 🟡 Medium |
 | 🤖 AI Assistant | Community FAQ bot + WhatsApp integration | 🟡 Medium |
 | MetroMate Real Estate lead pipeline | Property enquiry → WhatsApp alert → CRM | 🟡 Medium |
+| 📣 Digital Marketing Services | SEO · Social Media · Paid Ads · Content · Analytics | 🟡 Medium |
 | 📱 Mobile PWA | Progressive Web App for mobile-first access | 🟢 Phase 6 |
 
 ---
