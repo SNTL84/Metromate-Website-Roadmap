@@ -636,3 +636,62 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 [![GitHub watchers](https://img.shields.io/github/watchers/SNTL84/Tragad-Soni-Website-Roadmap?style=social)](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/watchers)
 
 </div>
+
+
+---
+
+## 🏆 Flagship Case Study — Skill Level Proof of Work
+
+> **This roadmap is not just a plan — it's a living system.** Every real-world project undertaken under the MetroMate / SNTL84 umbrella gets documented as a standalone case-study repo, cross-linked here, and pushed live across social channels for prospective clients and learners to study.
+
+[![Case Study](https://img.shields.io/badge/Case%20Study-Mahadev%20Restaurant%20Pal%2C%20Surat-brightgreen?style=for-the-badge)](https://github.com/SNTL84/metromate-mahadev-restaurant-pal-surat-case-study) [![Skill Level](https://img.shields.io/badge/Skill%20Level-Business%20Setup%20%7C%20POS%20%7C%20Delivery%20Onboarding-blue?style=for-the-badge)](https://github.com/SNTL84/metromate-mahadev-restaurant-pal-surat-case-study) [![Delivered](https://img.shields.io/badge/Delivered-30%20Days-orange?style=for-the-badge)](https://github.com/SNTL84/metromate-mahadev-restaurant-pal-surat-case-study)
+
+### 📈 [Mahadev Restaurant — New Branch Launch (Pal, Surat)](https://github.com/SNTL84/metromate-mahadev-restaurant-pal-surat-case-study)
+
+This case study repo demonstrates the **variety of hands-on experience** and **business profitability setup skills** delivered under MetroMate Performance Marketing:
+
+| Skill Demonstrated | Applied In Case Study |
+|---|---|
+| 🧾 Billing / POS Deployment | Dine-in + thali + à-la-carte pricing structuring |
+| 📹 Security & Vigilance Setup | CCTV planning & compliance paperwork |
+| 🚚 Delivery Platform Onboarding | Zomato & Swiggy go-live with pricing formulas |
+| 📦 Vendor & Supply Chain Coordination | Frozen/fresh vendor billing-cycle alignment |
+| 📱 Social Media Growth Ops | Instagram/Facebook handle setup & promotion |
+| 📊 Operations Documentation | Staff scheduling (bilingual), full ops manual |
+
+> ✅ **Result:** Ground-zero to fully operational, digitally-listed restaurant business — delivered in 30 days — proving end-to-end capability from tech setup to profitable, revenue-ready operations.
+
+### 🔄 Live Update & Cross-Post Workflow
+
+> Once a project is undertaken, it is **not archived quietly** — it is pushed live, in real time, across every SNTL84 channel for prospective clients and learners:
+
+```
+Project Undertaken
+      │
+      ▼
+✅ Repo Created/Updated  ───▶  This Roadmap (Metromate-Website-Roadmap) cross-linked
+      │
+      ▼
+📢 Facebook Post   ───▶  facebook.com/profile.php?id=61590405098559
+      │
+      ▼
+📸 Instagram Post  ───▶  instagram.com/desibiztrade
+      │
+      ▼
+🔗 LinkedIn Post   ───▶  linkedin.com/in/sntl2784
+      │
+      ▼
+🎓 Learning & Project Assignment Resource for Visitors & Prospective Clients
+```
+
+This ensures every visitor and prospective client can see **live, verifiable proof of work** — not just claims — and use these repos as **real learning/project-assignment material**.
+
+<div align="center">
+
+[![Repo Stars](https://img.shields.io/github/stars/SNTL84/metromate-mahadev-restaurant-pal-surat-case-study?style=social)](https://github.com/SNTL84/metromate-mahadev-restaurant-pal-surat-case-study/stargazers) [![Repo Forks](https://img.shields.io/github/forks/SNTL84/metromate-mahadev-restaurant-pal-surat-case-study?style=social)](https://github.com/SNTL84/metromate-mahadev-restaurant-pal-surat-case-study/network/members) [![Repo Watchers](https://img.shields.io/github/watchers/SNTL84/metromate-mahadev-restaurant-pal-surat-case-study?style=social)](https://github.com/SNTL84/metromate-mahadev-restaurant-pal-surat-case-study/watchers)
+
+[![Follow SNTL84](https://img.shields.io/github/followers/SNTL84?label=Follow%20%40SNTL84&style=social)](https://github.com/SNTL84)
+
+</div>
+
+> 🤝 **Collab What's Costing You Time**
