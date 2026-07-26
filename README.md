@@ -655,7 +655,7 @@ This case study repo demonstrates the **variety of hands-on experience** and **b
 | Skill Demonstrated | Applied In Case Study |
 |---|---|
 | 🧾 Billing / POS Deployment | Dine-in + thali + à-la-carte pricing structuring |
-| 📹 Security & Vigilance Setup | CCTV planning & compliance paperwork |
+| 📹 Security & Vigilance Setup | <img src="https://img.shields.io/badge/Dahua-D2232A?style=flat-square&logoColor=white" alt="Dahua"/> <img src="https://img.shields.io/badge/Hikvision-FF6B00?style=flat-square&logoColor=white" alt="Hikvision"/> CCTV planning & compliance paperwork |
 | 🚚 Delivery Platform Onboarding | <img src="https://img.shields.io/badge/Zomato-E23744?style=flat-square&logo=zomato&logoColor=white" alt="Zomato"/> <img src="https://img.shields.io/badge/Swiggy-FC8019?style=flat-square&logo=swiggy&logoColor=white" alt="Swiggy"/> Go-live with pricing formulas |
 | 💳 POS Payment Machine Setup | <img src="https://img.shields.io/badge/Paytm-00BAF2?style=flat-square&logo=paytm&logoColor=white" alt="Paytm"/> <img src="https://img.shields.io/badge/PhonePe-5F259F?style=flat-square&logo=phonepe&logoColor=white" alt="PhonePe"/> <img src="https://img.shields.io/badge/Google%20Pay-4285F4?style=flat-square&logo=googlepay&logoColor=white" alt="Google Pay"/> UPI & card terminal installation with vendor reconciliation |
 | 📦 Vendor & Supply Chain Coordination | Frozen/fresh vendor billing-cycle alignment |
