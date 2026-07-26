@@ -138,6 +138,7 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 ## 📸 MetroMate × SNTL84 — Visual Service Gallery
 
 > *Every image below maps to a live service vertical. Click any image to view the full asset.*
+> All visual assets are kept **high-resolution, correctly optimized, and fully rendered** across the gallery — ensuring zero loss of visual appeal for visitors and prospective clients browsing this repository.
 
 <div align="center">
 
@@ -686,6 +687,17 @@ Project Undertaken
 ```
 
 This ensures every visitor and prospective client can see **live, verifiable proof of work** — not just claims — and use these repos as **real learning/project-assignment material**.
+
+### 💼 Lucrative Project Potential — Trade Directory & Lead Generation Reuse
+
+> Any project undertaken in this roadmap that proves sufficiently **lucrative and viable** may be repurposed and folded into the **Trade Directory** and **Lead Generation** services under the SNTL84 / MetroMate umbrella — extending its reach as a monetizable, reusable business asset rather than a one-off build.
+
+- 📈 Successful project patterns are evaluated for reuse across other communities & verticals within the Trade Directory
+- 🔁 Proven components feed directly into MetroMate's Lead Generation Service pipeline
+- 🧪 Prospective **Facebook Pages** are created purely for **live observation** — testing positioning, engagement & outreach
+- 🔗 Their links are **updated periodically** to verify working status, live operation, and continued relevance for better business opportunities
+- ✅ Only patterns that demonstrate real-world traction graduate from observation into active service offerings
+
 
 <div align="center">
 
