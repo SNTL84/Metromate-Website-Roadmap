@@ -11,7 +11,7 @@
 [![Community](https://img.shields.io/badge/Community-Tragad%20Soni%20Goldsmith-gold?style=for-the-badge)](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap)
 [![Phase](https://img.shields.io/badge/Phase%201-Planning%2075%25-yellow?style=for-the-badge)](./sprint-sheets/Phase1_Planning_Sprint.md)
 [![MetroMate](https://img.shields.io/badge/Partner-MetroMate%20B2B%20%26%20B2C-orange?style=for-the-badge)](./MetroMate/)
-[![Performance Marketing](https://img.shields.io/badge/%F0%9F%94%B4%20NEW-MetroMate%20Performance%20Marketing-red?style=for-the-badge)](#-metromate-real-estate-consultant)
+[![Performance Marketing](https://img.shields.io/badge/%F0%9F%94%B4%20NEW-MetroMate%20Performance%20Marketing-red?style=for-the-badge)](#-metromate-performance-marketing-services)
 [![Services](https://img.shields.io/badge/MetroMate%20Services-203%20Listed-blue?style=for-the-badge)](./MetroMate/services/MetroMate_services_v4.csv)
 [![Author](https://img.shields.io/badge/Author-SNTL84-blue?style=for-the-badge)](https://github.com/SNTL84)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)](./LICENSE)
@@ -236,20 +236,20 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 
 ---
 
-### 🏠 8. MetroMate Real Estate — Property Listings
+### 🏠 8. MetroMate Performance Marketing Services — Property Listings
 
 <table>
 <tr>
 <td align="center" width="50%">
 <a href="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Sale.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Sale.jpg" alt="MetroMate Real Estate — Properties For Sale — 1BHK, 2BHK, 3BHK — Adajan, Pal, Palangpur, Jangirpura, Surat" width="380" />
+<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Sale.jpg" alt="MetroMate Performance Marketing Services — Properties For Sale — 1BHK, 2BHK, 3BHK — Adajan, Pal, Palangpur, Jangirpura, Surat" width="380" />
 </a>
 <br/><b>🏡 For Sale</b><br/>
 1 BHK ₹15L+ · 2 BHK ₹20L+ · 3 BHK ₹40L+
 </td>
 <td align="center" width="50%">
 <a href="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Rent.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Rent.jpg" alt="MetroMate Real Estate — Properties For Rent — 1BHK, 2BHK, 3BHK — Adajan, Pal, Palangpur, Jangirpura, Surat" width="380" />
+<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Rent.jpg" alt="MetroMate Performance Marketing Services — Properties For Rent — 1BHK, 2BHK, 3BHK — Adajan, Pal, Palangpur, Jangirpura, Surat" width="380" />
 </a>
 <br/><b>🏢 For Rent</b><br/>
 1 BHK ₹8K+ · 2 BHK ₹15K+ · 3 BHK ₹18K+
@@ -260,19 +260,19 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 <br />
 
 <a href="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Banner.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Banner.jpg" alt="MetroMate Real Estate Consultant — Find. Connect. Close. — One Platform Multiple Solutions — Surat Gujarat" width="800" />
+<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Banner.jpg" alt="MetroMate Performance Marketing Services Consultant — Find. Connect. Close. — One Platform Multiple Solutions — Surat Gujarat" width="800" />
 </a>
 
-> 🏠 **MetroMate Real Estate** — *Your Property, Our Priority.*
+> 🏠 **MetroMate Performance Marketing Services** — *Your Property, Our Priority.*
 > Find · Connect · Close — One platform for buying, selling, renting & listing across Surat.
 
 <br />
 
 <a href="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Logo-Badge.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Logo-Badge.jpg" alt="MetroMate Real Estate Consultant Logo Badge — Buy Sell Rental Listing — Powered by DesiBizTrade" width="420" />
+<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Logo-Badge.jpg" alt="MetroMate Performance Marketing Services Consultant Logo Badge — Buy Sell Rental Listing — Powered by DesiBizTrade" width="420" />
 </a>
 
-> ⭐⭐⭐⭐⭐ **MetroMate Real Estate Consultant** — Powered by DesiBizTrade
+> ⭐⭐⭐⭐⭐ **MetroMate Performance Marketing Services Consultant** — Powered by DesiBizTrade
 > Buy · Sell · Rental · Listing · *Your Property. Our Priority.*
 
 ---
@@ -291,12 +291,12 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 
 ---
 
-## 🏠 MetroMate Real Estate Consultant
+## 🏠 MetroMate Performance Marketing Services
 
 > **FIND. CONNECT. CLOSE.** — *Your Property, Our Priority.*
 > **One Platform · Multiple Solutions** · Powered by DesiBizTrade
 
-MetroMate Real Estate Consultant is the **dedicated property vertical** of the SNTL84 ecosystem — connecting buyers, sellers, tenants, and investors with verified residential & commercial opportunities across **Adajan · Pal · Palangpur · Jangirpura** (Surat, Gujarat) and beyond.
+MetroMate Performance Marketing Services Consultant is the **dedicated property vertical** of the SNTL84 ecosystem — connecting buyers, sellers, tenants, and investors with verified residential & commercial opportunities across **Adajan · Pal · Palangpur · Jangirpura** (Surat, Gujarat) and beyond.
 
 ### 🏡 Properties For Rent
 
@@ -323,7 +323,7 @@ MetroMate Real Estate Consultant is the **dedicated property vertical** of the S
 | 📋 **List Your Property** | We help you list & market effectively for maximum reach |
 | 🤝 **Find Your Property** | We connect you with the right opportunities matching your requirements |
 
-### ✅ Why MetroMate Real Estate?
+### ✅ Why MetroMate Performance Marketing Services?
 
 | Pillar | What It Means For You |
 |---|---|
@@ -358,7 +358,7 @@ MetroMate Real Estate Consultant is the **dedicated property vertical** of the S
 │ Tragad Soni   │  │ SNTL84        │  │ @desibiztrade │  │ desidevloper  │
 │ Website       │  │ Workflows     │  │ Instagram     │  │ .com          │
 │ Member Trust  │  │ MetroMate     │  │ Facebook      │  │ Hostinger     │
-│ Event Hub     │  │ Real Estate   │  │ LinkedIn      │  │ Vercel        │
+│ Event Hub     │  │ Perf.Mktg   │  │ LinkedIn      │  │ Vercel        │
 │ Trade Leads   │  │ Automation    │  │ @SNTL84 YT    │  │ GitHub Pages  │
 │ Community SEO │  │ Concierge     │  │ WhatsApp      │  │ Promotion Ops │
 │               │  │ Operations    │  │ Aratt.ai      │  │               │
@@ -396,7 +396,7 @@ The browser automation layer connects all four growth node layers — enabling s
 │  ✅ Scrape exhibition intel → populate jewellery event calendar  │
 │  ✅ Lead form submission → auto-qualify → WhatsApp alert         │
 │  ✅ MetroMate booking form → Google Sheets → operator notify     │
-│  ✅ MetroMate Real Estate → property leads → WhatsApp pipeline   │
+│  ✅ MetroMate Performance Marketing Services → property leads → WhatsApp pipeline   │
 │  ✅ Tragad Soni directory updates → trigger site rebuild         │
 │  ✅ FMCG/Gold event data → auto-generate Excel reports           │
 └──────────────────────────────────────────────────────────────────┘
