@@ -11,7 +11,7 @@
 [![Community](https://img.shields.io/badge/Community-Tragad%20Soni%20Goldsmith-gold?style=for-the-badge)](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap)
 [![Phase](https://img.shields.io/badge/Phase%201-Planning%2075%25-yellow?style=for-the-badge)](./sprint-sheets/Phase1_Planning_Sprint.md)
 [![MetroMate](https://img.shields.io/badge/Partner-MetroMate%20B2B%20%26%20B2C-orange?style=for-the-badge)](./MetroMate/)
-[![Real Estate](https://img.shields.io/badge/%F0%9F%94%B4%20NEW-MetroMate%20Real%20Estate-red?style=for-the-badge)](#-metromate-real-estate-consultant)
+[![Performance Marketing](https://img.shields.io/badge/%F0%9F%94%B4%20NEW-MetroMate%20Performance%20Marketing-red?style=for-the-badge)](#-metromate-real-estate-consultant)
 [![Services](https://img.shields.io/badge/MetroMate%20Services-203%20Listed-blue?style=for-the-badge)](./MetroMate/services/MetroMate_services_v4.csv)
 [![Author](https://img.shields.io/badge/Author-SNTL84-blue?style=for-the-badge)](https://github.com/SNTL84)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)](./LICENSE)
@@ -411,7 +411,7 @@ The browser automation layer connects all four growth node layers — enabling s
 |---|---|
 | **MetroMate B2C SERVICES** | Home services · Repairs · Healthcare · Retail · Lifestyle |
 | **MetroMate B2B SERVICES** | IT · Staffing · Legal · Digital Marketing · Supply Chain |
-| **MetroMate Real Estate** | Buy · Sell · Rent · List Your Property · Find Your Property |
+| **MetroMate Performance Marketing Services** | Buy · Sell · Rent · List Your Property · Find Your Property |
 | **Lead Generation** | Lead sourcing · Qualification · Appointments · Pipeline building |
 | **Fulfillment Automation** | Onboarding · Delivery workflows · Customer success · Scaling |
 | **Bench Resource Availability** | On-demand talent · Contract developers · Project consultants |
@@ -467,7 +467,8 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 
 | Date (IST) | Activity | Commit |
 |---|---|---|
-| **22 Jul 2026** | 🧹 Repo cleanup — deleted 10 root artifacts, fixed all image filenames (spaces → hyphens), updated .gitignore, renamed duplicate Copy files in assets | latest |
+| **26 Jul 2026** | 🏷️ Renamed MetroMate Real Estate → MetroMate Performance Marketing Services in Agentic AI table; added Swiggy & Zomato logos in Case Study delivery row | latest |
+| **22 Jul 2026** | 🧹 Repo cleanup — deleted 10 root artifacts, fixed all image filenames (spaces → hyphens), updated .gitignore, renamed duplicate Copy files in assets | — |
 | **23 Jun 2026** | 📣 MetroMate Digital Marketing Services added — Section 9 in Visual Gallery · Phase 3 Preview updated with Digital Marketing pipeline | — |
 | **13 Jun 2026** | 📸 Visual Service Gallery updated — 13 assets wired in order: Umbrella Brand → LGS → 3-in-1 → Tax Consultation → Recruitment → FMCG Franchise → Franchise Hunt → Real Estate (Sale/Rent/Banner/Badge) | — |
 | **12 Jun 2026** | 👨‍💻 Developer Reference section added to README — role-based reading guide, tech stack, 21-day sprint overview | — |
@@ -595,7 +596,7 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 | 💒 Matrimony Module | Community matchmaking with privacy controls | 🟡 Medium |
 | 📅 Event Calendar | Festivals, exhibitions & community events | 🟡 Medium |
 | 🤖 AI Assistant | Community FAQ bot + WhatsApp integration | 🟡 Medium |
-| MetroMate Real Estate lead pipeline | Property enquiry → WhatsApp alert → CRM | 🟡 Medium |
+| MetroMate Performance Marketing Services lead pipeline | Property enquiry → WhatsApp alert → CRM | 🟡 Medium |
 | 📣 Digital Marketing Services | SEO · Social Media · Paid Ads · Content · Analytics | 🟡 Medium |
 | 📱 Mobile PWA | Progressive Web App for mobile-first access | 🟢 Phase 6 |
 
@@ -627,7 +628,7 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 </tr>
 </table>
 
-> *📞 MetroMate Real Estate: [+91 97274 13309](https://wa.me/919727413309) · Find. Connect. Close.*
+> *📞 MetroMate Performance Marketing Services: [+91 97274 13309](https://wa.me/919727413309) · Find. Connect. Close.*
 >
 > *🏛️ Tragad Soni Community: Preserving Roots · Connecting Globally · Building the Future Together*
 
@@ -648,13 +649,13 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 
 ### 📈 [Mahadev Restaurant — New Branch Launch (Pal, Surat)](https://github.com/SNTL84/metromate-mahadev-restaurant-pal-surat-case-study)
 
-This case study repo demonstrates the **variety of hands-on experience** and **business profitability setup skills** delivered under MetroMate Performance Marketing:
+This case study repo demonstrates the **variety of hands-on experience** and **business profitability setup skills** delivered under MetroMate Performance Marketing Services:
 
 | Skill Demonstrated | Applied In Case Study |
 |---|---|
 | 🧾 Billing / POS Deployment | Dine-in + thali + à-la-carte pricing structuring |
 | 📹 Security & Vigilance Setup | CCTV planning & compliance paperwork |
-| 🚚 Delivery Platform Onboarding | Zomato & Swiggy go-live with pricing formulas |
+| 🚚 Delivery Platform Onboarding | <img src="https://img.shields.io/badge/Zomato-E23744?style=flat-square&logo=zomato&logoColor=white" alt="Zomato"/> <img src="https://img.shields.io/badge/Swiggy-FC8019?style=flat-square&logo=swiggy&logoColor=white" alt="Swiggy"/> Go-live with pricing formulas |
 | 📦 Vendor & Supply Chain Coordination | Frozen/fresh vendor billing-cycle alignment |
 | 📱 Social Media Growth Ops | Instagram/Facebook handle setup & promotion |
 | 📊 Operations Documentation | Staff scheduling (bilingual), full ops manual |
