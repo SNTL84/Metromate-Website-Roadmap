@@ -675,7 +675,7 @@ Project Undertaken
 ✅ Repo Created/Updated  ───▶  This Roadmap (Metromate-Website-Roadmap) cross-linked
       │
       ▼
-📢 Facebook Post   ───▶  facebook.com/profile.php?id=61590405098559
+📢 Facebook Pages  ───▶  12-page MetroMate / Mads reference set documented below
       │
       ▼
 📸 Instagram Post  ───▶  instagram.com/desibiztrade
@@ -687,6 +687,26 @@ Project Undertaken
 🎓 Learning & Project Assignment Resource for Visitors & Prospective Clients
 ```
 
+
+
+## 📘 Facebook Page Reference Directory
+
+These Facebook page references are maintained for future MetroMate / DesiDevloper website integration and social distribution. The page name, purpose and link should be treated as the current reference set.
+
+| S.No | Page Name | Link | Bio |
+|---:|---|---|---|
+| 1 | MetroMate Real Estate Consultant | https://www.facebook.com/1092765500593790 | Real Estate Consultant in Surat |
+| 2 | Soni Milind | https://www.facebook.com/1131099810086787 | Personal Brand |
+| 3 | MetroMate | https://www.facebook.com/1193286440535180 | Main Brand Page |
+| 4 | Mads Online | https://www.facebook.com/1251317284739690 | Online Services |
+| 5 | Mad - Tech | https://www.facebook.com/1252972387909910 | Tech Solutions |
+| 6 | Mads Caterings | https://www.facebook.com/1286751047862484 | Catering Services |
+| 7 | Mbc | https://www.facebook.com/1287845491086656 | Business Page |
+| 8 | MNn | https://www.facebook.com/1323971740807107 | Business Page |
+| 9 | Mads Direct | https://www.facebook.com/1360911753764884 | Direct Services |
+| 10 | Mbs | https://www.facebook.com/1371971029331961 | Business Page |
+| 11 | Mads Direct | https://www.facebook.com/1379825511874679 | Direct Services |
+| 12 | Mad-icare | https://www.facebook.com/1390724564114913 | Healthcare / Care Services |
 
 # ❓ Frequently Asked Questions — Metromate-Website-Roadmap
 
@@ -949,8 +969,8 @@ Billing and POS deployment, CCTV planning (Dahua and Hikvision), Zomato and Swig
 **40. What is the "Live Update & Cross-Post Workflow"?**
 Each undertaken project gets a repo created or updated and cross-linked here. It is then posted to Facebook, Instagram and LinkedIn, and finally offered as learning and project-assignment material for visitors and prospective clients.
 
-**41. What happens to projects that prove lucrative?**
-They may be repurposed into the Trade Directory and Lead Generation services. Prospective Facebook Pages are created only for live observation, and only patterns with real traction graduate into active offerings.
+**41. How are the MetroMate and Mads Facebook pages used in this roadmap?**
+The current reference set contains 12 Facebook pages covering real estate, the personal brand, MetroMate, Mads Online, Mad-Tech, catering, business pages, direct services and healthcare/care services. These pages provide future website cross-linking, social distribution and reference points for service-specific discovery. Pages and links should be verified before each production integration.
 
 ---
 
