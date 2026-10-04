@@ -687,6 +687,302 @@ Project Undertaken
 🎓 Learning & Project Assignment Resource for Visitors & Prospective Clients
 ```
 
+
+# ❓ Frequently Asked Questions — Metromate-Website-Roadmap
+
+> Detailed answers about the **Tragad Soni Community Website Roadmap** and the **SNTL84 × MetroMate** services ecosystem. For the project overview, see the [README](README.md).
+
+## 📑 Contents
+
+- [A. About the Project](#a-about-the-project) (Q1–Q7)
+- [B. Repository Structure](#b-repository-structure) (Q8–Q12)
+- [C. Reading Guide for Contributors](#c-reading-guide-for-contributors) (Q13–Q16)
+- [D. Technical Architecture](#d-technical-architecture) (Q17–Q23)
+- [E. Tragad Soni Community Features](#e-tragad-soni-community-features) (Q24–Q28)
+- [F. Interactive Roadmap](#f-interactive-roadmap) (Q29–Q30)
+- [G. MetroMate Services](#g-metromate-services) (Q31–Q37)
+- [H. Case Study and Proof of Work](#h-case-study-and-proof-of-work) (Q38–Q41)
+- [I. Maintenance and Support](#i-maintenance-and-support) (Q42–Q45)
+
+---
+
+## A. About the Project
+
+**1. What is this repository?**
+It is the complete, living roadmap for the **Tragad Soni Website**, a community-first digital platform for the Tragad Soni (Goldsmith) community. The repo covers the journey from ideation to international launch. It also holds the MetroMate B2B/B2C services material and the SNTL84 brand assets.
+
+**2. Why is the repo called "Metromate" when the README is about Tragad Soni?**
+The repo is a shared home for two linked efforts: the Tragad Soni community platform, and the MetroMate services ecosystem run by SNTL84. The README positions the Tragad Soni website as **Layer 1** of the SNTL84 Growth Infrastructure Node, and MetroMate services sit in Layer 2 (Service Engine). Some badges and links still point to the older repo name, `Tragad-Soni-Website-Roadmap`.
+
+**3. Who is the community this platform serves?**
+The Tragad Soni goldsmith community of Gujarat, Maharashtra and the worldwide diaspora. Historically the community is centred around Surat, Vadodara, Rajkot and Mumbai.
+
+**4. What is the mission?**
+There are four pillars:
+
+- **Preserve:** document lineage, family histories and heritage.
+- **Connect:** build the largest Tragad Soni network globally.
+- **Empower:** enable trade, matrimony, education and healthcare discovery.
+- **Scale:** meet international trade-directory standards for global visibility.
+
+**5. Who owns and maintains it?**
+SNTL84 (Milan), based in Surat, Gujarat, India. The project lead contact is on WhatsApp at [+91 97274 13309](https://wa.me/919727413309).
+
+**6. What licence is it under?**
+MIT. The full text is in the [`LICENSE`](LICENSE) file, and PRs are welcome.
+
+**7. What is the current status?**
+As of the README's June 2026 progress snapshot:
+
+| Phase | Progress |
+|---|---|
+| Phase 1 · Planning & Setup | 75% |
+| Phase 2 · Design & Branding | 20% |
+| Phase 3 · Development | 0% |
+| Phase 4 · Testing & QA | 0% |
+| Phase 5 · Launch & SEO | 0% |
+| Phase 6 · Mobile App / PWA | Planned for 2027 |
+
+The community website itself is therefore still in planning and design, not yet live.
+
+---
+
+## B. Repository Structure
+
+**8. What folders are in the repo?**
+
+| Folder | Contents |
+|---|---|
+| `reference/` | Developer documentation (schema, guides, architecture) |
+| `MetroMate/` | B2B and B2C supplier registration form, services config and README |
+| `MetroMate Subscription/` | Subscription-related material for MetroMate |
+| `sprint-sheets/` | 14 sprint and section Markdown sheets |
+| `backend-architecture-study/` | Backend research and tech stack notes |
+| `assets/` | Brand images used in the README gallery |
+| `integrations/pplx-gold-tracker/` | Gold tracker integration |
+
+**9. What are the key files at the root?**
+
+- `README.md` — the main documentation.
+- `Family-Reg-V1-Final.html` — the Family Registry form.
+- `Tragad-Soni-Roadmap-v3.html` — the flagship interactive roadmap.
+- `Tragad-Soni-Roadmap-v2.html` — the archived earlier roadmap.
+- `Tragad_Soni_Website_Roadmap_Milan_SNTL84.xlsx` — the full roadmap and milestone tracker.
+- `LICENSE` and `.gitignore`.
+
+**10. What are the `.b64`, `.js` and `.json` files at the root (for example `encode_xlsx.js`, `upload_github.js`, `xlsx_clean.b64`)?**
+They are helper scripts and intermediate files used to encode the Excel roadmap into Base64 and upload it to GitHub through the API. They are not part of the website itself.
+
+**11. Where do I find the 203-service list?**
+In [`MetroMate/services/MetroMate_services_v4.csv`](MetroMate/services/MetroMate_services_v4.csv). It covers B2B, B2C and "Both" services, with categories, sub-categories and keywords.
+
+**12. What is in the Excel roadmap?**
+A full roadmap, feature planning and milestone tracker, organised into 14 sprint sub-sheets.
+
+---
+
+## C. Reading Guide for Contributors
+
+**13. I'm new. Where do I start?**
+Read [`reference/00_START_HERE.txt`](reference/00_START_HERE.txt), then [`reference/EXECUTIVE_SUMMARY.md`](reference/EXECUTIVE_SUMMARY.md).
+
+**14. Which file should each role read first?**
+
+| Role | Start with | Then read |
+|---|---|---|
+| New to project | `00_START_HERE.txt` | `EXECUTIVE_SUMMARY.md` |
+| Backend developer | `MVP_Implementation_Guide.md` | `Tragad_Soni_MVP_Depth_Reference.md` |
+| Frontend developer | `QUICK_REFERENCE.md` | `MVP_Implementation_Guide.md` |
+| Project manager / lead | `EXECUTIVE_SUMMARY.md` | `Tragad_Soni_MVP_Depth_Reference.md` |
+| QA / testing | `QUICK_REFERENCE.md` (Deployment Checklist) | `MVP_Implementation_Guide.md` (Phase 6) |
+
+All files are in the [`reference/`](reference/) folder.
+
+**15. What does each reference document contain?**
+
+- `00_START_HERE.txt` — overview, quick answers, contact.
+- `EXECUTIVE_SUMMARY.md` — four key questions answered, the 21-day plan, success criteria and cost analysis.
+- `MVP_Implementation_Guide.md` — the primary technical spec: full SQL schema, 11 DB tables, RLS, push notifications and 6 code patterns.
+- `QUICK_REFERENCE.md` — architecture diagram, tech stack, API routes, deployment checklist and pitfalls.
+- `Tragad_Soni_MVP_Depth_Reference.md` — an 8-section reference covering repos, schema, timeline, cost and team assignments.
+- `INDEX.md` — the document map and recommended reading order.
+
+**16. How do I contribute?**
+PRs are welcome. Read the reference docs for your role, then open a pull request. For scope questions, contact the project lead on WhatsApp.
+
+---
+
+## D. Technical Architecture
+
+**17. What is the planned MVP tech stack?**
+
+| Layer | Technology |
+|---|---|
+| Frontend | Next.js 14 + Tailwind CSS, deployed on Vercel |
+| Backend | Supabase (PostgreSQL, Auth, Realtime, Edge Functions) |
+| Push notifications | OneSignal |
+| WhatsApp | Twilio Business API |
+| Database | 11 tables, 24 indexes, Row-Level Security |
+
+**18. Why does the README show two different stacks?**
+There are two stages. The *MVP plan* in the Developer Reference uses Next.js and Supabase. The *current working stack* (the README's Tech Stack table) is HTML5, CSS3 and vanilla JS, with native forms submitting via WhatsApp, hosted on GitHub Pages, Vercel or Hostinger. The HTML forms and roadmap pages are today's prototypes, and the Next.js/Supabase build is the Phase 3 target.
+
+**19. What will the MVP cost to run?**
+About **$100 per month at 5,000 users**, per the README's estimate.
+
+**20. How long will the MVP take?**
+**21 days**, in three weeks:
+
+- **Week 1 (Days 1–7):** foundation, DB schema, OAuth, directory and workspace pages.
+- **Week 2 (Days 8–14):** push notifications, 2-level bot, WhatsApp forms and ads.
+- **Week 3 (Days 15–21):** optimisation, security audit, load testing and deploy.
+
+**21. What AI tools does the project use?**
+Claude AI, GPT and Aratt.ai, along with prompt engineering. A community FAQ bot with WhatsApp integration is planned as a Phase 3 medium-priority feature.
+
+**22. What is the Browser Automation layer?**
+A shared layer that connects all four growth node layers. It uses n8n, Puppeteer, Playwright, Google Sheets and webhooks, and covers:
+
+- scheduled posting to Instagram and Facebook,
+- scraping exhibition intel into a jewellery event calendar,
+- lead form submission, auto-qualification and WhatsApp alerts,
+- MetroMate booking forms to Google Sheets and operator notification,
+- property leads into a WhatsApp pipeline,
+- directory updates that trigger a site rebuild,
+- auto-generated Excel reports for FMCG and gold event data.
+
+**23. What are the four layers of the SNTL84 Growth Infrastructure Node?**
+
+1. **Community Platform** — the Tragad Soni website.
+2. **Service Engine** — SNTL84 workflows, MetroMate, Performance Marketing and automation.
+3. **Social Distribution** — Instagram, Facebook, LinkedIn, YouTube, WhatsApp and Aratt.ai.
+4. **MVP Hosting & Promo** — desidevloper.com, Hostinger, Vercel and GitHub Pages.
+
+---
+
+## E. Tragad Soni Community Features
+
+**24. What is the Family Registry Form?**
+[`Family-Reg-V1-Final.html`](Family-Reg-V1-Final.html) is a live HTML form that captures the family head, spouse, children, address and contact details. It acts as a digital census for lineage documentation and the directory.
+
+**25. How is registration data submitted?**
+Through WhatsApp. The form sends data directly to the community admin, so no backend is needed at this stage.
+
+**26. What area does the registry cover?**
+Surat, Vadodara, Rajkot, Mumbai and the diaspora worldwide.
+
+**27. What features are planned for Phase 3?**
+
+| Feature | Priority |
+|---|---|
+| Community website (responsive heritage and trade portal) | 🔴 High |
+| Family directory with lineage tree | 🔴 High |
+| Trade directory (goldsmith and jewellery listings, SEO optimised) | 🔴 High |
+| Matrimony module with privacy controls | 🟡 Medium |
+| Event calendar | 🟡 Medium |
+| AI assistant (FAQ bot and WhatsApp) | 🟡 Medium |
+| Property lead pipeline (enquiry → WhatsApp alert → CRM) | 🟡 Medium |
+| Digital Marketing Services | 🟡 Medium |
+| Mobile PWA | 🟢 Phase 6 |
+
+**28. Is member data kept private?**
+The README lists privacy controls for the matrimony module and Row-Level Security in the database design. A detailed privacy policy and consent handling are not yet documented, so they should be defined before launch.
+
+---
+
+## F. Interactive Roadmap
+
+**29. Which roadmap version should I use?**
+**v3** ([`Tragad-Soni-Roadmap-v3.html`](Tragad-Soni-Roadmap-v3.html)) is the flagship, with dark mode, PNG export and full navigation. v2 ([`Tragad-Soni-Roadmap-v2.html`](Tragad-Soni-Roadmap-v2.html)) is kept as an archive, with a tabbed UI and interactive mindmap.
+
+**30. How do I view the roadmap pages?**
+Open the HTML files in a browser, or serve them through GitHub Pages or Vercel. They are static files and need no build step.
+
+---
+
+## G. MetroMate Services
+
+**31. What is MetroMate?**
+A B2B and B2C services platform, now part of SNTL 84 Digital Marketing Services. Its tagline is "One Call. All Solutions."
+
+**32. How many services does it list, and how are they split?**
+203 services:
+
+| Segment | Categories | Count |
+|---|---|---|
+| B2C | Home services, healthcare, retail, lifestyle, education | 110+ |
+| B2B | IT, staffing, legal, digital marketing, finance, supply chain | 70+ |
+| Real estate | Buy, sell, rent, list, find property | 23+ |
+
+**33. What is MetroMate Performance Marketing Services?**
+The dedicated property vertical of the SNTL84 ecosystem, with the tagline "Find. Connect. Close." It connects buyers, sellers, tenants and investors across Adajan, Pal, Palanpur and Jangirpura in Surat.
+
+**34. What are the listed starting prices?**
+
+| Type | For rent (from) | For sale (from) |
+|---|---|---|
+| 1 BHK | ₹8,000 | ₹15,00,000 |
+| 2 BHK | ₹15,000 | ₹20,00,000 |
+| 3 BHK | ₹18,000 | ₹40,00,000 |
+
+These are "starting from" figures, not live listings.
+
+**35. Why does the README say "Performance Marketing Services" for a property business?**
+On 26 July 2026 the "MetroMate Real Estate" name was changed to "MetroMate Performance Marketing Services" in the Agentic AI table. Some image filenames and alt text still use the older "Real Estate" wording.
+
+**36. What other services are showcased in the gallery?**
+Lead Generation System, the 3-in-1 service bundle, Gujarati tax consultation (GST, ITR), placement and recruitment (IT and non-IT), FMCG franchise opportunities, Franchise Hunt, and Digital Marketing (strategy, SEO, social, paid ads, analytics).
+
+**37. What does the SNTL84 service portfolio include beyond MetroMate?**
+Lead generation, fulfilment automation, bench resource availability, full-stack builds, AI workflows, supply chain BI and browser automation.
+
+---
+
+## H. Case Study and Proof of Work
+
+**38. What is the flagship case study?**
+The Mahadev Restaurant new branch launch in Pal, Surat, in its own repo: [`metromate-mahadev-restaurant-pal-surat-case-study`](https://github.com/SNTL84/metromate-mahadev-restaurant-pal-surat-case-study). It went from ground zero to a fully operational, digitally listed restaurant in **30 days**.
+
+**39. What skills did it demonstrate?**
+Billing and POS deployment, CCTV planning (Dahua and Hikvision), Zomato and Swiggy onboarding with pricing formulas, UPI and card terminal setup (Paytm, PhonePe, Google Pay), vendor billing coordination, social media setup, and bilingual staff scheduling plus an ops manual.
+
+**40. What is the "Live Update & Cross-Post Workflow"?**
+Each undertaken project gets a repo created or updated and cross-linked here. It is then posted to Facebook, Instagram and LinkedIn, and finally offered as learning and project-assignment material for visitors and prospective clients.
+
+**41. What happens to projects that prove lucrative?**
+They may be repurposed into the Trade Directory and Lead Generation services. Prospective Facebook Pages are created only for live observation, and only patterns with real traction graduate into active offerings.
+
+---
+
+## I. Maintenance and Support
+
+**42. Where can I see recent changes?**
+The README's Latest Activity Log and the [`main` branch commit history](https://github.com/SNTL84/Metromate-Website-Roadmap/commits/main).
+
+**43. How do I report an issue or ask a question?**
+Use the repo's [Issues](https://github.com/SNTL84/Metromate-Website-Roadmap/issues) or [Discussions](https://github.com/SNTL84/Metromate-Website-Roadmap/discussions) tabs. For scope questions, message the project lead on [WhatsApp](https://wa.me/919727413309).
+
+**44. How do I contact the team?**
+
+- Website: [desidevloper.com](https://desidevloper.com/)
+- LinkedIn: [sntl2784](https://www.linkedin.com/in/sntl2784)
+- Instagram: [@desibiztrade](https://www.instagram.com/desibiztrade)
+- YouTube: [@SNTL84](https://www.youtube.com/@SNTL84)
+- Aratt.ai: [@desidevloper](https://aratt.ai/user/@desidevloper)
+- Email and Facebook: see the contact table in the README.
+
+**45. Are there known inconsistencies in the documentation?**
+A few small ones are still open:
+
+- Several badges and links still point to the old repo name `Tragad-Soni-Website-Roadmap`.
+- The Instagram handle appears as both `desibiztrade` and `desizbiztrade` (in the repo's About link).
+- "Palangpur" in the README is the area usually spelled "Palanpur".
+- "Real Estate" and "Performance Marketing Services" are used interchangeably in places.
+
+---
+
+*Last updated: October 2026 · Maintained by [SNTL84](https://github.com/SNTL84)*
+
 This ensures every visitor and prospective client can see **live, verifiable proof of work** — not just claims — and use these repos as **real learning/project-assignment material**.
 
 ### 💼 Lucrative Project Potential — Trade Directory & Lead Generation Reuse
