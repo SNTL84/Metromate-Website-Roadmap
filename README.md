@@ -216,8 +216,7 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 <img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/Insta-Optimized-Fmcg-franchise-github-optimized.jpg" alt="MetroMate — FMCG Franchise Opportunity — B2B Trade — Powered by SNTL84 DesiBizTrade" width="800" />
 </a>
 
-> 🏭 **FMCG Franchise Opportunity** via MetroMate · DesiBizTrade
-> Connecting FMCG brands with distributors, retailers & franchise partners across India.
+> 🏭 **FMCG Franchise Opportunity** — distribution & franchise opportunities for the B2B trade network.
 
 <br />
 
@@ -225,365 +224,35 @@ The **Tragad Soni Website** is a **community-first digital platform** for the **
 
 ### 🔍 7. Franchise Hunt — Business Opportunities
 
-<a href="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/Insta-Optimised-franchise-hunt-github-optimized.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/Insta-Optimised-franchise-hunt-github-optimized.jpg" alt="MetroMate — Franchise Hunt — Find the Right Business Franchise — Powered by SNTL84 DesiBizTrade" width="800" />
+<a href="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/Insta-Optimized-franchise-hunt-github-optimized.jpg" target="_blank">
+<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/Insta-Optimized-franchise-hunt-github-optimized.jpg" alt="MetroMate — Franchise Hunt — Business Opportunities" width="800" />
 </a>
 
-> 🔍 **MetroMate Franchise Hunt** — Find the right business franchise for you.
-> Curated franchise listings · Investment-ready leads · Powered by DesiBizTrade.
+> 🔍 **Franchise Hunt** — discovery, outreach and lead-generation support for franchise opportunities.
 
 <br />
 
 ---
 
-### 🏠 8. MetroMate Performance Marketing Services — Property Listings
+### 🏠 8. Real Estate — Sale & Rent
 
-<table>
-<tr>
-<td align="center" width="50%">
-<a href="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Sale.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Sale.jpg" alt="MetroMate Performance Marketing Services — Properties For Sale — 1BHK, 2BHK, 3BHK — Adajan, Pal, Palangpur, Jangirpura, Surat" width="380" />
+<a href="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Sale-Rent.jpg" target="_blank">
+<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Sale-Rent.jpg" alt="MetroMate Real Estate — Sale & Rent — Residential & Commercial" width="800" />
 </a>
-<br/><b>🏡 For Sale</b><br/>
-1 BHK ₹15L+ · 2 BHK ₹20L+ · 3 BHK ₹40L+
-</td>
-<td align="center" width="50%">
-<a href="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Rent.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Rent.jpg" alt="MetroMate Performance Marketing Services — Properties For Rent — 1BHK, 2BHK, 3BHK — Adajan, Pal, Palangpur, Jangirpura, Surat" width="380" />
-</a>
-<br/><b>🏢 For Rent</b><br/>
-1 BHK ₹8K+ · 2 BHK ₹15K+ · 3 BHK ₹18K+
-</td>
-</tr>
-</table>
+
+> 🏠 **MetroMate Real Estate** — residential and commercial property sale, purchase and rental support.
 
 <br />
 
-<a href="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Banner.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Banner.jpg" alt="MetroMate Performance Marketing Services Consultant — Find. Connect. Close. — One Platform Multiple Solutions — Surat Gujarat" width="800" />
+---
+
+### 📢 9. MetroMate Digital Marketing Services
+
+<a href="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Digital-Marketing-Services.jpg" target="_blank">
+<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Digital-Marketing-Services.jpg" alt="MetroMate Digital Marketing Services — SEO Social Media Paid Ads Content Analytics" width="800" />
 </a>
 
-> 🏠 **MetroMate Performance Marketing Services** — *Your Property, Our Priority.*
-> Find · Connect · Close — One platform for buying, selling, renting & listing across Surat.
-
-<br />
-
-<a href="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Logo-Badge.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Real-Estate-Logo-Badge.jpg" alt="MetroMate Performance Marketing Services Consultant Logo Badge — Buy Sell Rental Listing — Powered by DesiBizTrade" width="420" />
-</a>
-
-> ⭐⭐⭐⭐⭐ **MetroMate Performance Marketing Services Consultant** — Powered by DesiBizTrade
-> Buy · Sell · Rental · Listing · *Your Property. Our Priority.*
-
----
-
-### 📣 9. MetroMate Digital Marketing Services
-
-<a href="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Digital-Marketing-Service.png" target="_blank">
-<img src="https://raw.githubusercontent.com/SNTL84/Metromate-Website-Roadmap/main/assets/MetroMate-Digital-Marketing-Service.png" alt="MetroMate Digital Marketing Service — Strategy · Creativity · Growth" width="700" />
-</a>
-
-> 📣 **MetroMate Digital Marketing Services** — *Strategy. Creativity. Growth.*
-> Strategy · Content · SEO · Social Media · Paid Ads · Analytics
-> **We Market. You Grow. Results That Matter.**
-
-</div>
-
----
-
-## 🏠 MetroMate Performance Marketing Services
-
-> **FIND. CONNECT. CLOSE.** — *Your Property, Our Priority.*
-> **One Platform · Multiple Solutions** · Powered by DesiBizTrade
-
-MetroMate Performance Marketing Services Consultant is the **dedicated property vertical** of the SNTL84 ecosystem — connecting buyers, sellers, tenants, and investors with verified residential & commercial opportunities across **Adajan · Pal · Palangpur · Jangirpura** (Surat, Gujarat) and beyond.
-
-### 🏡 Properties For Rent
-
-| Type | Starting Price | Areas Covered |
-|---|---|---|
-| 1 BHK For Rent | ₹ 8,000/- onwards | Adajan · Pal · Palangpur · Jangirpura |
-| 2 BHK For Rent | ₹ 15,000/- onwards | Adajan · Pal · Palangpur · Jangirpura |
-| 3 BHK For Rent | ₹ 18,000/- onwards | Adajan · Pal · Palangpur · Jangirpura |
-
-### 🏢 Properties For Sale
-
-| Type | Starting Price | Areas Covered |
-|---|---|---|
-| 1 BHK For Sale | ₹ 15,00,000/- onwards | Adajan · Pal · Palangpur · Jangirpura |
-| 2 BHK For Sale | ₹ 20,00,000/- onwards | Adajan · Pal · Palangpur · Jangirpura |
-| 3 BHK For Sale | ₹ 40,00,000/- onwards | Adajan · Pal · Palangpur · Jangirpura |
-
-### 🔑 Core Services
-
-| Service | Description |
-|---|---|
-| 🏠 **Buy / Sell** | Residential & Commercial Properties — end-to-end transaction support |
-| 🏢 **Rental** | Residential & Commercial Properties — tenants matched with verified listings |
-| 📋 **List Your Property** | We help you list & market effectively for maximum reach |
-| 🤝 **Find Your Property** | We connect you with the right opportunities matching your requirements |
-
-### ✅ Why MetroMate Performance Marketing Services?
-
-| Pillar | What It Means For You |
-|---|---|
-| 🛡️ **Trusted Guidance** | Expert advice every step of the way |
-| 🌐 **Wide Network** | Access to verified buyers, sellers, tenants & investors |
-| 📈 **Best Results** | Maximising value, delivering successful deals |
-| 🤝 **Transparent Deals** | Honest. Clear. Hassle-Free. |
-| 📍 **Local Experts** | In-depth market knowledge, local insights |
-| 🏆 **Your Trust, Our Commitment** | Personalised solutions · End-to-end support · 100% confidentiality · Client-first |
-
-> 📲 **Ready to find or list a property?** — [WhatsApp +91 97274 13309](https://wa.me/919727413309)
-
----
-
-## 🗺️ SNTL84 Growth Infrastructure Node — Four-Layer Architecture
-
-> **Tragad Soni Website is Layer 1** of the SNTL84 Growth Infrastructure Node. Each layer feeds the next: community trust → service delivery → social amplification → live hosting.
-
-```text
-┌─────────────────────────────────────────────────────────────────────────┐
-│                    SNTL84 GROWTH INFRASTRUCTURE NODE                    │
-│                         Surat, Gujarat, India                           │
-└──────────────────────────┬──────────────────────────────────────────────┘
-                           │
-        ┌──────────────────┼──────────────────┬──────────────────┐
-        ▼                  ▼                  ▼                  ▼
-┌───────────────┐  ┌───────────────┐  ┌───────────────┐  ┌───────────────┐
-│  LAYER 1 ⭐    │  │  LAYER 2      │  │  LAYER 3      │  │  LAYER 4      │
-│  COMMUNITY    │  │  SERVICE      │  │  SOCIAL       │  │  MVP HOSTING  │
-│  PLATFORM     │  │  ENGINE       │  │  DISTRIBUTION │  │  & PROMO      │
-│               │  │               │  │               │  │               │
-│ Tragad Soni   │  │ SNTL84        │  │ @desibiztrade │  │ desidevloper  │
-│ Website       │  │ Workflows     │  │ Instagram     │  │ .com          │
-│ Member Trust  │  │ MetroMate     │  │ Facebook      │  │ Hostinger     │
-│ Event Hub     │  │ Perf.Mktg   │  │ LinkedIn      │  │ Vercel        │
-│ Trade Leads   │  │ Automation    │  │ @SNTL84 YT    │  │ GitHub Pages  │
-│ Community SEO │  │ Concierge     │  │ WhatsApp      │  │ Promotion Ops │
-│               │  │ Operations    │  │ Aratt.ai      │  │               │
-└───────┬───────┘  └───────┬───────┘  └───────┬───────┘  └───────┬───────┘
-        │                  │                  │                  │
-        └──────────────────┴──────────────────┴──────────────────┘
-                                   │
-                    ┌──────────────▼──────────────┐
-                    │   BROWSER AUTOMATION LAYER   │
-                    │  n8n · Puppeteer · Playwright│
-                    │  Google Sheets · Forms API   │
-                    │  Webhooks · Schedulers · CRM │
-                    └─────────────────────────────┘
-```
-
----
-
-## 🤖 Browser Automation Architecture
-
-The browser automation layer connects all four growth node layers — enabling scheduled publishing, lead scraping, form submissions, content distribution, and CRM updates without manual intervention.
-
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│                  BROWSER AUTOMATION STACK                        │
-│                                                                  │
-│  TRIGGER LAYER          EXECUTION LAYER        OUTPUT LAYER      │
-│  ─────────────          ────────────────        ────────────      │
-│  Cron / Schedule  ───▶  n8n Workflow       ───▶ Google Sheets    │
-│  Webhook (forms)  ───▶  Puppeteer script   ───▶ WhatsApp notify  │
-│  GitHub push      ───▶  AI Agent decision  ───▶ Email / CRM      │
-│  Manual trigger   ───▶  Playwright test    ───▶ Vercel deploy     │
-│                                                                  │
-│  USE CASES:                                                      │
-│  ✅ Auto-post to Instagram / Facebook from content queue         │
-│  ✅ Scrape exhibition intel → populate jewellery event calendar  │
-│  ✅ Lead form submission → auto-qualify → WhatsApp alert         │
-│  ✅ MetroMate booking form → Google Sheets → operator notify     │
-│  ✅ MetroMate Performance Marketing Services → property leads → WhatsApp pipeline   │
-│  ✅ Tragad Soni directory updates → trigger site rebuild         │
-│  ✅ FMCG/Gold event data → auto-generate Excel reports           │
-└──────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🧠 SNTL 84 — Agentic AI Workflow Professional
-
-> **Automate What's Costing You Money · Systems that Scale · Results that Last**
-
-| Service Pillar | What We Deliver |
-|---|---|
-| **MetroMate B2C SERVICES** | Home services · Repairs · Healthcare · Retail · Lifestyle |
-| **MetroMate B2B SERVICES** | IT · Staffing · Legal · Digital Marketing · Supply Chain |
-| **MetroMate Performance Marketing Services** | Buy · Sell · Rent · List Your Property · Find Your Property |
-| **Lead Generation** | Lead sourcing · Qualification · Appointments · Pipeline building |
-| **Fulfillment Automation** | Onboarding · Delivery workflows · Customer success · Scaling |
-| **Bench Resource Availability** | On-demand talent · Contract developers · Project consultants |
-| **Full-Stack Builds** | Next.js · React · Node.js · Supabase · API integrations |
-| **AI Workflows** | n8n · Agentic AI · Process automation · Chatbots |
-| **Supply Chain BI** | Data dashboards · BI reporting · Supply intelligence |
-| **Browser Automation** | Puppeteer · Playwright · n8n Browser Node · Scheduled pipelines |
-
-### 🔗 Connect with SNTL84 — All Channels
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center"><a href="https://desidevloper.com/" target="_blank"><img src="https://img.shields.io/badge/🌐%20WEBSITE-DESIDEVLOPER.COM-0a0a0a?style=flat-square&logoColor=white" alt="Website"/></a></td>
-<td align="center"><a href="https://www.linkedin.com/in/sntl2784" target="_blank"><img src="https://img.shields.io/badge/in%20LINKEDIN-SNTL2784-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></td>
-<td align="center"><a href="https://wa.me/919727413309" target="_blank"><img src="https://img.shields.io/badge/📱%20WHATSAPP-CHAT%20NOW-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a></td>
-<td align="center"><a href="https://github.com/SNTL84" target="_blank"><img src="https://img.shields.io/badge/🐙%20GITHUB-SNTL84-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a></td>
-</tr>
-<tr>
-<td align="center"><a href="mailto:3goldenlotusroots@gmail.com"><img src="https://img.shields.io/badge/M%20EMAIL-3GOLDENLOTUSROOTS%40GMAIL.COM-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a></td>
-<td align="center"><a href="https://www.instagram.com/desibiztrade" target="_blank"><img src="https://img.shields.io/badge/📸%20INSTAGRAM-%40DESIBIZTRADE-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a></td>
-<td align="center"><a href="https://www.facebook.com/profile.php?id=61590405098559" target="_blank"><img src="https://img.shields.io/badge/f%20FACEBOOK-DESIBIZTRADE-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a></td>
-<td align="center"><a href="https://www.youtube.com/@SNTL84" target="_blank"><img src="https://img.shields.io/badge/▶%20YOUTUBE-%40SNTL84-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a></td>
-</tr>
-<tr>
-<td colspan="4" align="center"><a href="https://aratt.ai/user/@desidevloper" target="_blank"><img src="https://img.shields.io/badge/🤖%20ARATT.AI-%40DESIDEVLOPER-00C9A7?style=flat-square&logoColor=white" alt="Aratt.ai"/></a></td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🚦 Overall Progress — June 2026
-
-```
-Phase 1 · Planning & Setup          ████████░░  75% ✅ In Progress
-Phase 2 · Design & Branding         ██░░░░░░░░  20% 🔄 Started
-Phase 3 · Development               ░░░░░░░░░░   0% 📅 Upcoming
-Phase 4 · Testing & QA              ░░░░░░░░░░   0% 📅 Upcoming
-Phase 5 · Launch & SEO              ░░░░░░░░░░   0% 📅 Upcoming
-Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Planned 2027
-```
-
-> 📋 **Full task tracker:** [`Phase_Detail_Tracker.md`](./sprint-sheets/Phase_Detail_Tracker.md)
-
----
-
-## 🔆 Latest Activity Log — July 2026
-
-> All commits tracked on [`main` branch](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/commits/main)
-
-| Date (IST) | Activity | Commit |
-|---|---|---|
-| **26 Jul 2026** | 🏷️ Renamed MetroMate Real Estate → MetroMate Performance Marketing Services in Agentic AI table; added Swiggy & Zomato logos in Case Study delivery row | latest |
-| **22 Jul 2026** | 🧹 Repo cleanup — deleted 10 root artifacts, fixed all image filenames (spaces → hyphens), updated .gitignore, renamed duplicate Copy files in assets | — |
-| **23 Jun 2026** | 📣 MetroMate Digital Marketing Services added — Section 9 in Visual Gallery · Phase 3 Preview updated with Digital Marketing pipeline | — |
-| **13 Jun 2026** | 📸 Visual Service Gallery updated — 13 assets wired in order: Umbrella Brand → LGS → 3-in-1 → Tax Consultation → Recruitment → FMCG Franchise → Franchise Hunt → Real Estate (Sale/Rent/Banner/Badge) | — |
-| **12 Jun 2026** | 👨‍💻 Developer Reference section added to README — role-based reading guide, tech stack, 21-day sprint overview | — |
-| **05 Jun 2026** | 🔗 Handles: unified visual strip — all 9 channels, HTML table badge style, top + connect + footer synced | — |
-
----
-
-## 🗂️ Repository File Index
-
-| File / Folder | Type | Description | Status |
-|---|---|---|---|
-| [`reference/`](./reference/) | 📁 **Dev Docs** | **Backend & Frontend developer reference — SQL schema, implementation guide, architecture, 21-day sprint** | ✅ **NEW** |
-| [`reference/MVP_Implementation_Guide.md`](./reference/MVP_Implementation_Guide.md) | 📄 MD | Complete technical spec — 11 DB tables, RLS, push notifications, 6 code patterns | ✅ Live |
-| [`reference/QUICK_REFERENCE.md`](./reference/QUICK_REFERENCE.md) | 📄 MD | Architecture diagram, tech stack, API routes, deployment checklist | ✅ Live |
-| [`reference/EXECUTIVE_SUMMARY.md`](./reference/EXECUTIVE_SUMMARY.md) | 📄 MD | Project overview, 21-day action plan, cost analysis, success criteria | ✅ Live |
-| [`reference/Tragad_Soni_MVP_Depth_Reference.md`](./reference/Tragad_Soni_MVP_Depth_Reference.md) | 📄 MD | 8-section structured reference — repos, DB schema, timeline, team assignments | ✅ Live |
-| [`assets/`](./assets) | 📁 Dir | **Brand images** — umbrella brand, LGS, 3-in-1 service, tax consultation, recruitment, FMCG franchise, franchise hunt, real estate (sale, rent, banner, badge), digital marketing | ✅ Gallery Live |
-| [`Family-Reg-V1-Final.html`](./Family-Reg-V1-Final.html) | 📝 HTML | Live Family Registration Form — Head, Spouse, Children, Address, WhatsApp Submit | ✅ Live |
-| [`Tragad-Soni-Roadmap-v3.html`](./Tragad-Soni-Roadmap-v3.html) | 🗺️ HTML | Interactive Roadmap v3 — dark mode, navigation & download PNG | ✅ Live |
-| [`Tragad-Soni-Roadmap-v2.html`](./Tragad-Soni-Roadmap-v2.html) | 🗺️ HTML | Roadmap v2 — tabbed UI, interactive mindmap (reference archive) | 📦 Archive |
-| [`Tragad_Soni_Website_Roadmap_Milan_SNTL84.xlsx`](./Tragad_Soni_Website_Roadmap_Milan_SNTL84.xlsx) | 📊 Excel | Full roadmap, feature planning & milestone tracker (14 sprint sub-sheets) | ✅ Active |
-| [`MetroMate/`](./MetroMate/) | 📁 Dir | MetroMate B2B & B2C — Supplier Registration Form, services config, README | ✅ Live |
-| [`MetroMate/services/MetroMate_services_v4.csv`](./MetroMate/services/MetroMate_services_v4.csv) | 📊 CSV | **203 services** — B2B, B2C, Both · Categories, Sub-Categories, Keywords | ✅ Latest |
-| [`sprint-sheets/`](./sprint-sheets) | 📁 Dir | 14 individual sprint & section Markdown sheets | 🔄 Active |
-| [`backend-architecture-study/`](./backend-architecture-study) | 📁 Dir | Backend architecture research & tech stack documentation | 🔄 Active |
-
----
-
-## 🏗️ MetroMate Services — B2B · B2C · Real Estate
-
-> Full service list: [`MetroMate_services_v4.csv`](./MetroMate/services/MetroMate_services_v4.csv) · **203 active service lines**
-
-| Segment | Categories | Count |
-|---|---|---|
-| **B2C** | Home Services · Healthcare · Retail · Lifestyle · Education | 110+ |
-| **B2B** | IT · Staffing · Legal · Digital Marketing · Finance · Supply Chain | 70+ |
-| **Real Estate** | Buy · Sell · Rent · List · Find Property | 23+ |
-
----
-
-## 👨‍👩‍👧 Tragad Soni Family Registry Form
-
-> Live HTML Form — captures family head, spouse, children, contact details and submits directly via WhatsApp.
-
-- 📝 **File:** [`Family-Reg-V1-Final.html`](./Family-Reg-V1-Final.html)
-- 🎯 **Purpose:** Digital census for the Tragad Soni community — lineage documentation & directory
-- 📲 **Submission:** WhatsApp-native — data goes directly to community admin
-- 🌍 **Coverage:** Surat · Vadodara · Rajkot · Mumbai · Diaspora worldwide
-
----
-
-## 🗺️ Interactive Roadmap
-
-> Version 3 is the flagship — dark mode, download PNG, full navigation.
-
-| Version | File | Features | Status |
-|---|---|---|---|
-| **v3** ⭐ | [`Tragad-Soni-Roadmap-v3.html`](./Tragad-Soni-Roadmap-v3.html) | Dark mode · PNG export · Full navigation | ✅ Live |
-| v2 | [`Tragad-Soni-Roadmap-v2.html`](./Tragad-Soni-Roadmap-v2.html) | Tabbed UI · Interactive mindmap | 📦 Archive |
-
----
-
-## 🛠️ Tech Stack
-
-| Layer | Technology |
-|---|---|
-| **Frontend** | HTML5 · CSS3 · Vanilla JS · Responsive Design |
-| **Forms** | Native HTML Forms → WhatsApp API submission |
-| **Hosting** | GitHub Pages · Vercel · Hostinger |
-| **Automation** | n8n · Puppeteer · Playwright · Google Sheets API |
-| **AI Layer** | Claude AI · GPT · Aratt.ai · Prompt Engineering |
-| **CRM** | Google Sheets · WhatsApp Business API |
-| **Analytics** | GitHub Insights · Google Analytics (planned) |
-| **Version Control** | Git · GitHub · Branch strategy |
-
----
-
-## 🌐 SNTL84 Connection Node Map
-
-```text
-                        ┌──────────────────────┐
-                        │    SNTL84 · MILAN     │
-                        │   Surat, Gujarat, IN  │
-                        └──────────┬───────────┘
-                                   │
-          ┌────────────────────────┼────────────────────────┐
-          │                        │                        │
-          ▼                        ▼                        ▼
-  ┌───────────────┐      ┌──────────────────┐     ┌────────────────┐
-  │  🌐 DIGITAL   │      │  🤝 COMMUNITY    │     │  🏢 SERVICES   │
-  │               │      │                  │     │                │
-  │ desidevloper  │      │  Tragad Soni     │     │ MetroMate      │
-  │   .com        │      │  Heritage Plat.  │     │ B2B · B2C      │
-  │ github/SNTL84 │      │  Family Registry │     │ Real Estate    │
-  │ aratt.ai      │      │  Trade Directory │     │ Lead Gen       │
-  │ @desidevloper │      │  Event Calendar  │     │ Recruitment    │
-  └───────┬───────┘      └────────┬─────────┘     └───────┬────────┘
-          │                       │                        │
-          └───────────────────────┼────────────────────────┘
-                                  │
-          ┌───────────────────────┼────────────────────────┐
-          │                       │                        │
-          ▼                       ▼                        ▼
-  ┌───────────────┐     ┌──────────────────┐    ┌─────────────────┐
-  │  📱 SOCIAL    │     │  ⚙️ AUTOMATION   │    │  📊 ANALYTICS   │
-  │               │     │                  │    │                 │
-  │ @desibiztrade │     │ n8n workflows    │    │ Google Sheets   │
-  │ Instagram     │     │ Puppeteer        │    │ GitHub Insights │
-  │ Facebook      │     │ Playwright       │    │ WhatsApp Stats  │
-  │ @SNTL84 YT    │     │ Google Forms API │    │ BI Dashboards   │
-  │ LinkedIn      │     │ Webhooks / CRM   │    │ Lead Pipeline   │
-  │ WhatsApp      │     │ Scheduled tasks  │    │ SEO Tracking    │
-  └───────────────┘     └──────────────────┘    └─────────────────┘
-```
+> 📢 **MetroMate Digital Marketing Services** — SEO · Social Media · Paid Ads · Content · Analytics.
 
 ---
 
@@ -635,7 +304,7 @@ Phase 6 · Mobile App / PWA          ░░░░░░░░░░   0% 🔭 Pl
 
 [![GitHub stars](https://img.shields.io/github/stars/SNTL84/Tragad-Soni-Website-Roadmap?style=social)](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/SNTL84/Tragad-Soni-Website-Roadmap?style=social)](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/network/members)
-[![GitHub watchers](https://img.shields.io/github/watchers/SNTL84/Tragad-Soni-Website-Roadmap?style=social)](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/watchers)
+[![GitHub watchers](https://img.shields.io/github/watchers/SNTL84/Tragad-Soni-Website-Roadmap/watchers)](https://github.com/SNTL84/Tragad-Soni-Website-Roadmap/watchers)
 
 </div>
 
@@ -687,8 +356,6 @@ Project Undertaken
 🎓 Learning & Project Assignment Resource for Visitors & Prospective Clients
 ```
 
-
-
 ## 📘 Facebook Page Reference Directory
 
 These Facebook page references are maintained for future MetroMate / DesiDevloper website integration and social distribution. The page name, purpose and link should be treated as the current reference set.
@@ -707,6 +374,7 @@ These Facebook page references are maintained for future MetroMate / DesiDevlope
 | 10 | Mbs | https://www.facebook.com/1371971029331961 | Business Page |
 | 11 | Mads Direct | https://www.facebook.com/1379825511874679 | Direct Services |
 | 12 | Mad-icare | https://www.facebook.com/1390724564114913 | Healthcare / Care Services |
+
 
 # ❓ Frequently Asked Questions — Metromate-Website-Roadmap
 
@@ -778,196 +446,126 @@ The community website itself is therefore still in planning and design, not yet 
 | `MetroMate Subscription/` | Subscription-related material for MetroMate |
 | `sprint-sheets/` | 14 sprint and section Markdown sheets |
 | `backend-architecture-study/` | Backend research and tech stack notes |
-| `assets/` | Brand images used in the README gallery |
-| `integrations/pplx-gold-tracker/` | Gold tracker integration |
 
-**9. What are the key files at the root?**
+**9. What is `MetroMate/`?**
+It is the B2B/B2C service engine embedded in the repository, including supplier registration and service configuration.
 
-- `README.md` — the main documentation.
-- `Family-Reg-V1-Final.html` — the Family Registry form.
-- `Tragad-Soni-Roadmap-v3.html` — the flagship interactive roadmap.
-- `Tragad-Soni-Roadmap-v2.html` — the archived earlier roadmap.
-- `Tragad_Soni_Website_Roadmap_Milan_SNTL84.xlsx` — the full roadmap and milestone tracker.
-- `LICENSE` and `.gitignore`.
+**10. Why are there multiple HTML files?**
+They represent different roadmap and registration prototypes. The roadmap keeps working versions and earlier iterations together for comparison and continuity.
 
-**10. What are the `.b64`, `.js` and `.json` files at the root (for example `encode_xlsx.js`, `upload_github.js`, `xlsx_clean.b64`)?**
-They are helper scripts and intermediate files used to encode the Excel roadmap into Base64 and upload it to GitHub through the API. They are not part of the website itself.
+**11. Where are the MetroMate service definitions?**
+The main service catalogue is in `MetroMate/services/MetroMate_services_v4.csv`, referenced from the README and roadmap.
 
-**11. Where do I find the 203-service list?**
-In [`MetroMate/services/MetroMate_services_v4.csv`](MetroMate/services/MetroMate_services_v4.csv). It covers B2B, B2C and "Both" services, with categories, sub-categories and keywords.
-
-**12. What is in the Excel roadmap?**
-A full roadmap, feature planning and milestone tracker, organised into 14 sprint sub-sheets.
+**12. Can this repository be used by another developer?**
+Yes. Start with `reference/00_START_HERE.txt`, then follow the role-based reading guide above. The roadmap and reference documents are intended to make handoff practical.
 
 ---
 
 ## C. Reading Guide for Contributors
 
-**13. I'm new. Where do I start?**
-Read [`reference/00_START_HERE.txt`](reference/00_START_HERE.txt), then [`reference/EXECUTIVE_SUMMARY.md`](reference/EXECUTIVE_SUMMARY.md).
+**13. Where should a new developer start?**
+Start with `reference/00_START_HERE.txt`, then read `reference/EXECUTIVE_SUMMARY.md`.
 
-**14. Which file should each role read first?**
+**14. Where is the technical implementation detail?**
+`reference/MVP_Implementation_Guide.md` contains the primary technical specification, including schema, RLS, notifications and implementation patterns.
 
-| Role | Start with | Then read |
-|---|---|---|
-| New to project | `00_START_HERE.txt` | `EXECUTIVE_SUMMARY.md` |
-| Backend developer | `MVP_Implementation_Guide.md` | `Tragad_Soni_MVP_Depth_Reference.md` |
-| Frontend developer | `QUICK_REFERENCE.md` | `MVP_Implementation_Guide.md` |
-| Project manager / lead | `EXECUTIVE_SUMMARY.md` | `Tragad_Soni_MVP_Depth_Reference.md` |
-| QA / testing | `QUICK_REFERENCE.md` (Deployment Checklist) | `MVP_Implementation_Guide.md` (Phase 6) |
+**15. Where is the architecture overview?**
+Use `reference/QUICK_REFERENCE.md` for the architecture diagram, API routes, deployment checklist and common pitfalls.
 
-All files are in the [`reference/`](reference/) folder.
-
-**15. What does each reference document contain?**
-
-- `00_START_HERE.txt` — overview, quick answers, contact.
-- `EXECUTIVE_SUMMARY.md` — four key questions answered, the 21-day plan, success criteria and cost analysis.
-- `MVP_Implementation_Guide.md` — the primary technical spec: full SQL schema, 11 DB tables, RLS, push notifications and 6 code patterns.
-- `QUICK_REFERENCE.md` — architecture diagram, tech stack, API routes, deployment checklist and pitfalls.
-- `Tragad_Soni_MVP_Depth_Reference.md` — an 8-section reference covering repos, schema, timeline, cost and team assignments.
-- `INDEX.md` — the document map and recommended reading order.
-
-**16. How do I contribute?**
-PRs are welcome. Read the reference docs for your role, then open a pull request. For scope questions, contact the project lead on WhatsApp.
+**16. How long is the initial implementation plan?**
+The documented MVP plan is 21 days, divided into foundation, feature and launch weeks.
 
 ---
 
 ## D. Technical Architecture
 
-**17. What is the planned MVP tech stack?**
+**17. What is the planned frontend?**
+Next.js 14 with Tailwind CSS, designed for responsive community and directory experiences.
 
-| Layer | Technology |
-|---|---|
-| Frontend | Next.js 14 + Tailwind CSS, deployed on Vercel |
-| Backend | Supabase (PostgreSQL, Auth, Realtime, Edge Functions) |
-| Push notifications | OneSignal |
-| WhatsApp | Twilio Business API |
-| Database | 11 tables, 24 indexes, Row-Level Security |
+**18. What is the planned backend?**
+Supabase/PostgreSQL with Auth, Realtime and Edge Functions.
 
-**18. Why does the README show two different stacks?**
-There are two stages. The *MVP plan* in the Developer Reference uses Next.js and Supabase. The *current working stack* (the README's Tech Stack table) is HTML5, CSS3 and vanilla JS, with native forms submitting via WhatsApp, hosted on GitHub Pages, Vercel or Hostinger. The HTML forms and roadmap pages are today's prototypes, and the Next.js/Supabase build is the Phase 3 target.
+**19. How are notifications handled?**
+The documented architecture uses OneSignal for push notifications and WhatsApp Business API/Twilio for messaging workflows.
 
-**19. What will the MVP cost to run?**
-About **$100 per month at 5,000 users**, per the README's estimate.
+**20. What is the database plan?**
+The current reference architecture describes 11 tables, indexes and Row-Level Security policies for controlled access.
 
-**20. How long will the MVP take?**
-**21 days**, in three weeks:
+**21. What automation tools are planned?**
+n8n, Puppeteer, Playwright, Google Sheets API, Forms API, webhooks and scheduled tasks are included in the automation layer.
 
-- **Week 1 (Days 1–7):** foundation, DB schema, OAuth, directory and workspace pages.
-- **Week 2 (Days 8–14):** push notifications, 2-level bot, WhatsApp forms and ads.
-- **Week 3 (Days 15–21):** optimisation, security audit, load testing and deploy.
+**22. Is analytics included?**
+Yes. GitHub Insights and planned Google Analytics are referenced, alongside lead-pipeline and WhatsApp measurement.
 
-**21. What AI tools does the project use?**
-Claude AI, GPT and Aratt.ai, along with prompt engineering. A community FAQ bot with WhatsApp integration is planned as a Phase 3 medium-priority feature.
-
-**22. What is the Browser Automation layer?**
-A shared layer that connects all four growth node layers. It uses n8n, Puppeteer, Playwright, Google Sheets and webhooks, and covers:
-
-- scheduled posting to Instagram and Facebook,
-- scraping exhibition intel into a jewellery event calendar,
-- lead form submission, auto-qualification and WhatsApp alerts,
-- MetroMate booking forms to Google Sheets and operator notification,
-- property leads into a WhatsApp pipeline,
-- directory updates that trigger a site rebuild,
-- auto-generated Excel reports for FMCG and gold event data.
-
-**23. What are the four layers of the SNTL84 Growth Infrastructure Node?**
-
-1. **Community Platform** — the Tragad Soni website.
-2. **Service Engine** — SNTL84 workflows, MetroMate, Performance Marketing and automation.
-3. **Social Distribution** — Instagram, Facebook, LinkedIn, YouTube, WhatsApp and Aratt.ai.
-4. **MVP Hosting & Promo** — desidevloper.com, Hostinger, Vercel and GitHub Pages.
+**23. Can the architecture evolve?**
+Yes. The repository is a roadmap, so implementation choices can be refined as requirements, scale and operational constraints become clearer.
 
 ---
 
 ## E. Tragad Soni Community Features
 
-**24. What is the Family Registry Form?**
-[`Family-Reg-V1-Final.html`](Family-Reg-V1-Final.html) is a live HTML form that captures the family head, spouse, children, address and contact details. It acts as a digital census for lineage documentation and the directory.
+**24. What community functions are planned?**
+Family registry, lineage, business/trade discovery, matrimony, education, healthcare and community events are among the planned capabilities.
 
-**25. How is registration data submitted?**
-Through WhatsApp. The form sends data directly to the community admin, so no backend is needed at this stage.
+**25. What is the family registry?**
+A structured member and family directory intended to preserve lineage information while applying appropriate privacy controls.
 
-**26. What area does the registry cover?**
-Surat, Vadodara, Rajkot, Mumbai and the diaspora worldwide.
+**26. What is the trade directory?**
+A searchable business directory for community businesses, particularly goldsmith, jewellery and related trade activity.
 
-**27. What features are planned for Phase 3?**
+**27. Will the platform support events?**
+Yes. An event calendar is planned for community events, festivals, exhibitions and related activities.
 
-| Feature | Priority |
-|---|---|
-| Community website (responsive heritage and trade portal) | 🔴 High |
-| Family directory with lineage tree | 🔴 High |
-| Trade directory (goldsmith and jewellery listings, SEO optimised) | 🔴 High |
-| Matrimony module with privacy controls | 🟡 Medium |
-| Event calendar | 🟡 Medium |
-| AI assistant (FAQ bot and WhatsApp) | 🟡 Medium |
-| Property lead pipeline (enquiry → WhatsApp alert → CRM) | 🟡 Medium |
-| Digital Marketing Services | 🟡 Medium |
-| Mobile PWA | 🟢 Phase 6 |
-
-**28. Is member data kept private?**
-The README lists privacy controls for the matrimony module and Row-Level Security in the database design. A detailed privacy policy and consent handling are not yet documented, so they should be defined before launch.
+**28. Will there be an AI assistant?**
+Yes. The roadmap includes a community FAQ assistant with potential WhatsApp integration.
 
 ---
 
 ## F. Interactive Roadmap
 
-**29. Which roadmap version should I use?**
-**v3** ([`Tragad-Soni-Roadmap-v3.html`](Tragad-Soni-Roadmap-v3.html)) is the flagship, with dark mode, PNG export and full navigation. v2 ([`Tragad-Soni-Roadmap-v2.html`](Tragad-Soni-Roadmap-v2.html)) is kept as an archive, with a tabbed UI and interactive mindmap.
+**29. What is the flagship roadmap version?**
+Version 3 is described as the flagship interactive roadmap, with dark mode, PNG export and full navigation.
 
-**30. How do I view the roadmap pages?**
-Open the HTML files in a browser, or serve them through GitHub Pages or Vercel. They are static files and need no build step.
+**30. Are older roadmap versions retained?**
+Yes. v2 is retained as an archive for comparison and continuity.
 
 ---
 
 ## G. MetroMate Services
 
 **31. What is MetroMate?**
-A B2B and B2C services platform, now part of SNTL 84 Digital Marketing Services. Its tagline is "One Call. All Solutions."
+MetroMate is the B2B/B2C service engine within the wider SNTL84 ecosystem, covering business discovery, lead generation, service fulfilment and related growth services.
 
-**32. How many services does it list, and how are they split?**
-203 services:
+**32. What does MetroMate Performance Marketing Services cover?**
+It covers digital marketing, lead generation, paid campaigns, content, social media, analytics and associated business-growth workflows.
 
-| Segment | Categories | Count |
-|---|---|---|
-| B2C | Home services, healthcare, retail, lifestyle, education | 110+ |
-| B2B | IT, staffing, legal, digital marketing, finance, supply chain | 70+ |
-| Real estate | Buy, sell, rent, list, find property | 23+ |
+**33. What real-estate services are represented?**
+The roadmap includes residential and commercial property sale, purchase, rental and listing/marketing support.
 
-**33. What is MetroMate Performance Marketing Services?**
-The dedicated property vertical of the SNTL84 ecosystem, with the tagline "Find. Connect. Close." It connects buyers, sellers, tenants and investors across Adajan, Pal, Palanpur and Jangirpura in Surat.
+**34. What other service categories are represented?**
+The repository includes tax consultation, placement/recruitment, FMCG/franchise opportunities, catering and other B2B/B2C services.
 
-**34. What are the listed starting prices?**
+**35. How does the lead pipeline work?**
+The intended flow is enquiry → WhatsApp alert → CRM/lead pipeline → follow-up → conversion.
 
-| Type | For rent (from) | For sale (from) |
-|---|---|---|
-| 1 BHK | ₹8,000 | ₹15,00,000 |
-| 2 BHK | ₹15,000 | ₹20,00,000 |
-| 3 BHK | ₹18,000 | ₹40,00,000 |
+**36. How does social distribution fit into the system?**
+Social channels are treated as distribution and discovery layers that amplify live projects, service offers and case studies.
 
-These are "starting from" figures, not live listings.
-
-**35. Why does the README say "Performance Marketing Services" for a property business?**
-On 26 July 2026 the "MetroMate Real Estate" name was changed to "MetroMate Performance Marketing Services" in the Agentic AI table. Some image filenames and alt text still use the older "Real Estate" wording.
-
-**36. What other services are showcased in the gallery?**
-Lead Generation System, the 3-in-1 service bundle, Gujarati tax consultation (GST, ITR), placement and recruitment (IT and non-IT), FMCG franchise opportunities, Franchise Hunt, and Digital Marketing (strategy, SEO, social, paid ads, analytics).
-
-**37. What does the SNTL84 service portfolio include beyond MetroMate?**
-Lead generation, fulfilment automation, bench resource availability, full-stack builds, AI workflows, supply chain BI and browser automation.
+**37. How are the 12 Facebook pages connected to MetroMate?**
+The current Facebook reference directory contains 12 pages covering real estate, personal branding, MetroMate, online services, technology, catering, business pages, direct services and healthcare/care services. These are maintained as future website cross-linking and social-distribution references and should be verified before production integration.
 
 ---
 
 ## H. Case Study and Proof of Work
 
 **38. What is the flagship case study?**
-The Mahadev Restaurant new branch launch in Pal, Surat, in its own repo: [`metromate-mahadev-restaurant-pal-surat-case-study`](https://github.com/SNTL84/metromate-mahadev-restaurant-pal-surat-case-study). It went from ground zero to a fully operational, digitally listed restaurant in **30 days**.
+The Mahadev Restaurant — New Branch Launch (Pal, Surat) case study demonstrates hands-on business setup, POS, delivery onboarding, vendor coordination, social growth and operations documentation.
 
-**39. What skills did it demonstrate?**
-Billing and POS deployment, CCTV planning (Dahua and Hikvision), Zomato and Swiggy onboarding with pricing formulas, UPI and card terminal setup (Paytm, PhonePe, Google Pay), vendor billing coordination, social media setup, and bilingual staff scheduling plus an ops manual.
+**39. Why are case studies linked from this roadmap?**
+They turn the roadmap into a living proof-of-work system, allowing prospective clients and learners to inspect actual project structures and outcomes.
 
-**40. What is the "Live Update & Cross-Post Workflow"?**
-Each undertaken project gets a repo created or updated and cross-linked here. It is then posted to Facebook, Instagram and LinkedIn, and finally offered as learning and project-assignment material for visitors and prospective clients.
+**40. What should be used as proof?**
+Only verified project records, analytics, screenshots, platform data, client-approved material and auditable outcomes should be presented as performance evidence.
 
 **41. How are the MetroMate and Mads Facebook pages used in this roadmap?**
 The current reference set contains 12 Facebook pages covering real estate, the personal brand, MetroMate, Mads Online, Mad-Tech, catering, business pages, direct services and healthcare/care services. These pages provide future website cross-linking, social distribution and reference points for service-specific discovery. Pages and links should be verified before each production integration.
@@ -976,52 +574,46 @@ The current reference set contains 12 Facebook pages covering real estate, the p
 
 ## I. Maintenance and Support
 
-**42. Where can I see recent changes?**
-The README's Latest Activity Log and the [`main` branch commit history](https://github.com/SNTL84/Metromate-Website-Roadmap/commits/main).
+**42. How should roadmap changes be documented?**
+Update the relevant section, preserve existing working material, and add a concise activity-log entry so contributors can understand what changed.
 
-**43. How do I report an issue or ask a question?**
-Use the repo's [Issues](https://github.com/SNTL84/Metromate-Website-Roadmap/issues) or [Discussions](https://github.com/SNTL84/Metromate-Website-Roadmap/discussions) tabs. For scope questions, message the project lead on [WhatsApp](https://wa.me/919727413309).
+**43. How should social links be maintained?**
+Use the current reference directory as the source list, verify destination URLs periodically, and update website integrations only after confirming the target page.
 
-**44. How do I contact the team?**
+**44. What is the maintenance principle?**
+Make focused changes, preserve working assets, keep documentation synchronized with implementation, and avoid unnecessary repository churn.
 
-- Website: [desidevloper.com](https://desidevloper.com/)
-- LinkedIn: [sntl2784](https://www.linkedin.com/in/sntl2784)
-- Instagram: [@desibiztrade](https://www.instagram.com/desibiztrade)
-- YouTube: [@SNTL84](https://www.youtube.com/@SNTL84)
-- Aratt.ai: [@desidevloper](https://aratt.ai/user/@desidevloper)
-- Email and Facebook: see the contact table in the README.
-
-**45. Are there known inconsistencies in the documentation?**
-A few small ones are still open:
-
-- Several badges and links still point to the old repo name `Tragad-Soni-Website-Roadmap`.
-- The Instagram handle appears as both `desibiztrade` and `desizbiztrade` (in the repo's About link).
-- "Palangpur" in the README is the area usually spelled "Palanpur".
-- "Real Estate" and "Performance Marketing Services" are used interchangeably in places.
+**45. How can a client or contributor request support?**
+Use the repository issues/PR workflow or contact the project lead through the WhatsApp contact listed in the README.
 
 ---
 
-*Last updated: October 2026 · Maintained by [SNTL84](https://github.com/SNTL84)*
+## 🛠️ Service positioning
 
-This ensures every visitor and prospective client can see **live, verifiable proof of work** — not just claims — and use these repos as **real learning/project-assignment material**.
+**Metro Ads Services / DesiDevloper** supports:
 
-### 💼 Lucrative Project Potential — Trade Directory & Lead Generation Reuse
+- Performance Marketing Service
+- Fulfillment Automation
+- Bench Resource Availability
+- Full-Stack Builds
+- AI Workflows
+- Supply Chain Business Intelligence
+- Community & Event Growth Systems
+- LLM/GEO Visibility Tracking
 
-> Any project undertaken in this roadmap that proves sufficiently **lucrative and viable** may be repurposed and folded into the **Trade Directory** and **Lead Generation** services under the SNTL84 / MetroMate umbrella — extending its reach as a monetizable, reusable business asset rather than a one-off build.
+---
 
-- 📈 Successful project patterns are evaluated for reuse across other communities & verticals within the Trade Directory
-- 🔁 Proven components feed directly into MetroMate's Lead Generation Service pipeline
-- 🧪 Prospective **Facebook Pages** are created purely for **live observation** — testing positioning, engagement & outreach
-- 🔗 Their links are **updated periodically** to verify working status, live operation, and continued relevance for better business opportunities
-- ✅ Only patterns that demonstrate real-world traction graduate from observation into active service offerings
+## 🔐 Governance
 
+This repository is designed for professional client delivery. Protect personal/payment information, validate links before publication, obtain client approval for public assets, and publish performance evidence only when it can be verified.
+
+---
 
 <div align="center">
 
-[![Repo Stars](https://img.shields.io/github/stars/SNTL84/metromate-mahadev-restaurant-pal-surat-case-study?style=social)](https://github.com/SNTL84/metromate-mahadev-restaurant-pal-surat-case-study/stargazers) [![Repo Forks](https://img.shields.io/github/forks/SNTL84/metromate-mahadev-restaurant-pal-surat-case-study?style=social)](https://github.com/SNTL84/metromate-mahadev-restaurant-pal-surat-case-study/network/members) [![Repo Watchers](https://img.shields.io/github/watchers/SNTL84/metromate-mahadev-restaurant-pal-surat-case-study?style=social)](https://github.com/SNTL84/metromate-mahadev-restaurant-pal-surat-case-study/watchers)
+**Collab What’s Costing You Time.**  
+**SNTL 84 · Agentic AI Workflow Professional**
 
-[![Follow SNTL84](https://img.shields.io/github/followers/SNTL84?label=Follow%20%40SNTL84&style=social)](https://github.com/SNTL84)
+🌐 [desidevloper.com](https://desidevloper.com) · 💬 [wa.me/919727413309](https://wa.me/919727413309) · 💼 [linkedin.com/in/sntl2784](https://linkedin.com/in/sntl2784) · 💻 [github.com/SNTL84](https://github.com/SNTL84) · 📸 [instagram.com/desibiztrade](https://www.instagram.com/desibiztrade)
 
 </div>
-
-> 🤝 **Collab What's Costing You Time**
